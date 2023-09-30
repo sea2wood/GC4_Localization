@@ -34,11 +34,11 @@
   </StringTable>
   <StringTable>
     <Label>PRIORITIZE_BUTTON</Label>
-    <String>우선 순위를 두다</String>
+    <String>우선 순위 설정</String>
   </StringTable>
   <StringTable>
     <Label>QUEUED_MODULES_LABEL</Label>
-    <String>대기 중인 모듈</String>
+    <String>대기중인 모듈</String>
   </StringTable>
   <StringTable>
     <Label>BROWSEBUTTON</Label>
@@ -74,11 +74,11 @@
   </StringTable>
   <StringTable>
     <Label>Factions_Tooltip</Label>
-    <String>당신의 문명 내 다양한 집단들과 협력할 지도자들을 배정하여 그들의 호의와 능력을 활용하도록 하십시오.</String>
+    <String>다양한 문명 세력의 능력을 배우기 위해 호의를 베풀 지도자를 배정하십시오(의역)</String>
   </StringTable>
   <StringTable>
     <Label>Coming_Soon_Beta_2</Label>
-    <String>[COLOR=UIDefaultHot]당신의 문명의 법률과 정책을 관리하세요.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]당신의 문명에 법률과 정책으로 통솔하세요.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>POPULATIONUNITS</Label>
@@ -86,7 +86,7 @@
   </StringTable>
   <StringTable>
     <Label>Rushed</Label>
-    <String>급행</String>
+    <String>돌진</String>
   </StringTable>
   <StringTable>
     <Label>None</Label>
@@ -94,7 +94,7 @@
   </StringTable>
   <StringTable>
     <Label>TURN</Label>
-    <String>월</String>
+    <String>턴(주기)</String>
   </StringTable>
   <StringTable>
     <Label>ACCEPTBUTTON</Label>
@@ -130,7 +130,7 @@
   </StringTable>
   <StringTable>
     <Label>CONTINUE_PLAYING_LABEL</Label>
-    <String>계속 플레이하기</String>
+    <String>이이서 하기</String>
   </StringTable>
   <StringTable>
     <Label>BATTLE_VIEWER_TITLE</Label>
@@ -142,7 +142,7 @@
   </StringTable>
   <StringTable>
     <Label>BATTLE_VIEWER_REPLAY_TITLE</Label>
-    <String>다시 재생</String>
+    <String>다시 시작</String>
   </StringTable>
   <StringTable>
     <Label>BATTLE_VIEWER_DISABLED_MP_TOOLTIP</Label>
@@ -150,7 +150,7 @@
   </StringTable>
   <StringTable>
     <Label>BATTLE_VIEWER_SKIP_TITLE</Label>
-    <String>스킵</String>
+    <String>건너뛰기</String>
   </StringTable>
   <StringTable>
     <Label>BATTLE_VIEWER_PAUSE_TITLE</Label>
@@ -194,7 +194,7 @@
   </StringTable>
   <StringTable>
     <Label>LOGINTOOLTIP</Label>
-    <String>멀티플레이어, 업적 및 모드 지원을 활성화하려면 로그인하세요!</String>
+    <String>멀티플레이어, 업적 및 모드 지원을 활성화하기 위해 로그인하세요!</String>
   </StringTable>
   <StringTable>
     <Label>METAVERSELABEL</Label>
@@ -206,11 +206,11 @@
   </StringTable>
   <StringTable>
     <Label>METAVERSE_MATCH_HISTORY_BUTTON</Label>
-    <String>매치 히스토리</String>
+    <String>매치 요약</String>
   </StringTable>
   <StringTable>
     <Label>METAVERSE_LADDERS_BUTTON</Label>
-    <String>사다리</String>
+    <String>LADDERS</String>
   </StringTable>
   <StringTable>
     <Label>METAVERSE_GALAXY_BUTTON</Label>
@@ -230,11 +230,11 @@
   </StringTable>
   <StringTable>
     <Label>LOADMAPLABEL</Label>
-    <String>맵 로드</String>
+    <String>지도 불러오기</String>
   </StringTable>
   <StringTable>
     <Label>SHIPDESIGNERLABEL</Label>
-    <String>선박 디자이너</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>OPTIONSLABEL</Label>
@@ -242,59 +242,36 @@
   </StringTable>
   <StringTable>
     <Label>RELOADMODLABEL</Label>
-    <String>모드 다시 동기화</String>
+    <String>모드 동기화</String>
   </StringTable>
   <StringTable>
     <Label>EXITLABEL</Label>
-    <String>출구</String>
+    <String>나가기</String>
   </StringTable>
   <StringTable>
     <Label>EXITLABEL_LOWERCAP</Label>
     <String>게임 종료</String>
-  </StringTable>
-  <StringTable>
-    <Label>FREEDLCLABEL</Label>
-    <String>무료 DLC!</String>
-  </StringTable>
-  <StringTable>
-    <Label>GETREWARDLABEL</Label>
-    <String>보상 받기</String>
-  </StringTable>
-  <StringTable>
-    <Label>DLCAVAILABLELABEL</Label>
-    <String>더 많은 DLC 받기</String>
-  </StringTable>
-  <StringTable>
-    <Label>VERSIONSTRINGFORMAT</Label>
-    <String>버전 {BUILDVERSIONSTRING}</String>
-  </StringTable>
-  <StringTable>
-    <Label>GAME_SETTINGS_LABEL</Label>
-    <String>갤럭시 커스터마이즈</String>
-  </StringTable>
-  <StringTable>
-    <Label>GAMESETTINGSTITLE</Label>
-    <String>갤럭시 커스터마이즈</String>
+  </Stri정</String>
   </StringTable>
   <StringTable>
     <Label>CIVILIZATIONSETUPTITLE</Label>
-    <String>선택하실 문명을 선택하세요</String>
+    <String>원하는 문명을 선택하세요</String>
   </StringTable>
   <StringTable>
     <Label>Civ_locked_For_EA_Tooltip</Label>
-    <String>어릴리 액세스에 잠김</String>
+    <String>Early Access로 잠김</String>
   </StringTable>
   <StringTable>
     <Label>Available_Civilizations</Label>
-    <String>사용 가능한 문명</String>
+    <String>이용 가능한 문명</String>
   </StringTable>
   <StringTable>
     <Label>SHOW_FACTION_IN_MP_OPTION_LABEL</Label>
-    <String>멀티플레이어에서 팩션 보기</String>
+    <String>멀티플레이어의 진영</String>
   </StringTable>
   <StringTable>
     <Label>ALLOW_RANDOM_FACTION_OPTION_LABEL</Label>
-    <String>무작위 상대로 사용 가능</String>
+    <String>무작위 상대 허용</String>
   </StringTable>
   <StringTable>
     <Label>CHOOSECIV_IDEOLOGY_LABEL</Label>
@@ -310,7 +287,7 @@
   </StringTable>
   <StringTable>
     <Label>GALAXY_TYPE_LABEL</Label>
-    <String>갤럭시 커스터마이즈</String>
+    <String>은하계 설정</String>
   </StringTable>
   <StringTable>
     <Label>NUMOPPONENTSLABEL</Label>
@@ -322,7 +299,7 @@
   </StringTable>
   <StringTable>
     <Label>GALAXY_TYPE_DESCRIPTION</Label>
-    <String>갤럭시 크기와 모양 설정</String>
+    <String>은하계 크기와 모양 설정</String>
   </StringTable>
   <StringTable>
     <Label>OPPONENTINTELLIGENCELABEL</Label>
@@ -346,11 +323,11 @@
   </StringTable>
   <StringTable>
     <Label>GALAXY_OPTIONS_LABEL</Label>
-    <String>갤럭시 옵션</String>
+    <String>은하계 옵션</String>
   </StringTable>
   <StringTable>
     <Label>GALAXYDIFFICULTYLABEL</Label>
-    <String>갤럭시 난이도</String>
+    <String>은하 난이도</String>
   </StringTable>
   <StringTable>
     <Label>RANDOMEVENTSFREQUENCYLABEL</Label>
@@ -358,7 +335,7 @@
   </StringTable>
   <StringTable>
     <Label>CREATECUSTOMOPPONENTLABEL</Label>
-    <String>상대를 생성하다</String>
+    <String>다른 문명 생성</String>
   </StringTable>
   <StringTable>
     <Label>MINORRACEFREQUENCYLABEL</Label>
@@ -366,11 +343,11 @@
   </StringTable>
   <StringTable>
     <Label>HostileEntitiesLabel</Label>
-    <String>적대적인 개체들</String>
+    <String>적대적인 문명들</String>
   </StringTable>
   <StringTable>
     <Label>CIVILIZATIONLEADERLABEL</Label>
-    <String>리더</String>
+    <String>지도자</String>
   </StringTable>
   <StringTable>
     <Label>SELECTEDOPPONENTSLABEL</Label>
@@ -386,7 +363,7 @@
   </StringTable>
   <StringTable>
     <Label>STARTINGTECHLABEL</Label>
-    <String>시작 기술들</String>
+    <String>초기 기술들</String>
   </StringTable>
   <StringTable>
     <Label>CIVILIZATIONSUMMARYLABEL</Label>
@@ -394,15 +371,15 @@
   </StringTable>
   <StringTable>
     <Label>AVAILALBEOPPONENTSLABEL</Label>
-    <String>사용 가능한 상대</String>
+    <String>사용 가능한 존</String>
   </StringTable>
   <StringTable>
     <Label>Create_Galaxy_Button</Label>
-    <String>갤럭시 생성</String>
+    <String>은하계 생성</String>
   </StringTable>
   <StringTable>
     <Label>VICTORY_CONDITIONS_DESCRIPTION</Label>
-    <String>적을 어떻게 무찌르는가</String>
+    <String>어떻게 적을 무찌르는가</String>
   </StringTable>
   <StringTable>
     <Label>PLANETFREQUENCYSETTINGLABEL</Label>
@@ -414,7 +391,7 @@
   </StringTable>
   <StringTable>
     <Label>HOSTILEENTITIESFREQUENCYLABEL</Label>
-    <String>적대적인 개체들</String>
+    <String>적대적인 존재</String>
   </StringTable>
   <StringTable>
     <Label>GALAXYSETTINGSTITLE</Label>
@@ -438,7 +415,7 @@
   </StringTable>
   <StringTable>
     <Label>GETMAPSBTNLABEL</Label>
-    <String>지도 가져오기</String>
+    <String>지도 받기</String>
   </StringTable>
   <StringTable>
     <Label>UPLOADMAPSBTNLABEL</Label>
@@ -454,7 +431,7 @@
   </StringTable>
   <StringTable>
     <Label>Opponents_Slots_Dec</Label>
-    <String>갤럭시를 공유하고 싶은 상대와 잠재적인 동맹국을 선택하세요.</String>
+    <String>은하계를 공유하고 싶은 상대와 잠재적인 동맹자을 선택하세요.</String>
   </StringTable>
   <StringTable>
     <Label>GAMEPACINGLABEL</Label>
@@ -474,11 +451,11 @@
   </StringTable>
   <StringTable>
     <Label>GALAXYSECTORSIZESETTINGLABEL</Label>
-    <String>시작 섹터 크기</String>
+    <String>처음 섹터 크기</String>
   </StringTable>
   <StringTable>
     <Label>PLAYERSTARTINGLOCATIONSETTINGLABEL</Label>
-    <String>문명 근접성</String>
+    <String>문명의 근접성(문명들과의 접근성)</String>
   </StringTable>
   <StringTable>
     <Label>Standard</Label>
@@ -490,7 +467,7 @@
   </StringTable>
   <StringTable>
     <Label>STARFREQUENCYSETTINGLABEL</Label>
-    <String>스타 주파수</String>
+    <String>별 빈도</String>
   </StringTable>
   <StringTable>
     <Label>STARDENSITYSETTINGLABEL</Label>
@@ -510,7 +487,7 @@
   </StringTable>
   <StringTable>
     <Label>GALAXY_OPTIONS_DESCRIPTION</Label>
-    <String>갤럭시 메이크업 커스터마이즈</String>
+    <String>은하계 유형 설정</String>
   </StringTable>
   <StringTable>
     <Label>GALAXYTYPESETTINGLABEL</Label>
@@ -518,7 +495,7 @@
   </StringTable>
   <StringTable>
     <Label>NEBULAFREQUENCYSETTINGLABEL</Label>
-    <String>세운</String>
+    <String>성운</String>
   </StringTable>
   <StringTable>
     <Label>ADVANCED_SETTINGS_LABEL</Label>
@@ -578,31 +555,31 @@
   </StringTable>
   <StringTable>
     <Label>Conquest_Description</Label>
-    <String>적들을 짓밟고 은하계를 지배하십시오!</String>
+    <String>적들을 물리치고 은하계를 접수하십시오!(의역)</String>
   </StringTable>
   <StringTable>
     <Label>Research_Description</Label>
-    <String>최고의 기술 혁신을 해제하십시오.</String>
+    <String>최고의 기술 혁신을 이끌어 주십시오.</String>
   </StringTable>
   <StringTable>
     <Label>Alliance_Description</Label>
-    <String>외교를 사용하여 은하계에 평화를 가져오십시오.</String>
+    <String>외교를 사용하여 은하계를 평화롭게 하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>Influence_Description</Label>
-    <String>당신의 문명이 최고일 때 싸울 필요가 없습니다.</String>
+    <String>당신의 문명이 최고일 경우 전쟁이 필요없습니다.</String>
   </StringTable>
   <StringTable>
     <Label>Ascension_Description</Label>
-    <String>Ascension 크리스탈을 되찾아 더 높은 차원으로 상승하세요.</String>
+    <String>Ascension 크리스탈(승천)을 되찾아 더 높은 차원으로 상승하세요.</String>
   </StringTable>
   <StringTable>
     <Label>TurnLimit_Description</Label>
-    <String>시간이 다 되기 전에 적을 물리치세요.</String>
+    <String>제한된 시간에 적을 물리치세요.</String>
   </StringTable>
   <StringTable>
     <Label>Prestige_Description</Label>
-    <String>은하계에서 가장 위대한 제국을 건설하십시오.</String>
+    <String>은하계에서 가장 위대한 세력으로 분발하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>AllowSurrender</Label>
@@ -610,23 +587,23 @@
   </StringTable>
   <StringTable>
     <Label>AllowSurrender_Description</Label>
-    <String>당신의 적들은 마지막 숨결까지 싸울 것입니다.</String>
+    <String>당신의 적들은 숨을 쉬지않을 때까지 싸울 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>BlindExploration</Label>
-    <String>눈먼 탐험</String>
+    <String>보이지 않는 탐험</String>
   </StringTable>
   <StringTable>
     <Label>BlindExploration_Description</Label>
-    <String>전략 지도에서 알 수 없는 별들을 보여주지 마세요.</String>
+    <String>전략 지도에서 알 수 없는 별들을 표시하지 않습니다.</String>
   </StringTable>
   <StringTable>
     <Label>MegaEvents</Label>
-    <String>메가 이벤트 비활성화</String>
+    <String>엄청난 이벤트 비활성화</String>
   </StringTable>
   <StringTable>
     <Label>MegaEvents_Description</Label>
-    <String>은하계 전체의 메가 이벤트는 발생하지 않을 것입니다.</String>
+    <String>은하계 전체의 엄청난 이벤트는 발생하지 않을 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>SuperAbilities</Label>
@@ -638,7 +615,7 @@
   </StringTable>
   <StringTable>
     <Label>TechBrokering</Label>
-    <String>테크 브로커링 비활성화</String>
+    <String>기술 이전 비활성화</String>
   </StringTable>
   <StringTable>
     <Label>TechBrokering_Description</Label>
@@ -646,7 +623,7 @@
   </StringTable>
   <StringTable>
     <Label>TechTrading</Label>
-    <String>테크 거래 비활성화</String>
+    <String>기 거래 비활성화</String>
   </StringTable>
   <StringTable>
     <Label>TechTrading_Description</Label>
@@ -658,31 +635,31 @@
   </StringTable>
   <StringTable>
     <Label>TransferColoniesOnSurrender_Description</Label>
-    <String>식민지는 항복 시 소유권을 이전합니다.</String>
+    <String>식민지는 항복시 소유권을 이전합니다.</String>
   </StringTable>
   <StringTable>
     <Label>NoFOWInTerritory</Label>
-    <String>영토 내에 FOW 없음</String>
+    <String>영토 내 전쟁의 안개가 없음</String>
   </StringTable>
   <StringTable>
     <Label>NoFOWInTerritory_Description</Label>
-    <String>당신의 국경 내에서는 전쟁의 안개가 없습니다.</String>
+    <String>당신의 국경안에서는 전쟁의 안개가 없습니다.</String>
   </StringTable>
   <StringTable>
     <Label>RELICSFREQUENCYSETTINGLABEL</Label>
-    <String>선도자 유물 주파수</String>
+    <String>선도자 유물 빈도</String>
   </StringTable>
   <StringTable>
     <Label>ASCENSIONGATESFREQUENCYSETTINGLABEL</Label>
-    <String>승천 크리스탈 주파수</String>
+    <String>승천 크리스탈 빈도</String>
   </StringTable>
   <StringTable>
     <Label>Singular</Label>
-    <String>단수</String>
+    <String>단 하나(혼자)</String>
   </StringTable>
   <StringTable>
     <Label>Binary</Label>
-    <String>바이너리</String>
+    <String>바이너리(쌍의)</String>
   </StringTable>
   <StringTable>
     <Label>Few</Label>
@@ -702,7 +679,7 @@
   </StringTable>
   <StringTable>
     <Label>StartNearAIPlayer</Label>
-    <String>섹터 내의 다른 사람들</String>
+    <String>섹터 내의 AI</String>
   </StringTable>
   <StringTable>
     <Label>DistancedFromOtherPlayers</Label>
@@ -718,11 +695,11 @@
   </StringTable>
   <StringTable>
     <Label>StartClose_Description</Label>
-    <String>다른 문명이 아마도 당신에게 매우 가까운 곳에서 시작할 것입니다.</String>
+    <String>다른 문명도 당신과 매우 가까운 곳에 있을 가능성이 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>StartNearAIPlayer_Description</Label>
-    <String>당신은 공간이 허락하는 한 섹터에 최소한 하나의 다른 문명과 함께 시작하게 될 것입니다.</String>
+    <String>당신은 공간이 허락하는 한 섹터에 최소 하나의 다른 문명과 함께 시작하게 될 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>DistancedFromOtherPlayers_Description</Label>
@@ -746,7 +723,7 @@
   </StringTable>
   <StringTable>
     <Label>Medium</Label>
-    <String>미디엄</String>
+    <String>보통</String>
   </StringTable>
   <StringTable>
     <Label>Large</Label>
@@ -766,7 +743,7 @@
   </StringTable>
   <StringTable>
     <Label>GalaxySize_Medium</Label>
-    <String>미디엄</String>
+    <String>보통</String>
   </StringTable>
   <StringTable>
     <Label>GalaxySize_Huge</Label>
