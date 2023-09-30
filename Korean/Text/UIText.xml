@@ -18,7 +18,7 @@
   </StringTable>
   <StringTable>
     <Label>GOODBYEBUTTON</Label>
-    <String>안녕히 가세요</String>
+    <String>종료하시겠습니까?</String>
   </StringTable>
   <StringTable>
     <Label>YESBUTTON</Label>
@@ -34,11 +34,11 @@
   </StringTable>
   <StringTable>
     <Label>PRIORITIZE_BUTTON</Label>
-    <String>우선 순위를 두다</String>
+    <String>우선 순위</String>
   </StringTable>
   <StringTable>
     <Label>QUEUED_MODULES_LABEL</Label>
-    <String>대기 중인 모듈</String>
+    <String>대기중인 모듈</String>
   </StringTable>
   <StringTable>
     <Label>BROWSEBUTTON</Label>
@@ -70,15 +70,15 @@
   </StringTable>
   <StringTable>
     <Label>Requires Supernova</Label>
-    <String>슈퍼노바 필요</String>
+    <String>Supernova 필요</String>
   </StringTable>
   <StringTable>
     <Label>Factions_Tooltip</Label>
-    <String>당신의 문명 내 다양한 집단들과 협력할 지도자들을 배정하여 그들의 호의와 능력을 활용하도록 하십시오.</String>
+    <String>당신의 지도자를 세우고 여러 문명들에게 협력와 호의를 베풀어 그들의 능력을 배우세요.</String>
   </StringTable>
   <StringTable>
     <Label>Coming_Soon_Beta_2</Label>
-    <String>[COLOR=UIDefaultHot]당신의 문명의 법률과 정책을 관리하세요.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]당신의 문명의 법률과 정책을 통솔하세요.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>POPULATIONUNITS</Label>
@@ -94,7 +94,7 @@
   </StringTable>
   <StringTable>
     <Label>TURN</Label>
-    <String>월</String>
+    <String>턴</String>
   </StringTable>
   <StringTable>
     <Label>ACCEPTBUTTON</Label>
