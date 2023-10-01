@@ -1,19 +1,18 @@
 <StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd"><StringTable>
         <Label>Tech_Consensus_Name</Label>
-        <String>Consensus Maker</String>
+        <String>합의 도출자</String>
     </StringTable>
     <StringTable>
     <Label>MasterTech_InterstellarCartography_Name</Label>
-    <String>Interstellar Cartography</String>
+    <String>성간 지도 제작</String>
 </StringTable>
 <StringTable>
     <Label>MasterTech_InterstellarCartography_ShortDec</Label>
-    <String>Maps the cosmos to increate the speed of our starships.</String>
+    <String>우주를 지도화하여 우주선의 이동을 향상시킵니다.</String>
 </StringTable>
 <StringTable>
     <Label>MasterTech_InterstellarCartography_Dec</Label>
-    <String>As the vastness of the cosmos beckoned, the limitations of traditional navigation became painfully evident. Enter Interstellar Cartography: the science and art of cosmic topography that uncovers the intricate weavings of spacetime. This revolutionary technology involves mapping the gravitational tides, black hole trajectories, and dark matter corridors on a scale previously thought impossible.[BR][BR]Harnessing the power of quantum computing and leveraging the subtle nuances of cosmic radiation, scientists are able to chart the highways and byways of the universe. It's akin to having a GPS for the galaxy, where every pit stop, detour, and express route is revealed. These maps serve as the backbone for the next generation of hyperspace engines, allowing ships to navigate the stars with unprecedented speed and accuracy.[BR][BR]Beyond merely mapping the physical space, this technology also taps into the frequencies and resonances of the cosmos. It&#8217;s not just about finding the quickest path, but also the most harmonious one. As a result, ships can now embark on journeys that are not only faster but more attuned to the very rhythm of the universe.[BR][BR]In essence, Interstellar Cartography has transformed the way civilizations perceive and traverse the cosmos. It's no longer about merely reaching the stars; it's about understanding their dance.</String>
-</StringTable>
+    <String>우주의 광활함이 드러나면서 전통적인 항법의 한계가 고스란히 드러났습니다. 성간 지도 제작 : 시공간의 복잡한 짜임새를 밝혀내는 우주 공간 구조의 과학이자 예술인 성간 지도 제작을 소개합니다. 이 혁신적인 기술은 이전에는 불가능하다고 여겨졌던 중력 흐름, 블랙홀 항로, 암흑 물질 통로를 대규모로 지도화합니다.[BR][BR]과학자들은 양자 컴퓨터의 성능을 활용하고 우주 방사선의 미묘한 차이점을 활용하여 우주의 고속도로와 우회로를 지도화할 수 있습니다. 이는 마치 은하계를 위한 GPS가 있는 것과 같아서 모든 경유지, 우회로, 빠른 경로가 드러납니다. 이 지도는 차세대 초우주 엔진의 중추 역할을 하며, 우주선들이 유례없는 속도와 정확성으로 우주를 항해할 수 있게 해줍니다.[BR][BR]이 기술은 단순히 물리적 공간을 지도화하는 것 외에도 우주의 빈도와 공명을 활용하기도 합니다. 가장 빠른 경로를 찾는 것뿐만 아니라 가장 조화로운 경로도 찾아냅니다. 그 결과 우주선은 이제 더 빠르게 여행할 수 있을 뿐만 아니라 우주의 흐름에 더 잘 맞출 수 있게 되었습니다.[BR][BR] 한마디로 성간지도학은 문명이 우주를 파악하고 여행하는 방식에 변화를 가져왔습니다. 더 이상 단순히 별에 도달하는 것이 아니라 별의 움직임을 이해하는 것이 중요해졌습니다.</String></StringTable>
 
 
 
