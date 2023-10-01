@@ -9,8 +9,7 @@
             <Requirements>
                 <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
             </Requirements>
-            <Text>탈라스 오르다 컬란 바나.
-(유니버설 번역기를 연구해야 합니다.)</Text>
+            <Text>탈라스 오르다 컬란 바나.(유니버설 번역기를 연구해야 합니다.)</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>

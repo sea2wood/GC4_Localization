@@ -2,7 +2,7 @@
 <StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
   <StringTable>
     <Label>BEGIN_UITEXT</Label>
-    <String>영어 UI 텍스트</String>
+    <String>KOREAN UI TEXT</String>
   </StringTable>
   <StringTable>
     <Label>LANGUAGECODE</Label>
@@ -18,7 +18,7 @@
   </StringTable>
   <StringTable>
     <Label>GOODBYEBUTTON</Label>
-    <String>안녕히 가세요</String>
+    <String>게임을 종료합니다</String>
   </StringTable>
   <StringTable>
     <Label>YESBUTTON</Label>
@@ -70,7 +70,7 @@
   </StringTable>
   <StringTable>
     <Label>Requires Supernova</Label>
-    <String>슈퍼노바 필요</String>
+    <String>Supernova 필요</String>
   </StringTable>
   <StringTable>
     <Label>Factions_Tooltip</Label>
@@ -78,7 +78,7 @@
   </StringTable>
   <StringTable>
     <Label>Coming_Soon_Beta_2</Label>
-    <String>[COLOR=UIDefaultHot]당신의 문명에 법률과 정책으로 통솔하세요.[/COLOR]</String>
+    <String>[COLOR=UIDefaultHot]당신의 법률과 정책으로 문명을 통솔하세요.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>POPULATIONUNITS</Label>
@@ -130,7 +130,7 @@
   </StringTable>
   <StringTable>
     <Label>CONTINUE_PLAYING_LABEL</Label>
-    <String>이이서 하기</String>
+    <String>이어서 하기</String>
   </StringTable>
   <StringTable>
     <Label>BATTLE_VIEWER_TITLE</Label>
@@ -251,7 +251,30 @@
   <StringTable>
     <Label>EXITLABEL_LOWERCAP</Label>
     <String>게임 종료</String>
-  </Stri정</String>
+  </StringTable>
+  <StringTable>
+    <Label>FREEDLCLABEL</Label>
+    <String>무료 DLC!</String>
+  </StringTable>
+  <StringTable>
+    <Label>GETREWARDLABEL</Label>
+    <String>보상 받기</String>
+  </StringTable>
+  <StringTable>
+    <Label>DLCAVAILABLELABEL</Label>
+    <String>더 많은 DLC 받기</String>
+  </StringTable>
+  <StringTable>
+    <Label>VERSIONSTRINGFORMAT</Label>
+    <String>버전 {BUILDVERSIONSTRING}</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAME_SETTINGS_LABEL</Label>
+    <String>갤럭시 커스터마이즈</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMESETTINGSTITLE</Label>
+    <String>갤럭시 커스터마이즈</String>
   </StringTable>
   <StringTable>
     <Label>CIVILIZATIONSETUPTITLE</Label>
@@ -307,7 +330,7 @@
   </StringTable>
   <StringTable>
     <Label>CIVILIZATIONNAMELABEL</Label>
-    <String>[B]데이터 뱅크[/B][BR]        [COLOR=UIDefaultHot]당신의 문명의 통계를 확인하세요.[/COLOR]</String>
+    <String>[B]데이터 뱅크[/B][BR]       [COLOR=UIDefaultHot]당신 문명의 통계를 확인하세요.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>OPPONENTSETUPTITLE</Label>
@@ -327,7 +350,7 @@
   </StringTable>
   <StringTable>
     <Label>GALAXYDIFFICULTYLABEL</Label>
-    <String>은하 난이도</String>
+    <String>은하계 난이도</String>
   </StringTable>
   <StringTable>
     <Label>RANDOMEVENTSFREQUENCYLABEL</Label>
@@ -343,7 +366,7 @@
   </StringTable>
   <StringTable>
     <Label>HostileEntitiesLabel</Label>
-    <String>적대적인 문명들</String>
+    <String>적대적인 문명</String>
   </StringTable>
   <StringTable>
     <Label>CIVILIZATIONLEADERLABEL</Label>
@@ -371,7 +394,7 @@
   </StringTable>
   <StringTable>
     <Label>AVAILALBEOPPONENTSLABEL</Label>
-    <String>사용 가능한 존</String>
+    <String>사용 가능한 존재</String>
   </StringTable>
   <StringTable>
     <Label>Create_Galaxy_Button</Label>
@@ -379,11 +402,11 @@
   </StringTable>
   <StringTable>
     <Label>VICTORY_CONDITIONS_DESCRIPTION</Label>
-    <String>어떻게 적을 무찌르는가</String>
+    <String>어떻게 적을 무찌를 것인가?</String>
   </StringTable>
   <StringTable>
     <Label>PLANETFREQUENCYSETTINGLABEL</Label>
-    <String>행성 주파수</String>
+    <String>행성 빈도</String>
   </StringTable>
   <StringTable>
     <Label>STORMFREQUENCYSETTINGLABEL</Label>
@@ -395,7 +418,7 @@
   </StringTable>
   <StringTable>
     <Label>GALAXYSETTINGSTITLE</Label>
-    <String>갤럭시 설정</String>
+    <String>은하계 설정</String>
   </StringTable>
   <StringTable>
     <Label>TECHRESEARCHRATELABEL</Label>
@@ -431,11 +454,11 @@
   </StringTable>
   <StringTable>
     <Label>Opponents_Slots_Dec</Label>
-    <String>은하계를 공유하고 싶은 상대와 잠재적인 동맹자을 선택하세요.</String>
+    <String>은하계를 공유하고 싶은 동맹자을 선택하세요.</String>
   </StringTable>
   <StringTable>
     <Label>GAMEPACINGLABEL</Label>
-    <String>게임 페이싱</String>
+    <String>게임에서 제외</String>
   </StringTable>
   <StringTable>
     <Label>RANDOMIZEBTNLABEL</Label>
@@ -483,7 +506,7 @@
   </StringTable>
   <StringTable>
     <Label>CIVILIZATIONHOMEWORLDLABEL</Label>
-    <String>본향</String>
+    <String>본향(고향별)</String>
   </StringTable>
   <StringTable>
     <Label>GALAXY_OPTIONS_DESCRIPTION</Label>
@@ -523,7 +546,7 @@
   </StringTable>
   <StringTable>
     <Label>LOBBY_INVITEFRIENDS_NOOVERLAY</Label>
-    <String>이 게임에서는 Steam 오버레이가 비활성화되어 있습니다. 친구를 초대하려면 Steam 오버레이를 활성화해 주세요.</String>
+    <String>이 게임에서 Steam 오버레이 기능이 비활성화되었습니다. 친구를 초대하려면 Steam 오버레이 기능을 활성화해 주세요.</String>
   </StringTable>
   <StringTable>
     <Label>FRIENDS_LIST_TITLE</Label>
@@ -535,7 +558,7 @@
   </StringTable>
   <StringTable>
     <Label>INVITE_SENT_LABEL</Label>
-    <String>보냄</String>
+    <String>보내기</String>
   </StringTable>
   <StringTable>
     <Label>SEND_INVITE_LABEL</Label>
@@ -559,7 +582,7 @@
   </StringTable>
   <StringTable>
     <Label>Research_Description</Label>
-    <String>최고의 기술 혁신을 이끌어 주십시오.</String>
+    <String>최고의 기술 혁신을 이루어 주십시오.</String>
   </StringTable>
   <StringTable>
     <Label>Alliance_Description</Label>
@@ -571,7 +594,7 @@
   </StringTable>
   <StringTable>
     <Label>Ascension_Description</Label>
-    <String>Ascension 크리스탈(승천)을 되찾아 더 높은 차원으로 상승하세요.</String>
+    <String>Ascension 크리스탈(승천)을 되찾아 더 높은 차원으로 승천(상승)하세요.</String>
   </StringTable>
   <StringTable>
     <Label>TurnLimit_Description</Label>
@@ -579,7 +602,7 @@
   </StringTable>
   <StringTable>
     <Label>Prestige_Description</Label>
-    <String>은하계에서 가장 위대한 세력으로 분발하십시오.</String>
+    <String>은하계에서 가장 위대한 세력으로 업적을 남기십시오(의역).</String>
   </StringTable>
   <StringTable>
     <Label>AllowSurrender</Label>
@@ -587,11 +610,11 @@
   </StringTable>
   <StringTable>
     <Label>AllowSurrender_Description</Label>
-    <String>당신의 적들은 숨을 쉬지않을 때까지 싸울 것입니다.</String>
+    <String>당신의 적들은 숨이 멈출 때까지 싸울 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>BlindExploration</Label>
-    <String>보이지 않는 탐험</String>
+    <String>보이지 않는 지역(별?) 비활성화</String>
   </StringTable>
   <StringTable>
     <Label>BlindExploration_Description</Label>
@@ -599,11 +622,11 @@
   </StringTable>
   <StringTable>
     <Label>MegaEvents</Label>
-    <String>엄청난 이벤트 비활성화</String>
+    <String>놀라운 이벤트 비활성화</String>
   </StringTable>
   <StringTable>
     <Label>MegaEvents_Description</Label>
-    <String>은하계 전체의 엄청난 이벤트는 발생하지 않을 것입니다.</String>
+    <String>은하계 전체의 놀라운 이벤트는 발생하지 않을 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>SuperAbilities</Label>
@@ -623,7 +646,7 @@
   </StringTable>
   <StringTable>
     <Label>TechTrading</Label>
-    <String>기 거래 비활성화</String>
+    <String>기술 거래 비활성화</String>
   </StringTable>
   <StringTable>
     <Label>TechTrading_Description</Label>
@@ -639,7 +662,7 @@
   </StringTable>
   <StringTable>
     <Label>NoFOWInTerritory</Label>
-    <String>영토 내 전쟁의 안개가 없음</String>
+    <String>영토 내 전쟁의 안개 없음</String>
   </StringTable>
   <StringTable>
     <Label>NoFOWInTerritory_Description</Label>
@@ -703,11 +726,11 @@
   </StringTable>
   <StringTable>
     <Label>DistancedFromOtherPlayers_Description</Label>
-    <String>중간보다 작은 섹터에서 혼자 시작하거나, 그렇지 않으면 다른 문명으로부터의 최대 거리가 보장됩니다.</String>
+    <String>중간보다 작은 섹터에서 혼자 시작하거나, 다른 문명으로부터의 최대 거리가 보장됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>StartAloneInSector_Description</Label>
-    <String>다른 문명을 다른 섹터에 배치할 공간이 있다면, 섹터에서 혼자 시작하는 것이 보장됩니다.</String>
+    <String>다른 문명을 다른 섹터에 배치할 공간이 있다면, 섹터에서 혼자 시작하는 것이 가능합니다.</String>
   </StringTable>
   <StringTable>
     <Label>Random_Description</Label>
@@ -779,7 +802,7 @@
   </StringTable>
   <StringTable>
     <Label>Cakewalk</Label>
-    <String>케이크워크</String>
+    <String>걸음걸이 경기</String>
   </StringTable>
   <StringTable>
     <Label>Easy</Label>
@@ -795,7 +818,7 @@
   </StringTable>
   <StringTable>
     <Label>Fool</Label>
-    <String>바보</String>
+    <String>얼간이</String>
   </StringTable>
   <StringTable>
     <Label>Dunce</Label>
@@ -803,7 +826,7 @@
   </StringTable>
   <StringTable>
     <Label>SubNormal</Label>
-    <String>서브-노멀</String>
+    <String>비정규</String>
   </StringTable>
   <StringTable>
     <Label>Bright</Label>
@@ -831,7 +854,7 @@
   </StringTable>
   <StringTable>
     <Label>Crippling</Label>
-    <String>마비시키는</String>
+    <String>큰타격(마비)</String>
   </StringTable>
   <StringTable>
     <Label>Masochistic</Label>
@@ -875,7 +898,7 @@
   </StringTable>
   <StringTable>
     <Label>UNITED_PLANETS_FREQUENCY_LABEL</Label>
-    <String>유나이티드 플래닛 주파수</String>
+    <String>유나이티드 플래닛 빈도</String>
   </StringTable>
   <StringTable>
     <Label>EVENT_FREQUENCY_LABEL</Label>
@@ -947,11 +970,11 @@
   </StringTable>
   <StringTable>
     <Label>RUNSTEAM_TOOLTIP_LABEL</Label>
-    <String>연결에 실패했습니다. Steam이 실행 중이며 온라인 모드에서 플레이하고 있는지 확인해 주세요.</String>
+    <String>연결에 실패했습니다. Steam이 실행 중 온라인 모드에서 플레이하고 있는지 확인해 주세요.</String>
   </StringTable>
   <StringTable>
     <Label>RUNEPIC_TOOLTIP_LABEL</Label>
-    <String>당신의 연결이 대기 중이거나 실패했습니다. Epic Account Portal이 응답을 기다리는 백그라운드에 브라우저 창이 있는지 확인해 보세요.</String>
+    <String>당신의 연결이 대기 중이거나 실패했습니다. Epic Account Portal이 응답을 기다리는 바탕화면에 브라우저 창이 있는지 확인해 보세요.</String>
   </StringTable>
   <StringTable>
     <Label>METAVERSE_OFFLINE</Label>
@@ -1007,11 +1030,11 @@
   </StringTable>
   <StringTable>
     <Label>MOD_ITEM_DOWNVOTE</Label>
-    <String>다운보트 모드.</String>
+    <String>다운보트(?) 모드.</String>
   </StringTable>
   <StringTable>
     <Label>MOD_ITEM_DOWNLOAD</Label>
-    <String>모드를 귀하의 로컬 기계에 다운로드하세요.</String>
+    <String>모드를 귀하의 PC에 다운로드하세요.</String>
   </StringTable>
   <StringTable>
     <Label>MOD_ITEM_BACK</Label>
@@ -1107,7 +1130,7 @@
   </StringTable>
   <StringTable>
     <Label>MovieVolume</Label>
-    <String>영화 볼륨</String>
+    <String>영화 음량</String>
   </StringTable>
   <StringTable>
     <Label>ZoomToCursor</Label>
@@ -1143,7 +1166,7 @@
   </StringTable>
   <StringTable>
     <Label>INPUTSHIPBUTTONLABEL</Label>
-    <String>선박들</String>
+    <String>함선들</String>
   </StringTable>
   <StringTable>
     <Label>INPUTPLANETBUTTONLABEL</Label>
@@ -1167,11 +1190,11 @@
   </StringTable>
   <StringTable>
     <Label>ScreenOffsetX</Label>
-    <String>스크린 오프셋 X</String>
+    <String>화면 오프셋 X</String>
   </StringTable>
   <StringTable>
     <Label>ScreenOffsetY</Label>
-    <String>스크린 오프셋 Y</String>
+    <String>화면 오프셋 Y</String>
   </StringTable>
   <StringTable>
     <Label>SOUNDMODEBUTTONLABEL</Label>
@@ -1179,11 +1202,11 @@
   </StringTable>
   <StringTable>
     <Label>AmbienceVolume</Label>
-    <String>주변 소리 볼륨</String>
+    <String>주변 소리 음량</String>
   </StringTable>
   <StringTable>
     <Label>DisplayResolution</Label>
-    <String>디스플레이 해상도</String>
+    <String>화면 해상도</String>
   </StringTable>
   <StringTable>
     <Label>Multisample</Label>
@@ -1203,7 +1226,7 @@
   </StringTable>
   <StringTable>
     <Label>LayeredMusicVolume</Label>
-    <String>레이어드 음악 볼륨</String>
+    <String>레이어드 음악 음량</String>
   </StringTable>
   <StringTable>
     <Label>MaxMipMapLevels</Label>
@@ -1243,7 +1266,7 @@
   </StringTable>
   <StringTable>
     <Label>QUASARFREQUENCYSETTINGLABEL</Label>
-    <String>퀘이사 주파수</String>
+    <String>퀘이사 빈도</String>
   </StringTable>
   <StringTable>
     <Label>EnableSFX</Label>
@@ -1251,7 +1274,7 @@
   </StringTable>
   <StringTable>
     <Label>SFXVolume</Label>
-    <String>SFX 볼륨</String>
+    <String>SFX 음량</String>
   </StringTable>
   <StringTable>
     <Label>Brightness</Label>
@@ -1291,7 +1314,7 @@
   </StringTable>
   <StringTable>
     <Label>EventMusicVolume</Label>
-    <String>이벤트 음악 볼륨</String>
+    <String>이벤트 음악 음량</String>
   </StringTable>
   <StringTable>
     <Label>VSync</Label>
@@ -1347,7 +1370,7 @@
   </StringTable>
   <StringTable>
     <Label>OPTIONS_HOOKSENABLED_TOOLTIP</Label>
-    <String>AMD의 Raptor 소프트웨어와 nVidia의 ShadowPlay와 같은 응용 프로그램이 GalCiv4에 후킹하여 비디오 또는 스크린샷을 기록하게 허용합니다. 활성화하면 불안정성을 일으킬 수 있습니다.</String>
+    <String>AMD의 Raptor 소프트웨어와 nVidia의 ShadowPlay와 같은 응용 프로그램이 GalCiv4에 후킹하여 비디오 또는 화면샷을 기록하게 허용합니다. 활성화하면 불안정성을 일으킬 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>GRAPHICS_CONFIRM_MESSAGE_TITLE</Label>
@@ -1355,11 +1378,11 @@
   </StringTable>
   <StringTable>
     <Label>GRAPHICS_CONFIRM_MESSAGE</Label>
-    <String>이 변경사항을 유지하시겠습니까? 디스플레이는 %i 초 후에 재설정됩니다.</String>
+    <String>이 변경사항을 유지하시겠습니까? 화면는 %i 초 후에 재설정됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>GRAPHICS_RESTART_MESSAGE_TITLE</Label>
-    <String>디스플레이 옵션</String>
+    <String>화면 옵션</String>
   </StringTable>
   <StringTable>
     <Label>GRAPHICS_RESTART_MESSAGE</Label>
@@ -1487,7 +1510,7 @@
   </StringTable>
   <StringTable>
     <Label>DESIGNERLANDINGBUTTONLABEL</Label>
-    <String>선박 디자인</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>BAZAARBUTTONLABEL</Label>
@@ -1863,11 +1886,11 @@
   </StringTable>
   <StringTable>
     <Label>STARBASE_DEFAULT_CONSTRUCTOR_TOOLTIP</Label>
-    <String>Constructor Design을 선택하고, 이 상자를 체크한 다음 Done을 눌러 선택한 디자인을 모든 새로운 별 기지의 기본 생성자로 표시하십시오.</String>
+    <String>Constructor Design을 선택하고, 이 상자를 체크한 다음 Done을 눌러 선택한 설계을 모든 새로운 별 기지의 기본 생성자로 표시하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>STARBASE_DEFAULT_CONSTRUCTOR_DETAILED_TOOLTIP</Label>
-    <String>Constructor Design을 선택하고, 이 상자를 체크한 다음 Done을 눌러 모든 새로운 별 기지의 기본 생성자로 선택한 디자인을 표시합니다.[BR][BR]현재 기본값: %s</String>
+    <String>Constructor Design을 선택하고, 이 상자를 체크한 다음 Done을 눌러 모든 새로운 별 기지의 기본 생성자로 선택한 설계을 표시합니다.[BR][BR]현재 기본값: %s</String>
   </StringTable>
   <StringTable>
     <Label>STARBASE_AUTOMATE_LABEL</Label>
@@ -1987,7 +2010,7 @@
   </StringTable>
   <StringTable>
     <Label>CAN_ONLY_RUSH_SHIPDESIGNS_TOOLTIP</Label>
-    <String>선박 디자인만 급행할 수 있습니다.</String>
+    <String>함선 설계만 급행할 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>AUTOSURVEYLABEL</Label>
@@ -2027,11 +2050,11 @@
   </StringTable>
   <StringTable>
     <Label>SHIPDETAILSBUTTONLABEL</Label>
-    <String>선박 상세 정보</String>
+    <String>함선 상세 정보</String>
   </StringTable>
   <StringTable>
     <Label>Ship_Details_Screen_Title</Label>
-    <String>다음에 건설할 선박 선택</String>
+    <String>다음에 건설할 함선 선택</String>
   </StringTable>
   <StringTable>
     <Label>AUTOEXPLORE</Label>
@@ -2311,11 +2334,11 @@
   </StringTable>
   <StringTable>
     <Label>Notification_ShipIdle_Short</Label>
-    <String>[B]선박 대기 중[/B][BR][COLOR=UIDefaultHot]함대가 명령을 기다리고 있습니다[/COLOR][BR][COLOR=UIDefaultHighlight]단축키: TAB[/COLOR]</String>
+    <String>[B]함선 대기 중[/B][BR][COLOR=UIDefaultHot]함대가 명령을 기다리고 있습니다[/COLOR][BR][COLOR=UIDefaultHighlight]단축키: TAB[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>Notification_ShipIdle_Tooltip</Label>
-    <String>[B]대기 중인 선박[/B][BR][COLOR=UIDefaultHot]왼쪽 마우스 버튼으로 선박을 선택하세요. 목적지에 오른쪽 클릭하여 그 곳으로의 코스를 설정하세요.[/COLOR]</String>
+    <String>[B]대기 중인 함선[/B][BR][COLOR=UIDefaultHot]왼쪽 마우스 버튼으로 함선을 선택하세요. 목적지에 오른쪽 클릭하여 그 곳으로의 코스를 설정하세요.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>WAIT_BUTTON_LABEL</Label>
@@ -2387,7 +2410,7 @@
   </StringTable>
   <StringTable>
     <Label>ProductionSubWnd_Ship_Maintenance_Entry</Label>
-    <String>[ICON=Stat_Ship_Maintenance_Icon] 배 유지보수</String>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] 함선유지보수</String>
   </StringTable>
   <StringTable>
     <Label>ProductionSubWnd_Trade_Route_Income_Entry</Label>
@@ -2407,11 +2430,11 @@
   </StringTable>
   <StringTable>
     <Label>MILITARYLABLE</Label>
-    <String>선박 건축</String>
+    <String>함선 건축</String>
   </StringTable>
   <StringTable>
     <Label>ProductionSubWnd_Military_Tooltip</Label>
-    <String>조선소에서 선박을 건설하기 위해 사용되는 제조 공정.</String>
+    <String>조선소에서 함선을 건설하기 위해 사용되는 제조 공정.</String>
   </StringTable>
   <StringTable>
     <Label>ProductionSubWnd_Social_Tooltip</Label>
@@ -2431,7 +2454,7 @@
   </StringTable>
   <StringTable>
     <Label>ProductionSubWnd_Manufacturing_Tooltip</Label>
-    <String>선박을 건설하기 위해 조선소에서 사용하는 제조의 퍼센트.</String>
+    <String>함선을 건설하기 위해 조선소에서 사용하는 제조의 퍼센트.</String>
   </StringTable>
   <StringTable>
     <Label>ProductionSubWnd_Social_Manufacturing_Tooltip</Label>
@@ -2483,7 +2506,7 @@
   </StringTable>
   <StringTable>
     <Label>MOD_SOURCE_CATEGORY_SHIPCOMPONENTS</Label>
-    <String>선박 구성 요소</String>
+    <String>함선 구성 요소</String>
   </StringTable>
   <StringTable>
     <Label>MOD_SOURCE_CATEGORY_DIPLOMATICAGREEMENTS</Label>
@@ -2527,7 +2550,7 @@
   </StringTable>
   <StringTable>
     <Label>DIPLOMACYFILTER_SHIPS</Label>
-    <String>선박들</String>
+    <String>함선들</String>
   </StringTable>
   <StringTable>
     <Label>DIPLOMACYFILTER_STARBASES</Label>
@@ -2771,7 +2794,7 @@
   </StringTable>
   <StringTable>
     <Label>PLANET_TOOLTIP_DEFENDING_SHIPS</Label>
-    <String>[ICON=Stat_Temp_Icon] %ld 척의 선박이 방어 중</String>
+    <String>[ICON=Stat_Temp_Icon] %ld 척의 함선이 방어 중</String>
   </StringTable>
   <StringTable>
     <Label>Dead</Label>
@@ -2807,7 +2830,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPLIST_TOOLTIP</Label>
-    <String>선박들</String>
+    <String>함선들</String>
   </StringTable>
   <StringTable>
     <Label>SHIPYARDLIST_TOOLTIP</Label>
@@ -2939,7 +2962,7 @@
   </StringTable>
   <StringTable>
     <Label>PLANET_SELECTED_SHIP</Label>
-    <String>선택된 선박</String>
+    <String>선택된 함선</String>
   </StringTable>
   <StringTable>
     <Label>PLANET_DESCRIPTION_LABEL</Label>
@@ -3395,7 +3418,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_CATEGORY_Undeclared</Label>
-    <String>선언되지 않은 선박들</String>
+    <String>선언되지 않은 함선들</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_CATEGORY_Irradiated</Label>
@@ -3435,7 +3458,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_BTN_REMOVE</Label>
-    <String>선박에서 부품을 제거하십시오.</String>
+    <String>함선에서 부품을 제거하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_BTN_OBSOLETE</Label>
@@ -3459,7 +3482,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_BTN_OPTIONS</Label>
-    <String>선박 디자인 옵션 변경.</String>
+    <String>함선 설계 옵션 변경.</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_BTN_MIRROR_HOR</Label>
@@ -3495,7 +3518,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_BTN_EDIT</Label>
-    <String>선박 디자인 모드로 돌아가세요.</String>
+    <String>함선 설계 모드로 돌아가세요.</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_STARTER_NAME</Label>
@@ -3503,11 +3526,11 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_NO_HULL_WARNING</Label>
-    <String>선박의 선체를 선택해야 합니다.</String>
+    <String>함선의 선체를 선택해야 합니다.</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_SELECTING_NEW_HULL</Label>
-    <String>새로운 선체를 선택하면 기존의 선박 구성 요소와 그 배치가 사라집니다. 괜찮습니까?</String>
+    <String>새로운 선체를 선택하면 기존의 함선 구성 요소와 그 배치가 사라집니다. 괜찮습니까?</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_HARDPOINT_DENSITY_0</Label>
@@ -3959,7 +3982,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_SURFACE_02_NAME</Label>
-    <String>선박 표면 #2</String>
+    <String>함선 표면 #2</String>
   </StringTable>
   <StringTable>
     <Label>FINEBUTTON</Label>
@@ -4055,7 +4078,7 @@
   </StringTable>
   <StringTable>
     <Label>USE_CONFIRM_TITLE</Label>
-    <String>선박 디자이너</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>USE_CONFIRM_MESSAGE</Label>
@@ -4115,7 +4138,7 @@
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_NEW_DESIGN_ENTRY_LABEL</Label>
-    <String>새로운 디자인</String>
+    <String>새로운 설계</String>
   </StringTable>
   <StringTable>
     <Label>COMPONENT_LABEL</Label>
@@ -4151,7 +4174,7 @@
   </StringTable>
   <StringTable>
     <Label>AVAILABLE_SHIPS_DESIGNS</Label>
-    <String>사용 가능한 디자인</String>
+    <String>사용 가능한 설계</String>
   </StringTable>
   <StringTable>
     <Label>PLANETARY_SPONSOR_LABEL</Label>
@@ -4235,7 +4258,7 @@
   </StringTable>
   <StringTable>
     <Label>Ship_Details_Title</Label>
-    <String>선박 세부 정보</String>
+    <String>함선 세부 정보</String>
   </StringTable>
   <StringTable>
     <Label>SET_SPONSOR_LABEL</Label>
@@ -4287,7 +4310,7 @@
   </StringTable>
   <StringTable>
     <Label>BUILD_SHIPYARD_ENTRY_TOOLTIP</Label>
-    <String>[COLOR=UIDefaultHighlight]조선소 건설[/COLOR][BR]조선소를 사용하여 배를 제조하세요.</String>
+    <String>[COLOR=UIDefaultHighlight]조선소 건설[/COLOR][BR]조선소를 사용하여 함선을 제조하세요.</String>
   </StringTable>
   <StringTable>
     <Label>BUILD_SHIPYARD_INPROGRESS_TOOLTIP</Label>
@@ -4299,7 +4322,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_CONTEXT_UNANCHOR_LABEL</Label>
-    <String>Unanchor를 한글로 번역하면 닻을 올리다가 됩니다. 하지만 이는 게임 플레이 컨텍스트에 따라 달라질 수 있습니다. 예를 들어, 공간선박을 unanchor하는 경우, 더 적절한 번역은 닻을 끊다 또는 고정 해제일 수 있습니다. 이 경우에는 고정 해제를 사용하겠습니다.</String>
+    <String>Unanchor를 한글로 번역하면 닻을 올리다가 됩니다. 하지만 이는 게임 플레이 컨텍스트에 따라 달라질 수 있습니다. 예를 들어, 공간함선을 unanchor하는 경우, 더 적절한 번역은 닻을 끊다 또는 고정 해제일 수 있습니다. 이 경우에는 고정 해제를 사용하겠습니다.</String>
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_CONTEXT_RALLYPOINT_LABEL</Label>
@@ -4311,7 +4334,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_CONTEXT_SHIP_DESIGN_LABEL</Label>
-    <String>선박 디자이너</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_PER_TURN_ICON_LABEL</Label>
@@ -4567,7 +4590,7 @@
   </StringTable>
   <StringTable>
     <Label>COMMANDS_SENDING_LABEL</Label>
-    <String>선박 보내는 중...</String>
+    <String>함선 보내는 중...</String>
   </StringTable>
   <StringTable>
     <Label>COMMANDS_REASSIGN_LABEL</Label>
@@ -4575,7 +4598,7 @@
   </StringTable>
   <StringTable>
     <Label>COMMANDS_SHIPS_LABEL</Label>
-    <String>선박들</String>
+    <String>함선들</String>
   </StringTable>
   <StringTable>
     <Label>COMMANDS_GOING_LABEL</Label>
@@ -4631,7 +4654,7 @@
   </StringTable>
   <StringTable>
     <Label>COMMANDS_Of_TYPE_LABEL</Label>
-    <String>이 유형의 선박들...</String>
+    <String>이 유형의 함선들...</String>
   </StringTable>
   <StringTable>
     <Label>COMMANDS_UPGRADE_TO_LABEL</Label>
@@ -4791,7 +4814,7 @@
   </StringTable>
   <StringTable>
     <Label>Current_Leader_Label</Label>
-    <String>현재 리더:</String>
+    <String>현재 지도자:</String>
   </StringTable>
   <StringTable>
     <Label>Victory_Options_Label</Label>
@@ -4799,7 +4822,7 @@
   </StringTable>
   <StringTable>
     <Label>Influence_Victory_Text</Label>
-    <String>갤럭시의 %i%%에 걸쳐 여러분의 문화적 영향력을 퍼뜨리고, 누구도 이의를 제기할 수 없는 지배적인 문화가 되십시오.</String>
+    <String>은하계의 %i%%에 걸쳐 여러분의 문화적 영향력을 퍼뜨리고, 누구도 이의를 제기할 수 없는 지배적인 문화가 되십시오.</String>
   </StringTable>
   <StringTable>
     <Label>Influence_Requirement_1_Label</Label>
@@ -4827,7 +4850,7 @@
   </StringTable>
   <StringTable>
     <Label>SET_SHIP_DESTINATION_LABEL</Label>
-    <String>선박 목적지 설정</String>
+    <String>함선 목적지 설정</String>
   </StringTable>
   <StringTable>
     <Label>SET_SHIPYARD_DESTINATION_LABEL</Label>
@@ -5051,7 +5074,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPCOMPONENTSHEADER</Label>
-    <String>선박 구성요소</String>
+    <String>함선 구성요소</String>
   </StringTable>
   <StringTable>
     <Label>MAINMENUBUTTONLABEL</Label>
@@ -5067,7 +5090,7 @@
   </StringTable>
   <StringTable>
     <Label>DESIGNINGSHIPS</Label>
-    <String>엔지니어링 선박</String>
+    <String>엔지니어링 함선</String>
   </StringTable>
   <StringTable>
     <Label>CREATINGCIV</Label>
@@ -5075,7 +5098,7 @@
   </StringTable>
   <StringTable>
     <Label>MAKINGMAP</Label>
-    <String>갤럭시 조립 중</String>
+    <String>은하계 조립 중</String>
   </StringTable>
   <StringTable>
     <Label>LeaderOfFactionFormat</Label>
@@ -5119,7 +5142,7 @@
   </StringTable>
   <StringTable>
     <Label>TURNDISPLAYLABEL</Label>
-    <String>월</String>
+    <String>턴</String>
   </StringTable>
   <StringTable>
     <Label>EndGameSave</Label>
@@ -5127,7 +5150,7 @@
   </StringTable>
   <StringTable>
     <Label>QUICKBUILDPLANETBUTTON</Label>
-    <String>선박 건설</String>
+    <String>함선 건설</String>
   </StringTable>
   <StringTable>
     <Label>DEFENSESTABLABEL</Label>
@@ -5199,7 +5222,7 @@
   </StringTable>
   <StringTable>
     <Label>CONTEXT_HYPERGATE_DESC</Label>
-    <String>대량의 에너지를 활용하여, 서브스페이스 스트림은 다른 스트림과 연결되어 그 사이의 어떤 선박이든 빠른 통행을 제공할 수 있습니다.</String>
+    <String>대량의 에너지를 활용하여, 서브스페이스 스트림은 다른 스트림과 연결되어 그 사이의 어떤 함선이든 빠른 통행을 제공할 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>STARCONTEXT_PLANETS_LABEL</Label>
@@ -5287,7 +5310,7 @@
   </StringTable>
   <StringTable>
     <Label>BattlePredictionRiskTypes_HighRisk</Label>
-    <String>[ICON=Battle_Red] [COLOR=BrightRed]패배 가능성 높음[/COLOR]</String>
+    <String>[ICON=Battle_Red] [COLOR=BrightRed]패함선가능성 높음[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>BattlePredictionRiskTypes_VeryHighRisk</Label>
@@ -5335,11 +5358,11 @@
   </StringTable>
   <StringTable>
     <Label>EJECTALLSHIPSTOOLTIP</Label>
-    <String>모든 선박 추출</String>
+    <String>모든 함선 추출</String>
   </StringTable>
   <StringTable>
     <Label>QUEUEEJECTALLSHIPSTOOLTIP</Label>
-    <String>모든 선박 추출 대기열</String>
+    <String>모든 함선 추출 대기열</String>
   </StringTable>
   <StringTable>
     <Label>SET_GALAXY_TYPE_LABEL</Label>
@@ -5351,7 +5374,7 @@
   </StringTable>
   <StringTable>
     <Label>CONTEXTSHIPS</Label>
-    <String>선박</String>
+    <String>함선</String>
   </StringTable>
   <StringTable>
     <Label>YOURSTYLELABEL</Label>
@@ -5471,7 +5494,7 @@
   </StringTable>
   <StringTable>
     <Label>MusicVolume</Label>
-    <String>음악 볼륨</String>
+    <String>음악 음량</String>
   </StringTable>
   <StringTable>
     <Label>MAP_ANOMALIES_LABEL</Label>
@@ -5715,11 +5738,11 @@
   </StringTable>
   <StringTable>
     <Label>SHIPTEMPLATETITLE</Label>
-    <String>선박 템플릿</String>
+    <String>함선 템플릿</String>
   </StringTable>
   <StringTable>
     <Label>SHIPDESIGNWNDTITLE</Label>
-    <String>선박 설계</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>CLOSEBUTTON</Label>
@@ -5739,7 +5762,7 @@
   </StringTable>
   <StringTable>
     <Label>EQUIPSHIPTITLE</Label>
-    <String>선박 장착</String>
+    <String>함선 장착</String>
   </StringTable>
   <StringTable>
     <Label>HULLSTABLABEL</Label>
@@ -5895,7 +5918,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPMOVESLABEL</Label>
-    <String>선박 이동:</String>
+    <String>함선 이동:</String>
   </StringTable>
   <StringTable>
     <Label>VerySlow</Label>
@@ -5939,7 +5962,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPNAMELABEL</Label>
-    <String>선박 이름:</String>
+    <String>함선 이름:</String>
   </StringTable>
   <StringTable>
     <Label>STARBASE_REPORT_LABEL</Label>
@@ -6043,7 +6066,7 @@
   </StringTable>
   <StringTable>
     <Label>NoShipNameErrorTitle</Label>
-    <String>선박 이름 필요</String>
+    <String>함선 이름 필요</String>
   </StringTable>
   <StringTable>
     <Label>FLEETTOOLTIP_HITPOINTS</Label>
@@ -6063,7 +6086,7 @@
   </StringTable>
   <StringTable>
     <Label>FLEETREMOVESHIP</Label>
-    <String>선박 제거</String>
+    <String>함선 제거</String>
   </StringTable>
   <StringTable>
     <Label>Fast</Label>
@@ -6083,7 +6106,7 @@
   </StringTable>
   <StringTable>
     <Label>NoShipNameErrorMessage</Label>
-    <String>선박 디자인의 이름을 입력해 주세요.</String>
+    <String>함선 설계의 이름을 입력해 주세요.</String>
   </StringTable>
   <StringTable>
     <Label>FLEETTOOLTIP_SPECIAL</Label>
@@ -6135,7 +6158,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPROLLLABEL</Label>
-    <String>선박 역할</String>
+    <String>함선 역할</String>
   </StringTable>
   <StringTable>
     <Label>CameraSnapBack</Label>
@@ -6223,7 +6246,7 @@
   </StringTable>
   <StringTable>
     <Label>SKIP_LOADING_SHIP</Label>
-    <String>선박 배출 건너뛰기 (시민이 탑승하지 않음)</String>
+    <String>함선 배출 건너뛰기 (시민이 탑승하지 않음)</String>
   </StringTable>
   <StringTable>
     <Label>Load_Transport_Convert</Label>
@@ -6251,7 +6274,7 @@
   </StringTable>
   <StringTable>
     <Label>DESIGNERLANDINGWNDTITLE</Label>
-    <String>선박 디자인</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>DesignerInventoryTitle</Label>
@@ -6287,7 +6310,7 @@
   </StringTable>
   <StringTable>
     <Label>DESIGNERLANDINGWNDDESCRIPTION</Label>
-    <String>선박 디자인 관리</String>
+    <String>함선 설계 관리</String>
   </StringTable>
   <StringTable>
     <Label>TRADE_TYPE_LABEL</Label>
@@ -6323,7 +6346,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPTABLABEL</Label>
-    <String>선박들</String>
+    <String>함선들</String>
   </StringTable>
   <StringTable>
     <Label>TRADE_BONUSES_LABEL</Label>
@@ -6331,7 +6354,7 @@
   </StringTable>
   <StringTable>
     <Label>CITIZENS_LABEL</Label>
-    <String>리더들</String>
+    <String>지도자들</String>
   </StringTable>
   <StringTable>
     <Label>ECONOMICBONUSESLABLE</Label>
@@ -6351,7 +6374,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPSLABLE</Label>
-    <String>선박들</String>
+    <String>함선들</String>
   </StringTable>
   <StringTable>
     <Label>TEMPLATETABLABEL</Label>
@@ -6407,7 +6430,7 @@
   </StringTable>
   <StringTable>
     <Label>DESIGN_DETAILS_LABEL</Label>
-    <String>디자인 세부 사항</String>
+    <String>설계 세부 사항</String>
   </StringTable>
   <StringTable>
     <Label>MAINLISTCOLONYFILTER_Things</Label>
@@ -6447,7 +6470,7 @@
   </StringTable>
   <StringTable>
     <Label>EQUIP_DESIGN_LABEL</Label>
-    <String>장비 디자인</String>
+    <String>장비 설계</String>
   </StringTable>
   <StringTable>
     <Label>MAINLISTSHIPFILTER_Cool</Label>
@@ -6511,7 +6534,7 @@
   </StringTable>
   <StringTable>
     <Label>SAVE_DESIGN_LABEL</Label>
-    <String>선박 디자인 저장</String>
+    <String>함선 설계 저장</String>
   </StringTable>
   <StringTable>
     <Label>SETDESTINATIONLABLE</Label>
@@ -6535,7 +6558,7 @@
   </StringTable>
   <StringTable>
     <Label>ScreenShotFormat</Label>
-    <String>스크린샷 형식</String>
+    <String>화면샷 형식</String>
   </StringTable>
   <StringTable>
     <Label>DESCRIPTIONLABLE</Label>
@@ -6547,7 +6570,7 @@
   </StringTable>
   <StringTable>
     <Label>SELECTEDSHIPDETAILSLABEL</Label>
-    <String>선택된 선박 정보</String>
+    <String>선택된 함선 정보</String>
   </StringTable>
   <StringTable>
     <Label>TRADE_DETAILS_LABEL</Label>
@@ -6595,7 +6618,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPDETAILSLABLE</Label>
-    <String>선박 상세정보</String>
+    <String>함선 상세정보</String>
   </StringTable>
   <StringTable>
     <Label>MAINLISTSHIPFILTER_Fun</Label>
@@ -6623,7 +6646,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPOPTIONSLABLE</Label>
-    <String>선박 옵션</String>
+    <String>함선 옵션</String>
   </StringTable>
   <StringTable>
     <Label>CREDITSUNITS</Label>
@@ -6655,7 +6678,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPREPORTLABLE</Label>
-    <String>선박 보고서</String>
+    <String>함선 보고서</String>
   </StringTable>
   <StringTable>
     <Label>CULTUREUNITS</Label>
@@ -6699,7 +6722,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPSINGFLEETLABLE</Label>
-    <String>함대 내의 선박들</String>
+    <String>함대 내의 함선들</String>
   </StringTable>
   <StringTable>
     <Label>TURNS</Label>
@@ -6731,7 +6754,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPSINTILEAREA</Label>
-    <String>지역 내 선박들</String>
+    <String>지역 내 함선들</String>
   </StringTable>
   <StringTable>
     <Label>TURNSTOCOMPLETE</Label>
@@ -6879,7 +6902,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPNAMETITLE</Label>
-    <String>선박 이름</String>
+    <String>함선 이름</String>
   </StringTable>
   <StringTable>
     <Label>LOGESTICSSHORTLABLE</Label>
@@ -6915,7 +6938,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPTYPETITLE</Label>
-    <String>선박 유형</String>
+    <String>함선 유형</String>
   </StringTable>
   <StringTable>
     <Label>Discrete_7_1</Label>
@@ -7179,7 +7202,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_OPTIONS_LABEL</Label>
-    <String>선박 디자이너 옵션</String>
+    <String>함선 설계 옵션</String>
   </StringTable>
   <StringTable>
     <Label>COLORNAME</Label>
@@ -7187,11 +7210,11 @@
   </StringTable>
   <StringTable>
     <Label>UPGRADE_DESIGN_PICK_CLASS_LABEL</Label>
-    <String>업데이트된 디자인을 위한 선박 클래스를 선택하세요</String>
+    <String>업데이트된 설계을 위한 함선 클래스를 선택하세요</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_PICK_CLASS_LABEL</Label>
-    <String>새로운 배 디자인하기</String>
+    <String>새로운 함선설계하기</String>
   </StringTable>
   <StringTable>
     <Label>ROTATIONNAME</Label>
@@ -7199,7 +7222,7 @@
   </StringTable>
   <StringTable>
     <Label>UPGRADE_DESIGN_LABEL</Label>
-    <String>새로운 디자인</String>
+    <String>새로운 설계</String>
   </StringTable>
   <StringTable>
     <Label>SLIDERLABEL</Label>
@@ -7223,7 +7246,7 @@
   </StringTable>
   <StringTable>
     <Label>LAUNCH_POPULATION_TITLE</Label>
-    <String>선박 로딩</String>
+    <String>함선 로딩</String>
   </StringTable>
   <StringTable>
     <Label>LAUNCH_POPULATION_LABEL</Label>
@@ -7299,7 +7322,7 @@
   </StringTable>
   <StringTable>
     <Label>NEED_SHIPYARD_TOOLTIP</Label>
-    <String>선박 건설에 접근하려면 조선소를 건설하세요.</String>
+    <String>함선 건설에 접근하려면 조선소를 건설하세요.</String>
   </StringTable>
   <StringTable>
     <Label>RESEARCH_ECONOMIC_LABEL</Label>
@@ -7311,7 +7334,7 @@
   </StringTable>
   <StringTable>
     <Label>STACK_CONTEXT_NAME</Label>
-    <String>중첩된 선박들</String>
+    <String>중첩된 함선들</String>
   </StringTable>
   <StringTable>
     <Label>DIPLOMACY_SELECT_RACE_TITLE</Label>
@@ -7339,7 +7362,7 @@
   </StringTable>
   <StringTable>
     <Label>QUICK_BUILD_LABEL</Label>
-    <String>선박 건설</String>
+    <String>함선 건설</String>
   </StringTable>
   <StringTable>
     <Label>QUICK_STATS_LABEL</Label>
@@ -7347,7 +7370,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_UPGRADE_LABEL</Label>
-    <String>선박 업그레이드</String>
+    <String>함선 업그레이드</String>
   </StringTable>
   <StringTable>
     <Label>BASIC_TRADEROUTE</Label>
@@ -7423,7 +7446,7 @@
   </StringTable>
   <StringTable>
     <Label>COLONYSHIP_NAME</Label>
-    <String>콜로니 선박</String>
+    <String>콜로니 함선</String>
   </StringTable>
   <StringTable>
     <Label>SURVEYSHIP_NAME</Label>
@@ -7495,7 +7518,7 @@
   </StringTable>
   <StringTable>
     <Label>DELETE_SHIP_DESIGN_CONFIRM_MESSAGE_TITLE</Label>
-    <String>선박 디자인 삭제</String>
+    <String>함선 설계 삭제</String>
   </StringTable>
   <StringTable>
     <Label>DELETE_HULL_CONFIRM_MESSAGE_TITLE</Label>
@@ -7503,7 +7526,7 @@
   </StringTable>
   <StringTable>
     <Label>OBSOLETE_SHIP_CONFIRM_MESSAGE_TITLE</Label>
-    <String>낡은 디자인</String>
+    <String>낡은 설계</String>
   </StringTable>
   <StringTable>
     <Label>DELETE_SHIP_DESIGN_CONFIRM_MESSAGE</Label>
@@ -7511,7 +7534,7 @@
   </StringTable>
   <StringTable>
     <Label>DELETE_UPLOADED_SHIP_DESIGN_CONFIRM_MESSAGE</Label>
-    <String>이 배 디자인을 영원히 삭제하시겠습니까? 이렇게 하면 워크샵에서도 제거됩니다.</String>
+    <String>이 함선설계을 영원히 삭제하시겠습니까? 이렇게 하면 워크샵에서도 제거됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>DELETE_HULL_CONFIRM_MESSAGE</Label>
@@ -7519,7 +7542,7 @@
   </StringTable>
   <StringTable>
     <Label>OBSOLETE_SHIP_CONFIRM_MESSAGE</Label>
-    <String>이 배 디자인을 더 이상 사용하지 않으려는 것이 확실합니까?</String>
+    <String>이 함선설계을 더 이상 사용하지 않으려는 것이 확실합니까?</String>
   </StringTable>
   <StringTable>
     <Label>BATTLE_ENCOUNTER_CONFIRM_MESSAGE_TITLE</Label>
@@ -7599,7 +7622,7 @@
   </StringTable>
   <StringTable>
     <Label>Notification_StaportIdle_Short</Label>
-    <String>[B]유휴 선박소[/B][BR][COLOR=UIDefaultHot]당신의 선박소에서 건설할 프로젝트를 선택하세요[/COLOR][BR][COLOR=UIDefaultHighlight]단축키: Tab[/COLOR]</String>
+    <String>[B]유휴 함선소[/B][BR][COLOR=UIDefaultHot]당신의 함선소에서 건설할 프로젝트를 선택하세요[/COLOR][BR][COLOR=UIDefaultHighlight]단축키: Tab[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>Notification_StaportIdle_Tooltip</Label>
@@ -7723,7 +7746,7 @@
   </StringTable>
   <StringTable>
     <Label>CONSTRUCT_ERROR_CANNOTBUILDONSTACKEDFLEETS</Label>
-    <String>중첩된 선박 위에 구축할 수 없습니다.</String>
+    <String>중첩된 함선 위에 구축할 수 없습니다.</String>
   </StringTable>
   <StringTable>
     <Label>CONSTRUCT_ERROR_CANNOTBUILDCLOSETOSTARBASE</Label>
@@ -7899,7 +7922,7 @@
   </StringTable>
   <StringTable>
     <Label>EXIT_SHIP_DESIGNER_CONFIRM_MESSAGE</Label>
-    <String>이 작업은 선박 디자이너를 종료하고 저장하지 않은 진행 상황을 모두 잃게 됩니다. 확실합니까?</String>
+    <String>이 작업은 함선 설계를 종료하고 저장하지 않은 진행 상황을 모두 잃게 됩니다. 확실합니까?</String>
   </StringTable>
   <StringTable>
     <Label>BEAM_AUG01_LABEL</Label>
@@ -7983,11 +8006,11 @@
   </StringTable>
   <StringTable>
     <Label>SHOW_DESIGN_GIZMOS_LABEL</Label>
-    <String>디자인 기즈모 보기</String>
+    <String>설계 기즈모 보기</String>
   </StringTable>
   <StringTable>
     <Label>SHORT_SHIP_NAME_LABEL</Label>
-    <String>짧은 선박 이름</String>
+    <String>짧은 함선 이름</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGN_FILTER_LABEL_ALL</Label>
@@ -8007,7 +8030,7 @@
   </StringTable>
   <StringTable>
     <Label>SNATHI_GRAVEYARDS_LABEL</Label>
-    <String>함정에 걸린 선박</String>
+    <String>함정에 걸린 함선</String>
   </StringTable>
   <StringTable>
     <Label>SnathiLostScoutAnomoly_Name</Label>
@@ -8015,7 +8038,7 @@
   </StringTable>
   <StringTable>
     <Label>SnathiLostScoutAnomoly_Dec</Label>
-    <String>테란의 선박에 도달하자 우리는 그것이 대부분의 부분에서 온전함을 발견했습니다. 우리의 수집 크루는 놀랄 만큼 짧은 시간 안에 그것을 작동시킬 수 있었습니다. 일단 선원들이 죽자, 그것을 가두었던 에너지 필드가 사라진 것으로 보입니다.</String>
+    <String>테란의 함선에 도달하자 우리는 그것이 대부분의 부분에서 온전함을 발견했습니다. 우리의 수집 크루는 놀랄 만큼 짧은 시간 안에 그것을 작동시킬 수 있었습니다. 일단 선원들이 죽자, 그것을 가두었던 에너지 필드가 사라진 것으로 보입니다.</String>
   </StringTable>
   <StringTable>
     <Label>SPACEJUNK_LABEL</Label>
@@ -8111,7 +8134,7 @@
   </StringTable>
   <StringTable>
     <Label>DESIGNER_TOOLTIP_LIMITONE</Label>
-    <String>제한: 선박당 하나</String>
+    <String>제한: 함선당 하나</String>
   </StringTable>
   <StringTable>
     <Label>DESIGNER_TOOLTIP_MISSING_REQUIRED_COMPONENT</Label>
@@ -8159,7 +8182,7 @@
   </StringTable>
   <StringTable>
     <Label>DEAD_SHIP</Label>
-    <String>[SKIPPARSE] 선박 [DEAD] [/SKIPPARSE] </String>
+    <String>[SKIPPARSE] 함선 [DEAD] [/SKIPPARSE] </String>
   </StringTable>
   <StringTable>
     <Label>DEAD_STARBASE</Label>
@@ -8215,7 +8238,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGN_UPGRADED_LABEL</Label>
-    <String>업그레이드된 선박 디자인: %s</String>
+    <String>업그레이드된 함선 설계: %s</String>
   </StringTable>
   <StringTable>
     <Label>DESIGN_PALATTE_EDIT_LABEL</Label>
@@ -8491,7 +8514,7 @@
   </StringTable>
   <StringTable>
     <Label>FLEET_DETAILS_SHIPCOUNT_LABEL</Label>
-    <String>함대 내의 선박들:</String>
+    <String>함대 내의 함선들:</String>
   </StringTable>
   <StringTable>
     <Label>FLEET_DETAILS_COMPONENTS_TAB</Label>
@@ -8499,7 +8522,7 @@
   </StringTable>
   <StringTable>
     <Label>FLEET_DETAILS_SHIPS_TAB</Label>
-    <String>함대 내의 선박들</String>
+    <String>함대 내의 함선들</String>
   </StringTable>
   <StringTable>
     <Label>PAUSE_PRODUCTION_LABEL</Label>
@@ -8567,7 +8590,7 @@
   </StringTable>
   <StringTable>
     <Label>DECOMMISSION_MSG_MESSAGE_ONE</Label>
-    <String>이 배를 해체하길 원하십니까?</String>
+    <String>이 함선을 해체하길 원하십니까?</String>
   </StringTable>
   <StringTable>
     <Label>DECOMMISSION_MSG_MESSAGE_MULTIPLE</Label>
@@ -8767,7 +8790,7 @@
   </StringTable>
   <StringTable>
     <Label>ERROR_NO_FOREIGN_SHIPS_IN_PLAYER_TERRITORY</Label>
-    <String>이 지도자에 속한 외국 선박은 당신의 영토에 없습니다.</String>
+    <String>이 지도자에 속한 외국 함선은 당신의 영토에 없습니다.</String>
   </StringTable>
   <StringTable>
     <Label>ERROR_NO_TRADE_EMBARGO</Label>
@@ -8963,7 +8986,7 @@
   </StringTable>
   <StringTable>
     <Label>DOMESTIC_COMMANDS_UNASSIGNED_SPONSOR</Label>
-    <String>선박 조선소 없음</String>
+    <String>함선 조선소 없음</String>
   </StringTable>
   <StringTable>
     <Label>DOMESTIC_COMMANDS_PLANETS_FILTER</Label>
@@ -9031,7 +9054,7 @@
   </StringTable>
   <StringTable>
     <Label>TREATY_DESCRIPTION_OPENBORDERS</Label>
-    <String>각자의 영토를 통과하는 상대방의 선박에 외교적 패널티를 부과하지 않도록 허용하십시오.</String>
+    <String>각자의 영토를 통과하는 상대방의 함선에 외교적 패널티를 부과하지 않도록 허용하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>TREATY_DESCRIPTION_EXPLORATION</Label>
@@ -9115,7 +9138,7 @@
   </StringTable>
   <StringTable>
     <Label>UIVolume</Label>
-    <String>UI 볼륨</String>
+    <String>UI 음량</String>
   </StringTable>
   <StringTable>
     <Label>RESEARCH_SPECIALIZATION_EXLCUSIVITY_TOOLTIP</Label>
@@ -9199,7 +9222,7 @@
   </StringTable>
   <StringTable>
     <Label>Graphs_Timeline_Header</Label>
-    <String>갤럭시에서 귀하의 문명의 지위를 모니터링하세요.</String>
+    <String>은하계에서 귀하의 문명의 지위를 모니터링하세요.</String>
   </StringTable>
   <StringTable>
     <Label>DIPLOMATIC_MODIFIER_EFFECT_THREE_NEGATIVE</Label>
@@ -9527,7 +9550,7 @@
   </StringTable>
   <StringTable>
     <Label>CANNOT_SURVEY_NEED_SURVEY_SHIP</Label>
-    <String>조사 모듈이 있는 선박만 이상 현상을 조사할 수 있습니다.</String>
+    <String>조사 모듈이 있는 함선만 이상 현상을 조사할 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>CANNOT_SURVEY_NEED_WEAPONS</Label>
@@ -9551,7 +9574,7 @@
   </StringTable>
   <StringTable>
     <Label>CANNOT_SUPPLY_UNGOVERNED_WORLD</Label>
-    <String>공급 선박을 수신할 수 있는 것은 통치된 행성들만입니다.</String>
+    <String>공급 함선을 수신할 수 있는 것은 통치된 행성들만입니다.</String>
   </StringTable>
   <StringTable>
     <Label>REPEAL_FORMAT</Label>
@@ -10043,11 +10066,11 @@
   </StringTable>
   <StringTable>
     <Label>MAPEDITOR_VALIDATION_SHIPSWITHOUTOWNER_TITLE</Label>
-    <String>주인 없는 선박이 존재합니다</String>
+    <String>주인 없는 함선이 존재합니다</String>
   </StringTable>
   <StringTable>
     <Label>MAPEDITOR_VALIDATION_SHIPSWITHOUTOWNER_MESSAGE</Label>
-    <String>이 지도에는 소유자가 없는 하나 이상의 선박이 있으므로 캠페인 게임에서는 절대 생성되지 않습니다. 각 선박에 대한 소유자를 선택해 주세요!</String>
+    <String>이 지도에는 소유자가 없는 하나 이상의 함선이 있으므로 캠페인 게임에서는 절대 생성되지 않습니다. 각 함선에 대한 소유자를 선택해 주세요!</String>
   </StringTable>
   <StringTable>
     <Label>MAPEDITOR_VALIDATION_DUPLICATECAMPAIGNID_TITLE</Label>
@@ -10095,7 +10118,7 @@
   </StringTable>
   <StringTable>
     <Label>MAPEDITOR_OBJECTTYPES_SHIPS</Label>
-    <String>선박들</String>
+    <String>함선들</String>
   </StringTable>
   <StringTable>
     <Label>MAPEDITOR_OBJECTTYPES_MERCENARIES</Label>
@@ -10615,7 +10638,7 @@
   </StringTable>
   <StringTable>
     <Label>AIInitatedTradeWaitMsg_Title</Label>
-    <String>리더 바쁨</String>
+    <String>지도자 바쁨</String>
   </StringTable>
   <StringTable>
     <Label>AIInitatedTradeWaitMsg_Message</Label>
@@ -10831,11 +10854,11 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_LEADER_TITLE</Label>
-    <String>리더</String>
+    <String>지도자</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_LEADER_DESCRIPTION</Label>
-    <String>당신의 문명의 리더를 설정하세요</String>
+    <String>당신의 문명의 지도자를 설정하세요</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_OVERVIEW_NAME_TITLE</Label>
@@ -10851,7 +10874,7 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_OVERVIEW_CALLSIGN_TITLE</Label>
-    <String>선박 콜사인</String>
+    <String>함선 콜사인</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_OVERVIEW_DESCRIPTION_TITLE</Label>
@@ -10867,11 +10890,11 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_OVERVIEW_LEADERNAME_TITLE</Label>
-    <String>리더 이름</String>
+    <String>지도자 이름</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_OVERVIEW_PORTRAIT_TITLE</Label>
-    <String>리더 포트레이트</String>
+    <String>지도자 포트레이트</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_OVERVIEW_CITIZENAREA_TITLE</Label>
@@ -10927,27 +10950,27 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_APPEARANCE_STYLE_STYLE</Label>
-    <String>선박 스타일</String>
+    <String>함선 모양</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_APPEARANCE_STYLE_COLORS</Label>
-    <String>선박 색상</String>
+    <String>함선 색상</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_APPEARANCE_SHIPSTYLE_HEADER</Label>
-    <String>선박 스타일</String>
+    <String>함선 모양</String>
   </StringTable>
   <StringTable>
     <Label>LaunchDesignerDec</Label>
-    <String>새로운 함선을 디자인할 때 사용하는 함선 스타일, 색상, 재료를 선택하세요.</String>
+    <String>새로운 함선을 설계할 때 사용하는 함선 모양, 색상, 재료를 선택하세요.</String>
   </StringTable>
   <StringTable>
     <Label>LaunchDesignerTitle</Label>
-    <String>선박 스타일 선택</String>
+    <String>함선 모양 선택</String>
   </StringTable>
   <StringTable>
     <Label>LaunchDesignerPreview</Label>
-    <String>디자이너 미리보기</String>
+    <String>설계 미리보기</String>
   </StringTable>
   <StringTable>
     <Label>LaunchDesignerPanelTitle</Label>
@@ -10971,7 +10994,7 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_APPEARANCE_SHIPSTYLE_HEADER_SUBTEXT</Label>
-    <String>당신의 문명의 배 스타일, 색상, 재질을 선택하세요.</String>
+    <String>당신의 문명의 함선스타일, 색상, 재질을 선택하세요.</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_WND_APPEARANCE_STYLE_MATERIALS_HEADER</Label>
@@ -11035,39 +11058,39 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_PIC_PORTRAIT_TITLE</Label>
-    <String>리더 포트레이트 선택</String>
+    <String>지도자 포트레이트 선택</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_PIC_PORTRAIT_INFOTEXT</Label>
-    <String>사용자 정의 리더 초상화를 사용하려면 512x512 PNG 이미지를 만든 다음 여기에 복사하십시오:</String>
+    <String>사용자 정의 지도자 초상화를 사용하려면 512x512 PNG 이미지를 만든 다음 여기에 복사하십시오:</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_PIC_LEADER_BG_TITLE</Label>
-    <String>리더 배경 이미지 선택</String>
+    <String>지도자 배경 이미지 선택</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_PIC_LEADER_BG_INFOTEXT</Label>
-    <String>사용자 정의 리더 배경을 사용하려면 16:9 PNG 이미지를 만든 다음, 여기에 복사하십시오:</String>
+    <String>사용자 정의 지도자 배경을 사용하려면 16:9 PNG 이미지를 만든 다음, 여기에 복사하십시오:</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_PIC_LEADER_FG_TITLE</Label>
-    <String>리더 전경 이미지 선택</String>
+    <String>지도자 전경 이미지 선택</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_PIC_LEADER_FG_INFOTEXT</Label>
-    <String>사용자 정의 리더 전경을 사용하려면, 16:9 PNG 이미지를 만들고 여기에 복사하십시오:</String>
+    <String>사용자 정의 지도자 전경을 사용하려면, 16:9 PNG 이미지를 만들고 여기에 복사하십시오:</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_PIC_LEADER_FG_INFOTEXT_GENERATED</Label>
-    <String>당신의 리더에 가장 잘 어울리는 이미지를 선택하세요:</String>
+    <String>당신의 지도자에 가장 잘 어울리는 이미지를 선택하세요:</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_MOVIE_LEADER_BG_TITLE</Label>
-    <String>리더 배경 영화 선택</String>
+    <String>지도자 배경 영화 선택</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_MOVIE_LEADER_BG_INFOTEXT</Label>
-    <String>리더의 배경으로 선택할 비디오를 선택하세요.</String>
+    <String>지도자의 배경으로 선택할 비디오를 선택하세요.</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_MOVIE_LEADER_BG_INFOTEXT2</Label>
@@ -11075,11 +11098,11 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_MOVIE_LEADER_FG_TITLE</Label>
-    <String>리더 포어그라운드 영화 선택</String>
+    <String>지도자 포어그라운드 영화 선택</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_MOVIE_LEADER_FG_INFOTEXT</Label>
-    <String>리더를 대표하는 비디오를 선택하세요.</String>
+    <String>지도자를 대표하는 비디오를 선택하세요.</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOM_FACTION_CHOOSE_MOVIE_LEADER_FG_INFOTEXT2</Label>
@@ -12087,7 +12110,7 @@
   </StringTable>
   <StringTable>
     <Label>PersonalityType_Desc_Cultural</Label>
-    <String>갤럭시에서 그들의 영향력을 증가시키는 것들을 가치있게 여긴다.</String>
+    <String>은하계에서 그들의 영향력을 증가시키는 것들을 가치있게 여긴다.</String>
   </StringTable>
   <StringTable>
     <Label>PersonalityType_Spiritual</Label>
@@ -12123,7 +12146,7 @@
   </StringTable>
   <StringTable>
     <Label>PersonalityType_Desc_Totalitarianism</Label>
-    <String>국가에 의한 절대적인 권력과 통제를 믿으며, 공공 및 사적인 모든 측면이 단일 권위의 지배 아래에 있어야 한다고 믿습니다.</String>
+    <String>국가에 의한 절대적인 권력과 통제를 믿으며, 공공 및 사적인 모든 측면이 단일 권위의 지함선아래에 있어야 한다고 믿습니다.</String>
   </StringTable>
   <StringTable>
     <Label>PersonalityType_PacifismPerTurn</Label>
@@ -12219,7 +12242,7 @@
   </StringTable>
   <StringTable>
     <Label>AIPriority_Desc_Military</Label>
-    <String>선박 무기와 행성 방어.</String>
+    <String>함선 무기와 행성 방어.</String>
   </StringTable>
   <StringTable>
     <Label>AIPriority_Growth</Label>
@@ -12327,11 +12350,11 @@
   </StringTable>
   <StringTable>
     <Label>AtLeast2Ships</Label>
-    <String>2척 이상의 선박</String>
+    <String>2척 이상의 함선</String>
   </StringTable>
   <StringTable>
     <Label>AtLeast3Ships</Label>
-    <String>3척 이상의 선박</String>
+    <String>3척 이상의 함선</String>
   </StringTable>
   <StringTable>
     <Label>AtLeast4Ships</Label>
@@ -12339,27 +12362,27 @@
   </StringTable>
   <StringTable>
     <Label>AtLeast5Ships</Label>
-    <String>5척 이상의 선박</String>
+    <String>5척 이상의 함선</String>
   </StringTable>
   <StringTable>
     <Label>AtLeast6Ships</Label>
-    <String>6대 이상의 선박</String>
+    <String>6대 이상의 함선</String>
   </StringTable>
   <StringTable>
     <Label>AtLeast7Ships</Label>
-    <String>7 척 이상의 선박</String>
+    <String>7 척 이상의 함선</String>
   </StringTable>
   <StringTable>
     <Label>AtLeast8Ships</Label>
-    <String>8척 이상의 선박</String>
+    <String>8척 이상의 함선</String>
   </StringTable>
   <StringTable>
     <Label>AtLeast9Ships</Label>
-    <String>9척 이상의 선박</String>
+    <String>9척 이상의 함선</String>
   </StringTable>
   <StringTable>
     <Label>AtLeast10Ships</Label>
-    <String>10대 이상의 선박</String>
+    <String>10대 이상의 함선</String>
   </StringTable>
   <StringTable>
     <Label>DisableInfluenceToolTip</Label>
@@ -12423,7 +12446,7 @@
   </StringTable>
   <StringTable>
     <Label>Regenerate_Images_Description_Label_TT</Label>
-    <String>당신의 문명에 맞는 추가 리더 이미지를 위해 주사위를 굴리세요.</String>
+    <String>당신의 문명에 맞는 추가 지도자 이미지를 위해 주사위를 굴리세요.</String>
   </StringTable>
   <StringTable>
     <Label>Regenerate_Images_Description_Label_Cap_TT</Label>
@@ -12567,15 +12590,15 @@
   </StringTable>
   <StringTable>
     <Label>Copy_Queue_Label</Label>
-    <String>이 디자인의 다른 배를 만드세요.</String>
+    <String>이 설계의 다른 함선을 만드세요.</String>
   </StringTable>
   <StringTable>
     <Label>Update_Queue_Label</Label>
-    <String>최신 버전으로 디자인을 업데이트하십시오.</String>
+    <String>최신 버전으로 설계을 업데이트하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>Repeat_Queue_Label</Label>
-    <String>더 이상의 지시가 있을 때까지 이 디자인을 계속 만드십시오.</String>
+    <String>더 이상의 지시가 있을 때까지 이 설계을 계속 만드십시오.</String>
   </StringTable>
   <StringTable>
     <Label>INVASION_LIKELIHOOD_TITLE</Label>
@@ -12607,7 +12630,7 @@
   </StringTable>
   <StringTable>
     <Label>Civilization_Leader_Title</Label>
-    <String>리더 맞춤 설정</String>
+    <String>지도자 맞춤 설정</String>
   </StringTable>
   <StringTable>
     <Label>Civilization_Leader_FG_Title</Label>
@@ -12755,11 +12778,11 @@
   </StringTable>
   <StringTable>
     <Label>LOADING_GALAXY_DATA</Label>
-    <String>갤럭시 데이터 로딩 중...</String>
+    <String>은하계 데이터 로딩 중...</String>
   </StringTable>
   <StringTable>
     <Label>LOADING_CUSTOM_SHIP_DATA</Label>
-    <String>사용자 정의 선박 데이터 로딩 중...</String>
+    <String>사용자 정의 함선 데이터 로딩 중...</String>
   </StringTable>
   <StringTable>
     <Label>LOADING_PLAYER_SETUP</Label>
@@ -12767,7 +12790,7 @@
   </StringTable>
   <StringTable>
     <Label>LOADING_BUILDING_MAP</Label>
-    <String>갤럭시 구축 중...</String>
+    <String>은하계 구축 중...</String>
   </StringTable>
   <StringTable>
     <Label>LOADING_WAIT_PEERS</Label>
@@ -12787,11 +12810,11 @@
   </StringTable>
   <StringTable>
     <Label>UnlimitedRange_Desc</Label>
-    <String>선박은 무제한 범위를 가지고 있습니다.</String>
+    <String>함선은 무제한 범위를 가지고 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>Ship_Behavior_Label</Label>
-    <String>선박 역할은 이 선박이 전투에서 어떻게 행동하고, 귀하의 함대 내 다른 선박들과 어떻게 상호 작용할지를 결정합니다.</String>
+    <String>함선 역할은 이 함선이 전투에서 어떻게 행동하고, 귀하의 함대 내 다른 함선들과 어떻게 상호 작용할지를 결정합니다.</String>
   </StringTable>
   <StringTable>
     <Label>Starbase_Constructor_Status_Label</Label>
@@ -12831,7 +12854,7 @@
   </StringTable>
   <StringTable>
     <Label>Starbase_Sponsor_Design_Label</Label>
-    <String>생성자 디자인</String>
+    <String>생성자 설계</String>
   </StringTable>
   <StringTable>
     <Label>Starbase_Sponsor_Available_Label</Label>
@@ -12867,7 +12890,7 @@
   </StringTable>
   <StringTable>
     <Label>Tooltip_Guardian</Label>
-    <String>전투에서, 수호자들은 지탱력이 약하고 가치가 높은 대상들, 예를 들어 지원선박과 같은 것들을 방어하려 할 것입니다. 그들이 보호하는 대상들이 남아있는 한, 그들은 이 의무를 절대로 포기하지 않을 것입니다.</String>
+    <String>전투에서, 수호자들은 지탱력이 약하고 가치가 높은 대상들, 예를 들어 지원함선과 같은 것들을 방어하려 할 것입니다. 그들이 보호하는 대상들이 남아있는 한, 그들은 이 의무를 절대로 포기하지 않을 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>Tooltip_Support</Label>
@@ -12919,7 +12942,7 @@
   </StringTable>
   <StringTable>
     <Label>MOD_SOURCE_CATEGORY_SHIP</Label>
-    <String>선박들</String>
+    <String>함선들</String>
   </StringTable>
   <StringTable>
     <Label>MOD_SOURCE_CATEGORY_POLICY</Label>
@@ -13031,7 +13054,7 @@
   </StringTable>
   <StringTable>
     <Label>SAVE_DISABLED_MOVING</Label>
-    <String>선박 이동, 전투, 침략, 그리고 식민지화가 해결될 때까지 기다려 주십시오.</String>
+    <String>함선 이동, 전투, 침략, 그리고 식민지화가 해결될 때까지 기다려 주십시오.</String>
   </StringTable>
   <StringTable>
     <Label>SAVE_DISABLED_NOT_YOUR_TURN</Label>
@@ -13307,15 +13330,15 @@
   </StringTable>
   <StringTable>
     <Label>ShowAllShipDesigns</Label>
-    <String>모든 선박 디자인 보기</String>
+    <String>모든 함선 설계 보기</String>
   </StringTable>
   <StringTable>
     <Label>ShowCustomShipDesignsOnly</Label>
-    <String>사용자 정의 함선 디자인만 표시</String>
+    <String>사용자 정의 함선 설계만 표시</String>
   </StringTable>
   <StringTable>
     <Label>ShowOverweightShipDesigns</Label>
-    <String>과부하 디자인 보여주기</String>
+    <String>과부하 설계 보여주기</String>
   </StringTable>
   <StringTable>
     <Label>AutoFavCreatedShipDesigns</Label>
@@ -13323,7 +13346,7 @@
   </StringTable>
   <StringTable>
     <Label>AllowFreeformShipDesigns</Label>
-    <String>자유형식 선박 디자인 활성화</String>
+    <String>자유형식 함선 설계 활성화</String>
   </StringTable>
   <StringTable>
     <Label>SHIPDESIGNOPTION_RESTART_MESSAGE_TITLE</Label>
@@ -13383,7 +13406,7 @@
   </StringTable>
   <StringTable>
     <Label>ALERT_ForeignInZOC</Label>
-    <String>열린 국경이 없는 당신의 영토에 %ld 척의 외국 선박이 있습니다.</String>
+    <String>열린 국경이 없는 당신의 영토에 %ld 척의 외국 함선이 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_IdeologyPointAvailable</Label>
@@ -13391,7 +13414,7 @@
   </StringTable>
   <StringTable>
     <Label>ALERT_LeaderAvailable</Label>
-    <String>리더가 할당될 수 있는 상태입니다.</String>
+    <String>지도자가 할당될 수 있는 상태입니다.</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_Starvation</Label>
@@ -13455,7 +13478,7 @@
   </StringTable>
   <StringTable>
     <Label>ALERT_ShipUpgradeAvailable</Label>
-    <String>선박 업그레이드가 가능합니다.</String>
+    <String>함선 업그레이드가 가능합니다.</String>
   </StringTable>
   <StringTable>
     <Label>AlertString_UnknownPlayer</Label>
@@ -13483,7 +13506,7 @@
   </StringTable>
   <StringTable>
     <Label>GALAXYSETTINGS_RECOMMENDEDPLAYERS_TOOLTIP</Label>
-    <String>%s 갤럭시에는 %d 문명이 권장됩니다</String>
+    <String>%s 은하계에는 %d 문명이 권장됩니다</String>
   </StringTable>
   <StringTable>
     <Label>GALAXYSETTINGS_POPUP_ADJUSTPLAYERS_TITLE</Label>
@@ -13531,7 +13554,7 @@
   </StringTable>
   <StringTable>
     <Label>CONTEXT_PLANET_DEFENDINGSHIPCOUNT_TOOLTIP</Label>
-    <String>방어 중인 선박 수</String>
+    <String>방어 중인 함선 수</String>
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_SHIPS_ICON_LABEL</Label>
@@ -13815,7 +13838,7 @@
   </StringTable>
   <StringTable>
     <Label>EndGameSummarySubWnd_Label_MostPowerfulShip</Label>
-    <String>가장 강력한 선박</String>
+    <String>가장 강력한 함선</String>
   </StringTable>
   <StringTable>
     <Label>EndGameSummarySubWnd_Label_MostPowerfulStarbase</Label>
@@ -13827,7 +13850,7 @@
   </StringTable>
   <StringTable>
     <Label>EndGameSummarySubWnd_Label_FavoriteShipRole</Label>
-    <String>즐겨하는 선박 역할</String>
+    <String>즐겨하는 함선 역할</String>
   </StringTable>
   <StringTable>
     <Label>EndGameSummarySubWnd_Label_FavoriteWeaponType</Label>
@@ -13935,11 +13958,11 @@
   </StringTable>
   <StringTable>
     <Label>EndGameRankingSubWnd_Label_ShipsBuilt</Label>
-    <String>선박 건조</String>
+    <String>함선 건조</String>
   </StringTable>
   <StringTable>
     <Label>EndGameRankingSubWnd_Label_ShipsLost</Label>
-    <String>잃어버린 선박들</String>
+    <String>잃어버린 함선들</String>
   </StringTable>
   <StringTable>
     <Label>EndGameRankingSubWnd_Label_StarbasesBuilt</Label>
@@ -14011,7 +14034,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_SHIPS_LABEL</Label>
-    <String>방어 중인 선박들:</String>
+    <String>방어 중인 함선들:</String>
   </StringTable>
   <StringTable>
     <Label>HEXINFLUENCETOOLTIP_TITLE</Label>
@@ -14151,7 +14174,7 @@
   </StringTable>
   <StringTable>
     <Label>STARBASE_EFFECTS_HEADER_OWNER_SHIPS</Label>
-    <String>선박과 함대</String>
+    <String>함선과 함대</String>
   </StringTable>
   <StringTable>
     <Label>STARBASE_ONROUTE_CONSTRUCTOR_SHIPS</Label>
@@ -14219,7 +14242,7 @@
   </StringTable>
   <StringTable>
     <Label>FLEETTOOLTIP_NUMSHIPS</Label>
-    <String>함대 내의 선박들</String>
+    <String>함대 내의 함선들</String>
   </StringTable>
   <StringTable>
     <Label>FLEETTOOLTIP_SENSORRANGE</Label>
@@ -14227,7 +14250,7 @@
   </StringTable>
   <StringTable>
     <Label>FLEETTOOLTIP_SHIPRANGE</Label>
-    <String>선박 범위</String>
+    <String>함선 범위</String>
   </StringTable>
   <StringTable>
     <Label>FLEETTOOLTIP_MAINTENANCE</Label>
@@ -14235,7 +14258,7 @@
   </StringTable>
   <StringTable>
     <Label>FLEETCONTEXT_NUMSHIPS</Label>
-    <String>함대의 선박들</String>
+    <String>함대의 함선들</String>
   </StringTable>
   <StringTable>
     <Label>FLEETTOOLTIP_SHIP_HITPOINTS</Label>
@@ -14295,15 +14318,15 @@
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_POPUP_TOTAL_SHIPS_LABEL</Label>
-    <String>타일 내 총 선박 수:</String>
+    <String>타일 내 총 함선 수:</String>
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_POPUP_INFO_HEADER</Label>
-    <String>선택된 선박들</String>
+    <String>선택된 함선들</String>
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_POPUP_SELECTED_TOTAL_LABEL</Label>
-    <String>총 선택된 선박 수</String>
+    <String>총 선택된 함선 수</String>
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_POPUP_SELECTED_LOGISTICS_LABEL</Label>
@@ -14315,7 +14338,7 @@
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_POPUP_SHIP_HEADER</Label>
-    <String>타일 내의 단일 선박</String>
+    <String>타일 내의 단일 함선</String>
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_ERROR_NOTHINGSELECTED</Label>
@@ -14327,7 +14350,7 @@
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_ERROR_UPGRADING</Label>
-    <String>선박 업그레이드</String>
+    <String>함선 업그레이드</String>
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_ERROR_NOTENOUGHLOGISTICS</Label>
@@ -14335,7 +14358,7 @@
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_ERROR_OBJECTNOTOWNED</Label>
-    <String>당신의 선박이 아닙니다</String>
+    <String>당신의 함선이 아닙니다</String>
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_ERROR_NOTPLAYERTURN</Label>
@@ -14343,7 +14366,7 @@
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_ERROR_TOO_MANY_COMMANDERS</Label>
-    <String>두 개 이상의 One Per Fleet 선박이 선택되었습니다</String>
+    <String>두 개 이상의 One Per Fleet 함선이 선택되었습니다</String>
   </StringTable>
   <StringTable>
     <Label>COMMAND_SHIP_DESTROYED</Label>
@@ -14351,11 +14374,11 @@
   </StringTable>
   <StringTable>
     <Label>STACKED_SHIP_BAR_TITLE</Label>
-    <String>스택된 선박 또는 함대:</String>
+    <String>스택된 함선 또는 함대:</String>
   </StringTable>
   <StringTable>
     <Label>RALLY_CONTEXT_UPGRADE_FLEET_ERROR</Label>
-    <String>개별적인 선박만 업그레이드 할 수 있습니다.</String>
+    <String>개별적인 함선만 업그레이드 할 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>START_TURN_LABEL</Label>
@@ -14579,7 +14602,7 @@
   </StringTable>
   <StringTable>
     <Label>Hotkey_Main_LevelUpgradeShip</Label>
-    <String>선박 업그레이드</String>
+    <String>함선 업그레이드</String>
   </StringTable>
   <StringTable>
     <Label>Hotkey_Main_Decommision</Label>
@@ -14587,27 +14610,27 @@
   </StringTable>
   <StringTable>
     <Label>Hotkey_ShipDesigner_DeletePart</Label>
-    <String>선박 디자이너 - 부품 삭제</String>
+    <String>함선 설계 - 부품 삭제</String>
   </StringTable>
   <StringTable>
     <Label>Hotkey_ShipDesigner_ScaleGizmo</Label>
-    <String>선박 디자이너 - 스케일 기즈모</String>
+    <String>함선 설계 - 스케일 기즈모</String>
   </StringTable>
   <StringTable>
     <Label>Hotkey_ShipDesigner_RotateGizmo</Label>
-    <String>선박 디자이너 - 회전 기즈모</String>
+    <String>함선 설계 - 회전 기즈모</String>
   </StringTable>
   <StringTable>
     <Label>Hotkey_ShipDesigner_OffsetGizmo</Label>
-    <String>선박 디자이너 - 오프셋 기즈모</String>
+    <String>함선 설계 - 오프셋 기즈모</String>
   </StringTable>
   <StringTable>
     <Label>Hotkey_ShipDesigner_CenterView</Label>
-    <String>선박 디자이너 - 중앙 보기</String>
+    <String>함선 설계 - 중앙 보기</String>
   </StringTable>
   <StringTable>
     <Label>Hotkey_ShipDesigner_ToggleAnchorPoints</Label>
-    <String>선박 디자이너 - 앵커 포인트</String>
+    <String>함선 설계 - 앵커 포인트</String>
   </StringTable>
   <StringTable>
     <Label>Hotkey_ShipYard_Cancel</Label>
@@ -14819,7 +14842,7 @@
   </StringTable>
   <StringTable>
     <Label>HOTKEY_TOOLTIP_DECOMMISSION_TEXT</Label>
-    <String>[B]해체[/B][BR][COLOR=UIDefaultHot]이 배를 파괴하십시오.[/COLOR]</String>
+    <String>[B]해체[/B][BR][COLOR=UIDefaultHot]이 함선을 파괴하십시오.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>HOTKEY_TOOLTIP_SURVEY_TEXT</Label>
@@ -14835,11 +14858,11 @@
   </StringTable>
   <StringTable>
     <Label>HOTKEY_TOOLTIP_SENTRY_TEXT</Label>
-    <String>[B]경비병[/B][BR][COLOR=UIDefaultHot]선박에게 여기에 머무르라는 명령을 내리세요(턴을 건너뛰기). 적선이 센서 범위 내에 들어오면만 다시 활성화됩니다.[/COLOR]</String>
+    <String>[B]경비병[/B][BR][COLOR=UIDefaultHot]함선에게 여기에 머무르라는 명령을 내리세요(턴을 건너뛰기). 적선이 센서 범위 내에 들어오면만 다시 활성화됩니다.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>HOTKEY_TOOLTIP_STANDBY_TEXT</Label>
-    <String>[B]대기 중[/B][BR][COLOR=UIDefaultHot]선박에게 여기에 머무르라고 명령하십시오(턴을 건너 뜁니다). 그것은 다른 지시가 있을 때까지 비활동 상태이며 응답하지 않을 것입니다.[/COLOR]</String>
+    <String>[B]대기 중[/B][BR][COLOR=UIDefaultHot]함선에게 여기에 머무르라고 명령하십시오(턴을 건너 뜁니다). 그것은 다른 지시가 있을 때까지 비활동 상태이며 응답하지 않을 것입니다.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>HOTKEY_TOOLTIP_REPAIR_TEXT</Label>
@@ -15015,7 +15038,7 @@
   </StringTable>
   <StringTable>
     <Label>INVASION_INITIATION_SHIP_CASUALTIES</Label>
-    <String>선박 사상자:</String>
+    <String>함선 사상자:</String>
   </StringTable>
   <StringTable>
     <Label>INVASION_INITIATION_TROOP_CASUALTIES</Label>
@@ -15079,15 +15102,15 @@
   </StringTable>
   <StringTable>
     <Label>SAVEORSEND3DPRINT_INFO_1</Label>
-    <String>디자인을 로컬로 내보내거나 3D 프린팅 서비스를 이용하여 인쇄할 수 있습니다.</String>
+    <String>설계을 로컬로 내보내거나 3D 프린팅 서비스를 이용하여 인쇄할 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>SAVEORSEND3DPRINT_INFO_2</Label>
-    <String>로컬로 내보내기는 귀하의 우주선 디자인의 로컬 복사본을 저장합니다 (OBJ 파일 형식). 귀하는 이 파일을 자신의 3D 프린터에서 사용할 수 있습니다.</String>
+    <String>로컬로 내보내기는 귀하의 우주선 설계의 로컬 복사본을 저장합니다 (OBJ 파일 형식). 귀하는 이 파일을 자신의 3D 프린터에서 사용할 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>SAVEORSEND3DPRINT_INFO_3</Label>
-    <String>그 외에, 선박 디자인을 제3자 서비스에 내보내서 디자인을 3D 프린트할 수도 있습니다.</String>
+    <String>그 외에, 함선 설계을 제3자 서비스에 내보내서 설계을 3D 프린트할 수도 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>SAVEORSEND3DPRINT_SAVE_BUTTON</Label>
@@ -15119,11 +15142,11 @@
   </StringTable>
   <StringTable>
     <Label>3DPRINT_INFO_TEXT</Label>
-    <String>다음 이름과 설명은 3D 프린팅 서비스에서 귀하의 선박을 식별하는 데 도움이 될 것입니다.</String>
+    <String>다음 이름과 설명은 3D 프린팅 서비스에서 귀하의 함선을 식별하는 데 도움이 될 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>3DPRINT_SCREEN_LABEL</Label>
-    <String>선박 프린팅을 위해 업로드</String>
+    <String>함선 프린팅을 위해 업로드</String>
   </StringTable>
   <StringTable>
     <Label>3DPRINT_STATUS_WAITINGTOUPLOAD</Label>
@@ -15139,11 +15162,11 @@
   </StringTable>
   <StringTable>
     <Label>3DPRINT_ERROR_NOSHIP_TITLE</Label>
-    <String>선박을 찾을 수 없습니다</String>
+    <String>함선을 찾을 수 없습니다</String>
   </StringTable>
   <StringTable>
     <Label>3DPRINT_ERROR_NOSHIP_MESSAGE</Label>
-    <String>선박이 업로드를 위해 찾을 수 없습니다. 삭제되었나요? 다시 시도해 주세요.</String>
+    <String>함선이 업로드를 위해 찾을 수 없습니다. 삭제되었나요? 다시 시도해 주세요.</String>
   </StringTable>
   <StringTable>
     <Label>3DPRINT_SERVER_ERROR_TITLE</Label>
@@ -15167,7 +15190,7 @@
   </StringTable>
   <StringTable>
     <Label>3DPRINT_ERROR_FILENOTEXIST_MESSAGE</Label>
-    <String>내보낸 선박 파일이 업로드를 위해 찾을 수 없습니다. 삭제되었나요? 다시 시도해 주세요.</String>
+    <String>내보낸 함선 파일이 업로드를 위해 찾을 수 없습니다. 삭제되었나요? 다시 시도해 주세요.</String>
   </StringTable>
   <StringTable>
     <Label>3DPRINT_ERROR_ZIPNOTEXIST_TITLE</Label>
@@ -15183,11 +15206,11 @@
   </StringTable>
   <StringTable>
     <Label>3DPRINT_ERROR_NONAME_MESSAGE</Label>
-    <String>3D 프린팅을 위해 선박을 업로드하려면 이름이 필요합니다.</String>
+    <String>3D 프린팅을 위해 함선을 업로드하려면 이름이 필요합니다.</String>
   </StringTable>
   <StringTable>
     <Label>UPLOAD_TO_WORKSHOP_LABEL</Label>
-    <String>디자인 업로드</String>
+    <String>설계 업로드</String>
   </StringTable>
   <StringTable>
     <Label>UPLOADMOD_SCREEN_LABEL</Label>
@@ -15387,7 +15410,7 @@
   </StringTable>
   <StringTable>
     <Label>UPLOADMOD_STATUS_FAILED_IMAGE_UPLOAD</Label>
-    <String>스크린샷 업로드 실패.</String>
+    <String>화면샷 업로드 실패.</String>
   </StringTable>
   <StringTable>
     <Label>RETRY_UPLOAD_TITLE</Label>
@@ -15415,7 +15438,7 @@
   </StringTable>
   <StringTable>
     <Label>ColonyStaticBlueprint_Name</Label>
-    <String>콜로니 선박</String>
+    <String>콜로니 함선</String>
   </StringTable>
   <StringTable>
     <Label>ScoutStaticBlueprint_Name</Label>
@@ -15567,7 +15590,7 @@
   </StringTable>
   <StringTable>
     <Label>OVERWRITE_SHIP_DESIGN_TITLE</Label>
-    <String>디자인을 덮어쓰시겠습니까?</String>
+    <String>설계을 덮어쓰시겠습니까?</String>
   </StringTable>
   <StringTable>
     <Label>OVERWRITE_HULL_TITLE</Label>
@@ -15575,7 +15598,7 @@
   </StringTable>
   <StringTable>
     <Label>OVERWRITE_SHIP_DESIGN_MESSAGE</Label>
-    <String>이미 %s라는 이름의 함선 디자인이 존재합니다. 그 함선 디자인을 덮어쓰시겠습니까?</String>
+    <String>이미 %s라는 이름의 함선 설계이 존재합니다. 그 함선 설계을 덮어쓰시겠습니까?</String>
   </StringTable>
   <StringTable>
     <Label>OVERWRITE_HULL_MESSAGE</Label>
@@ -15615,7 +15638,7 @@
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_REQUIRES_COLONY</Label>
-    <String>콜로니 선박 클래스는 콜로니 모듈이 필요합니다</String>
+    <String>콜로니 함선 클래스는 콜로니 모듈이 필요합니다</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_REQUIRES_SURVEY</Label>
@@ -15647,23 +15670,23 @@
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_NEW_DESIGN_TOOLTIP</Label>
-    <String>처음부터 완전히 새로운 선박 디자인을 만들어보세요</String>
+    <String>처음부터 완전히 새로운 함선 설계을 만들어보세요</String>
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_UPGRADE_DESIGN_TOOLTIP</Label>
-    <String>이 디자인을 사용하여 새로운 디자인을 시작하세요</String>
+    <String>이 설계을 사용하여 새로운 설계을 시작하세요</String>
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_UPGRADE_CUSTOM_DESIGN_TOOLTIP</Label>
-    <String>이 디자인을 수정하거나 새로운 디자인을 시작하는데 사용하세요</String>
+    <String>이 설계을 수정하거나 새로운 설계을 시작하는데 사용하세요</String>
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_OBSOLETE_DESIGN_TOOLTIP</Label>
-    <String>일시적으로 이 디자인 숨기기</String>
+    <String>일시적으로 이 설계 숨기기</String>
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_DELETE_DESIGN_TOOLTIP</Label>
-    <String>이 디자인을 영구적으로 삭제</String>
+    <String>이 설계을 영구적으로 삭제</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_OBSOLETE_HULL_TOOLTIP</Label>
@@ -15679,15 +15702,15 @@
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_UPLOAD_NEED_TO_HOTLOAD</Label>
-    <String>이 함선 디자인을 워크샵에 업로드하기 전에 다시 로드해야 합니다. 업로드하기 전에 디자이너를 종료하고 다시 들어가세요.</String>
+    <String>이 함선 설계을 워크샵에 업로드하기 전에 다시 로드해야 합니다. 업로드하기 전에 설계를 종료하고 다시 들어가세요.</String>
   </StringTable>
   <StringTable>
     <Label>DESIGNER_IN_GAME_UPLOAD_NEED_TO_HOTLOAD</Label>
-    <String>이 배 디자인을 워크샵에 업로드하기 전에 다시 로드해야 합니다. 재로드를 실행하기 위해선 저장하고 메인 메뉴로 나가야 할 것입니다.</String>
+    <String>이 함선설계을 워크샵에 업로드하기 전에 다시 로드해야 합니다. 재로드를 실행하기 위해선 저장하고 메인 메뉴로 나가야 할 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_NOT_YOUR_DESIGN_TOOLTIP</Label>
-    <String>디자인을 워크샵에만 업로드할 수 있습니다</String>
+    <String>설계을 워크샵에만 업로드할 수 있습니다</String>
   </StringTable>
   <StringTable>
     <Label>DESIGNER_LANDING_WORKSHOP_TOOLTIP</Label>
@@ -15991,7 +16014,7 @@
   </StringTable>
   <StringTable>
     <Label>BlockedByGovernment</Label>
-    <String>[COLOR=BrightRed]당신의 정부가 비군사 선박을 차단하고 있습니다[/COLOR]</String>
+    <String>[COLOR=BrightRed]당신의 정부가 비군사 함선을 차단하고 있습니다[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>AlreadyBuilt</Label>
@@ -16015,11 +16038,11 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_EMPTY_NAME_TITLE</Label>
-    <String>선박 이름이 비어 있습니다</String>
+    <String>함선 이름이 비어 있습니다</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_EMPTY_NAME_LABEL</Label>
-    <String>선박의 이름은 비워 둘 수 없습니다. 선박의 이름을 입력해 주세요.</String>
+    <String>함선의 이름은 비워 둘 수 없습니다. 함선의 이름을 입력해 주세요.</String>
   </StringTable>
   <StringTable>
     <Label>EXPORT_SUCCESSFUL_TITLE</Label>
@@ -16027,7 +16050,7 @@
   </StringTable>
   <StringTable>
     <Label>EXPORT_SUCCESSFUL_MESSAGE</Label>
-    <String>선박 디자인이 %s\%s에 성공적으로 내보내졌습니다</String>
+    <String>함선 설계이 %s\%s에 성공적으로 내보내졌습니다</String>
   </StringTable>
   <StringTable>
     <Label>CHECKSUM_MISMATCH_LOBBY</Label>
@@ -16087,11 +16110,11 @@
   </StringTable>
   <StringTable>
     <Label>SCAVENGE_MESSAGE_TITLE</Label>
-    <String>선박 회수 완료</String>
+    <String>함선 회수 완료</String>
   </StringTable>
   <StringTable>
     <Label>SCAVENGE_MESSAGE</Label>
-    <String>선박 %s이(가) 수색되었습니다!</String>
+    <String>함선 %s이(가) 수색되었습니다!</String>
   </StringTable>
   <StringTable>
     <Label>Rally_Locations_Label</Label>
@@ -16115,7 +16138,7 @@
   </StringTable>
   <StringTable>
     <Label>DLC_TITLE_FOUNDERS_PARTS</Label>
-    <String>선박 부품 발사 팩</String>
+    <String>함선 부품 발사 팩</String>
   </StringTable>
   <StringTable>
     <Label>DLC_TITLE_REGISTRATION</Label>
@@ -16159,7 +16182,7 @@
   </StringTable>
   <StringTable>
     <Label>DLC_TITLE_CLASSICSHIPS</Label>
-    <String>클래식 선박 DLC</String>
+    <String>클래식 함선 DLC</String>
   </StringTable>
   <StringTable>
     <Label>DLC_TITLE_MECH_KIT</Label>
@@ -16283,7 +16306,7 @@
   </StringTable>
   <StringTable>
     <Label>VALIDATE_FACTION_SHIP_STYLE</Label>
-    <String>+ 알 수 없는 선박 스타일</String>
+    <String>+ 알 수 없는 함선 모양</String>
   </StringTable>
   <StringTable>
     <Label>VALIDATE_FACTION_TECH_TREE</Label>
@@ -16483,7 +16506,7 @@
   </StringTable>
   <StringTable>
     <Label>BAZAAR_MERCENARY_SHIP_LABEL</Label>
-    <String>선박</String>
+    <String>함선</String>
   </StringTable>
   <StringTable>
     <Label>BAZAAR_MERCENARY_MERCENARY_LABEL</Label>
@@ -16591,7 +16614,7 @@
   </StringTable>
   <StringTable>
     <Label>FLEET_TOOLTIP_TRADE_DISABLED_ONEPERPLAYER</Label>
-    <String>[COLOR=BrightRed]고유한 선박들은 거래할 수 없습니다.[/COLOR]</String>
+    <String>[COLOR=BrightRed]고유한 함선들은 거래할 수 없습니다.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>MERCENARY_STATION_LABEL</Label>
@@ -16623,7 +16646,7 @@
   </StringTable>
   <StringTable>
     <Label>STARBASESPONSOR_ENTRY_PROVIDES_TOOLTIP</Label>
-    <String>대기열에 있는 선박 수</String>
+    <String>대기열에 있는 함선 수</String>
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_QUEUE_STARBASE_MODULE_NAME</Label>
@@ -16631,7 +16654,7 @@
   </StringTable>
   <StringTable>
     <Label>FavoredShips</Label>
-    <String>[ICON=Stat_Special_Icon] 선호하는 선박들</String>
+    <String>[ICON=Stat_Special_Icon] 선호하는 함선들</String>
   </StringTable>
   <StringTable>
     <Label>BeamShips</Label>
@@ -16643,7 +16666,7 @@
   </StringTable>
   <StringTable>
     <Label>KineticShips</Label>
-    <String>[ICON=KineticAttackIcon] 키네틱 선박</String>
+    <String>[ICON=KineticAttackIcon] 키네틱 함선</String>
   </StringTable>
   <StringTable>
     <Label>BalancedShips</Label>
@@ -16651,7 +16674,7 @@
   </StringTable>
   <StringTable>
     <Label>SpecialtyShips</Label>
-    <String>특징적인 선박들</String>
+    <String>특징적인 함선들</String>
   </StringTable>
   <StringTable>
     <Label>MilitaryShips</Label>
@@ -16699,7 +16722,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPDESIGNLIST_FILTER_ALL_TOOLTIP</Label>
-    <String>모든 선박 보기</String>
+    <String>모든 함선 보기</String>
   </StringTable>
   <StringTable>
     <Label>SHIPDESIGNLIST_FILTER_CORE_TOOLTIP</Label>
@@ -16767,7 +16790,7 @@
   </StringTable>
   <StringTable>
     <Label>Undeclared_Desc</Label>
-    <String>선언되지 않은 선박 클래스입니다. 조선소에서 건설하려면 특정 클래스로 업그레이드하세요.</String>
+    <String>선언되지 않은 함선 클래스입니다. 조선소에서 건설하려면 특정 클래스로 업그레이드하세요.</String>
   </StringTable>
   <StringTable>
     <Label>Invader</Label>
@@ -16863,7 +16886,7 @@
   </StringTable>
   <StringTable>
     <Label>ColonyShip</Label>
-    <String>콜로니 선박</String>
+    <String>콜로니 함선</String>
   </StringTable>
   <StringTable>
     <Label>Transport</Label>
@@ -16895,7 +16918,7 @@
   </StringTable>
   <StringTable>
     <Label>Ship</Label>
-    <String>선박</String>
+    <String>함선</String>
   </StringTable>
   <StringTable>
     <Label>Culturebase</Label>
@@ -17043,11 +17066,11 @@
   </StringTable>
   <StringTable>
     <Label>FAVORBUTTON_TOOLTIP</Label>
-    <String>목록의 맨 위에 두거나 무시하기 위해 선박을 즐겨찾기로 설정하거나 해제하세요.</String>
+    <String>목록의 맨 위에 두거나 무시하기 위해 함선을 즐겨찾기로 설정하거나 해제하세요.</String>
   </StringTable>
   <StringTable>
     <Label>OBSOLETEBUTTON_TOOLTIP</Label>
-    <String>더 이상 필요하지 않은 선박 디자인을 폐기하세요.</String>
+    <String>더 이상 필요하지 않은 함선 설계을 폐기하세요.</String>
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_DO_NOT_NOTIFY_LABEL</Label>
@@ -17079,7 +17102,7 @@
   </StringTable>
   <StringTable>
     <Label>SENSORRANGE_TOOLTIP_SHIP_DESC</Label>
-    <String>센서 범위를 늘리려면, 선박의 센서 파워를 증가시켜야 합니다.</String>
+    <String>센서 범위를 늘리려면, 함선의 센서 파워를 증가시켜야 합니다.</String>
   </StringTable>
   <StringTable>
     <Label>SENSORRANGE_TOOLTIP_STARBASE_DESC</Label>
@@ -17267,7 +17290,7 @@
   </StringTable>
   <StringTable>
     <Label>CONTEXT_FLEETSHIPRANGE_WITH_ICON</Label>
-    <String>[ICON=Shiprange_Icon] 배 범위</String>
+    <String>[ICON=Shiprange_Icon] 함선범위</String>
   </StringTable>
   <StringTable>
     <Label>CONTEXT_FLEETSHIPXP</Label>
@@ -17307,7 +17330,7 @@
   </StringTable>
   <StringTable>
     <Label>MAINGAME_PLANETLIST_DEFENDEDTOOLTIPFORMAT</Label>
-    <String>%ld 척의 선박이 방어 중</String>
+    <String>%ld 척의 함선이 방어 중</String>
   </StringTable>
   <StringTable>
     <Label>MAINGAME_PLANETLIST_REBELLIONTOOLTIPFORMAT</Label>
@@ -17379,11 +17402,11 @@
   </StringTable>
   <StringTable>
     <Label>Crate_Ship_Style_Label</Label>
-    <String>사용자 정의 배 스타일 생성</String>
+    <String>사용자 정의 함선스타일 생성</String>
   </StringTable>
   <StringTable>
     <Label>Save_Ship_Style_Label</Label>
-    <String>선박 스타일 저장</String>
+    <String>함선 모양 저장</String>
   </StringTable>
   <StringTable>
     <Label>Use_Ship_Label</Label>
@@ -17403,7 +17426,7 @@
   </StringTable>
   <StringTable>
     <Label>Ship_Class_List_Label</Label>
-    <String>선박 클래스</String>
+    <String>함선 클래스</String>
   </StringTable>
   <StringTable>
     <Label>Template_List_Label</Label>
@@ -17411,7 +17434,7 @@
   </StringTable>
   <StringTable>
     <Label>Ship_Type_Combo_Label</Label>
-    <String>기본 선박 유형</String>
+    <String>기본 함선 유형</String>
   </StringTable>
   <StringTable>
     <Label>Part_Type_Combo_Label</Label>
@@ -17419,7 +17442,7 @@
   </StringTable>
   <StringTable>
     <Label>Ship_Style_Label</Label>
-    <String>선박 스타일 이름</String>
+    <String>함선 모양 이름</String>
   </StringTable>
   <StringTable>
     <Label>Style_Title</Label>
@@ -17483,11 +17506,11 @@
   </StringTable>
   <StringTable>
     <Label>Designer_Save_Design_As</Label>
-    <String>디자인 저장하기:</String>
+    <String>설계 저장하기:</String>
   </StringTable>
   <StringTable>
     <Label>Designer_New_Design_As</Label>
-    <String>새 디자인으로:</String>
+    <String>새 설계으로:</String>
   </StringTable>
   <StringTable>
     <Label>Planet_Production_Title</Label>
@@ -17523,11 +17546,11 @@
   </StringTable>
   <StringTable>
     <Label>Fleet_Context_Ships_Title</Label>
-    <String>선박들:</String>
+    <String>함선들:</String>
   </StringTable>
   <StringTable>
     <Label>JANUARY</Label>
-    <String>잔</String>
+    <String>1월</String>
   </StringTable>
   <StringTable>
     <Label>FEBRUARY</Label>
@@ -17535,7 +17558,7 @@
   </StringTable>
   <StringTable>
     <Label>MARCH</Label>
-    <String>Mar</String>
+    <String>3월</String>
   </StringTable>
   <StringTable>
     <Label>APRIL</Label>
@@ -17547,19 +17570,19 @@
   </StringTable>
   <StringTable>
     <Label>JUNE</Label>
-    <String>준</String>
+    <String>6월</String>
   </StringTable>
   <StringTable>
     <Label>JULY</Label>
-    <String>Jul</String>
+    <String>7월</String>
   </StringTable>
   <StringTable>
     <Label>AUGUST</Label>
-    <String>Aug</String>
+    <String>8월</String>
   </StringTable>
   <StringTable>
     <Label>SEPTEMBER</Label>
-    <String>Sep</String>
+    <String>9월</String>
   </StringTable>
   <StringTable>
     <Label>OCTOBER</Label>
@@ -17567,7 +17590,7 @@
   </StringTable>
   <StringTable>
     <Label>NOVEMBER</Label>
-    <String>Nov</String>
+    <String>11월</String>
   </StringTable>
   <StringTable>
     <Label>DECEMBER</Label>
@@ -17639,19 +17662,19 @@
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_CATEGORY_Slyne</Label>
-    <String>Slyne</String>
+    <String>슬라인</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_CATEGORY_Korx</Label>
-    <String>Korx</String>
+    <String>코르크</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_CATEGORY_Korath</Label>
-    <String>Korath</String>
+    <String>코라스</String>
   </StringTable>
   <StringTable>
     <Label>SHIP_DESIGNER_CATEGORY_Drath</Label>
-    <String>Drath</String>
+    <String>드라쓰</String>
   </StringTable>
   <StringTable>
     <Label>SINGLE_SOCIAL_TOOLTIP_MANUFACTURING_LABEL</Label>
@@ -17663,11 +17686,11 @@
   </StringTable>
   <StringTable>
     <Label>FACTION_DELETE_STYLE_CONFIRM_TITLE</Label>
-    <String>선박 스타일 세트 삭제</String>
+    <String>함선 모양 세트 삭제</String>
   </StringTable>
   <StringTable>
     <Label>FACTION_DELETE_STYLE_CONFIRM_MESSAGE</Label>
-    <String>이 배 스타일 세트를 삭제하시겠습니까?</String>
+    <String>이 함선스타일 세트를 삭제하시겠습니까?</String>
   </StringTable>
   <StringTable>
     <Label>DLC_FEATURE_PURCHASE_TOOLTIP</Label>
@@ -17699,11 +17722,11 @@
   </StringTable>
   <StringTable>
     <Label>SLYNE_ADAMANTIUM_NAME</Label>
-    <String>Slyne Adamanitum</String>
+    <String>슬린 아다마니툼</String>
   </StringTable>
   <StringTable>
     <Label>SLYNE_MATTE_METAL_NAME</Label>
-    <String>Slyne Matte Metal</String>
+    <String>슬린 무광택 메탈</String>
   </StringTable>
   <StringTable>
     <Label>UI_Color_Rebellion</Label>
@@ -17727,7 +17750,7 @@
   </StringTable>
   <StringTable>
     <Label>UI_Color_Yellowjacket_R</Label>
-    <String>Yellowjacket Inverted</String>
+    <String>노란색 재킷 반전</String>
   </StringTable>
   <StringTable>
     <Label>UI_Color_WhiteOut</Label>
@@ -17787,7 +17810,7 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOM_SHIPSTYLE_WND_SAVE_FAILED_DESCRIPTION</Label>
-    <String>사용자 정의 배 스타일 파일을 저장할 수 없습니다. 문명의 이름을 다르게 지정하거나, Documents/My Games/GalCiv4/Factions 폴더에 파일을 생성할 수 있는지 확인해 보세요.</String>
+    <String>사용자 정의 함선스타일 파일을 저장할 수 없습니다. 문명의 이름을 다르게 지정하거나, Documents/My Games/GalCiv4/Factions 폴더에 파일을 생성할 수 있는지 확인해 보세요.</String>
   </StringTable>
   <StringTable>
     <Label>ShowStarbases</Label>
@@ -17799,7 +17822,7 @@
   </StringTable>
   <StringTable>
     <Label>UPLOADMOD_SHIP_STYLE_INFO_TEXT</Label>
-    <String>다음 이름과 설명은 워크샵에 표시됩니다. 이때 사용된 모든 사용자 정의 선박 디자인이 패키지화되어 이것과 함께 제출됨을 유의하십시오.</String>
+    <String>다음 이름과 설명은 워크샵에 표시됩니다. 이때 사용된 모든 사용자 정의 함선 설계이 패키지화되어 이것과 함께 제출됨을 유의하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>MOD_TYPE_CIV</Label>
@@ -17811,11 +17834,11 @@
   </StringTable>
   <StringTable>
     <Label>MOD_TYPE_SHIPSTYLESET</Label>
-    <String>선박 스타일 세트</String>
+    <String>함선 모양 세트</String>
   </StringTable>
   <StringTable>
     <Label>MOD_TYPE_SHIPSTYLESET_DESCRIPTION</Label>
-    <String>새로운 선박 스타일로 전체 함대를 교체하세요</String>
+    <String>새로운 함선 모양로 전체 함대를 교체하세요</String>
   </StringTable>
   <StringTable>
     <Label>MOD_TYPE_MOD</Label>
@@ -17827,11 +17850,11 @@
   </StringTable>
   <StringTable>
     <Label>MOD_TYPE_TEMPLATE</Label>
-    <String>선박 디자인</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>MOD_TYPE_TEMPLATE_DESCRIPTION</Label>
-    <String>선박 디자인 템플릿 다운로드</String>
+    <String>함선 설계 템플릿 다운로드</String>
   </StringTable>
   <StringTable>
     <Label>MOD_TYPE_FLAVORTEXT</Label>
@@ -17851,23 +17874,23 @@
   </StringTable>
   <StringTable>
     <Label>UPLOADMOD_UPLOADING_UNABLETOCREATESHIPSTYLEBINARY</Label>
-    <String>%s 폴더에 함선 스타일 바이너리를 생성할 수 없습니다. 폴더에 쓰기 권한이 있는지 확인한 후 다시 시도해 주세요!</String>
+    <String>%s 폴더에 함선 모양 바이너리를 생성할 수 없습니다. 폴더에 쓰기 권한이 있는지 확인한 후 다시 시도해 주세요!</String>
   </StringTable>
   <StringTable>
     <Label>VALIDATE_SHIPSTYLE_FAIL</Label>
-    <String>다음의 이유로 인해 유효성 검사에 실패하여 배 스타일 [COLOR=BrightRed]%s[/COLOR]은(는) 사용할 수 없게 됩니다:[BR]</String>
+    <String>다음의 이유로 인해 유효성 검사에 실패하여 함선스타일 [COLOR=BrightRed]%s[/COLOR]은(는) 사용할 수 없게 됩니다:[BR]</String>
   </StringTable>
   <StringTable>
     <Label>VALIDATE_SHIPSTYLE_WARNING_TITLE</Label>
-    <String>잘못된 선박 스타일 감지됨</String>
+    <String>잘못된 함선 모양 감지됨</String>
   </StringTable>
   <StringTable>
     <Label>VALIDATE_SHIPCLASS_FAIL</Label>
-    <String>다음의 이유로 인해 선박 클래스 [COLOR=BrightRed]%s[/COLOR]의 유효성 검사에 실패하여 사용할 수 없게 되었습니다:[BR]</String>
+    <String>다음의 이유로 인해 함선 클래스 [COLOR=BrightRed]%s[/COLOR]의 유효성 검사에 실패하여 사용할 수 없게 되었습니다:[BR]</String>
   </StringTable>
   <StringTable>
     <Label>VALIDATE_SHIPCLASS_WARNING_TITLE</Label>
-    <String>잘못된 선박 클래스 감지됨</String>
+    <String>잘못된 함선 클래스 감지됨</String>
   </StringTable>
   <StringTable>
     <Label>VALIDATE_STARBASE_FAIL</Label>
@@ -17883,7 +17906,7 @@
   </StringTable>
   <StringTable>
     <Label>VALIDATE_SHIP_CLASS</Label>
-    <String>+ 알 수 없는 선박 클래스</String>
+    <String>+ 알 수 없는 함선 클래스</String>
   </StringTable>
   <StringTable>
     <Label>VALIDATE_SHIPYARD</Label>
@@ -17899,7 +17922,7 @@
   </StringTable>
   <StringTable>
     <Label>VALIDATE_SHIP_DESIGN</Label>
-    <String>+ 미상의 선박 디자인</String>
+    <String>+ 미상의 함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>MINOR_FACTION_NOT_WILLING_TO_SPEAK</Label>
@@ -17923,7 +17946,7 @@
   </StringTable>
   <StringTable>
     <Label>Slyne_Appearance</Label>
-    <String>Slyne</String>
+    <String>슬라인</String>
   </StringTable>
   <StringTable>
     <Label>Slyne_Appearance_R</Label>
@@ -17939,11 +17962,11 @@
   </StringTable>
   <StringTable>
     <Label>Design</Label>
-    <String>선박 디자인</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>Template</Label>
-    <String>선박 템플릿</String>
+    <String>함선 템플릿</String>
   </StringTable>
   <StringTable>
     <Label>Ship_Class_Description_Label</Label>
@@ -18071,7 +18094,7 @@
   </StringTable>
   <StringTable>
     <Label>SUMMARY_TAB_RANKING_1</Label>
-    <String>리더</String>
+    <String>지도자</String>
   </StringTable>
   <StringTable>
     <Label>SUMMARY_TAB_RANKING_2</Label>
@@ -18095,7 +18118,7 @@
   </StringTable>
   <StringTable>
     <Label>BetaDialog</Label>
-    <String>Crusade의 창립자 미리보기에 오신 것을 환영합니다! 창립자들의 포럼에서 여러분의 피드백을 환영합니다. 그러나, 스크린샷이나 다른 정보를 더 넓은 세상에 공유하지 말아 주세요.[BR][BR]감사합니다, 그리고 은하계를 정복하는 즐거움을 누리세요!</String>
+    <String>Crusade의 창립자 미리보기에 오신 것을 환영합니다! 창립자들의 포럼에서 여러분의 피드백을 환영합니다. 그러나, 화면샷이나 다른 정보를 더 넓은 세상에 공유하지 말아 주세요.[BR][BR]감사합니다, 그리고 은하계를 정복하는 즐거움을 누리세요!</String>
   </StringTable>
   <StringTable>
     <Label>Hotkey_SetIsReadyToHotLoad</Label>
@@ -18191,7 +18214,7 @@
   </StringTable>
   <StringTable>
     <Label>Unit_Manager_Screen_Title</Label>
-    <String>리더들</String>
+    <String>지도자들</String>
   </StringTable>
   <StringTable>
     <Label>Unit_Manager_Citizens_Title</Label>
@@ -18479,7 +18502,7 @@
   </StringTable>
   <StringTable>
     <Label>ShipyardConstruction_Desc</Label>
-    <String>조선소에서 배를 건설하는 데 사용되는 제조업.</String>
+    <String>조선소에서 함선을 건설하는 데 사용되는 제조업.</String>
   </StringTable>
   <StringTable>
     <Label>ColonyIncome_Desc</Label>
@@ -18547,7 +18570,7 @@
   </StringTable>
   <StringTable>
     <Label>AdministratorConsumedColony</Label>
-    <String>콜로니 선박</String>
+    <String>콜로니 함선</String>
   </StringTable>
   <StringTable>
     <Label>AdministratorConsumedPlanet</Label>
@@ -18619,7 +18642,7 @@
   </StringTable>
   <StringTable>
     <Label>ESP_TOTAL_SHIPS</Label>
-    <String>총 선박 수</String>
+    <String>총 함선 수</String>
   </StringTable>
   <StringTable>
     <Label>CONTEXT_PLANET_AGENT_BUTTON</Label>
@@ -18667,15 +18690,15 @@
   </StringTable>
   <StringTable>
     <Label>Notification_NewLeader_Short</Label>
-    <String>새로운 리더</String>
+    <String>새로운 지도자</String>
   </StringTable>
   <StringTable>
     <Label>ASSIGN_LEADER</Label>
-    <String>리더 지정</String>
+    <String>지도자 지정</String>
   </StringTable>
   <StringTable>
     <Label>REMOVE_LEADER</Label>
-    <String>리더 제거</String>
+    <String>지도자 제거</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_IncreaseEspionage</Label>
@@ -18735,7 +18758,7 @@
   </StringTable>
   <StringTable>
     <Label>DisableReasonShipIsFull</Label>
-    <String>선박이 가득 찼습니다</String>
+    <String>함선이 가득 찼습니다</String>
   </StringTable>
   <StringTable>
     <Label>DisableReasonUnitIsLoaded</Label>
@@ -18747,7 +18770,7 @@
   </StringTable>
   <StringTable>
     <Label>DisableReasonIsAPrisoner</Label>
-    <String>선박에 죄수를 태울 수 없습니다</String>
+    <String>함선에 죄수를 태울 수 없습니다</String>
   </StringTable>
   <StringTable>
     <Label>DisableReasonNotASoldier</Label>
@@ -18827,11 +18850,11 @@
   </StringTable>
   <StringTable>
     <Label>PLANET_TOOLTIP_FULL_MILITARY_SPONSOR</Label>
-    <String>선박을 건설하도록 조선소에 명령하세요.</String>
+    <String>함선을 건설하도록 조선소에 명령하세요.</String>
   </StringTable>
   <StringTable>
     <Label>PLANET_TOOLTIP_FULL_SOCIAL_MANUFACTURING</Label>
-    <String>선박을 건설하도록 조선소에 명령하십시오.</String>
+    <String>함선을 건설하도록 조선소에 명령하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>LEVEL_PROGRESS_LABEL</Label>
@@ -18915,19 +18938,19 @@
   </StringTable>
   <StringTable>
     <Label>PROMOTION_STATS_ShipQueueEmpty</Label>
-    <String>[COLOR=BrightRed]반드시 배를 건설해야 합니다[/COLOR]</String>
+    <String>[COLOR=BrightRed]반드시 함선을 건설해야 합니다[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>LeaderBonus_Tooltip</Label>
-    <String>리더로부터의 보너스</String>
+    <String>지도자의 보너스</String>
   </StringTable>
   <StringTable>
     <Label>FleetTooltip_Design_Author</Label>
-    <String>디자인 작성자</String>
+    <String>설계 작성자</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_Leaders_Context_Title</Label>
-    <String>리더들</String>
+    <String>지도자들</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_Citizen_Manager_Summary_Label</Label>
@@ -19003,7 +19026,7 @@
   </StringTable>
   <StringTable>
     <Label>SHIPYARD_NOT_PRODUCING</Label>
-    <String>선박을 건설하지 않음</String>
+    <String>함선을 건설하지 않음</String>
   </StringTable>
   <StringTable>
     <Label>NOT_SPONSORING_SHIPYARD</Label>
@@ -19027,11 +19050,11 @@
   </StringTable>
   <StringTable>
     <Label>Crusade_Overview_Leader_Label</Label>
-    <String>리더</String>
+    <String>지도자</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_Overview_Leader_Description_Label</Label>
-    <String>리더 설명</String>
+    <String>지도자 설명</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_Overview_Logo_Label</Label>
@@ -19059,7 +19082,7 @@
   </StringTable>
   <StringTable>
     <Label>Custom_Faction_Style_Text</Label>
-    <String>선박을 커스터마이즈하고 귀하의 문명의 선박 스타일에 사용되는 선박 템플릿을 저장하세요. 어떤 선박 클래스든 변경하려면 전투 가능한 템플릿을 드래그 앤 드롭하세요.</String>
+    <String>함선을 커스터마이즈하고 귀하의 문명의 함선 모양에 사용되는 함선 템플릿을 저장하세요. 어떤 함선 클래스든 변경하려면 전투 가능한 템플릿을 드래그 앤 드롭하세요.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_Ship_Style_Name_Label</Label>
@@ -19079,11 +19102,11 @@
   </StringTable>
   <StringTable>
     <Label>Crusade_Upload_Ship_Style_Title</Label>
-    <String>선박 스타일 업로드</String>
+    <String>함선 모양 업로드</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_Upload_Ship_Style_Tooltip</Label>
-    <String>이 배 스타일을 워크샵의 배 스타일 카테고리에 업로드하십시오. 이 배 스타일이 당신이 만드는 문명의 일부라면, 배 스타일은 자동으로 문명에 포함될 것입니다.</String>
+    <String>이 함선스타일을 워크샵의 함선스타일 카테고리에 업로드하십시오. 이 함선스타일이 당신이 만드는 문명의 일부라면, 함선스타일은 자동으로 문명에 포함될 것입니다.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_Get_Ships_Label</Label>
@@ -19091,7 +19114,7 @@
   </StringTable>
   <StringTable>
     <Label>Crusade_Get_Ships_Text</Label>
-    <String>워크샵에서 수천 개의 선박을 검색하고 나만의 커스텀 플릿 스타일을 만드세요.</String>
+    <String>워크샵에서 수천 개의 함선을 검색하고 나만의 커스텀 플릿 스타일을 만드세요.</String>
   </StringTable>
   <StringTable>
     <Label>Crusade_Custom_Traits_Dec</Label>
@@ -19251,11 +19274,11 @@
   </StringTable>
   <StringTable>
     <Label>HOTLOADING_SCREEN_DATA</Label>
-    <String>핫 로딩 스크린 데이터</String>
+    <String>핫 로딩 화면 데이터</String>
   </StringTable>
   <StringTable>
     <Label>LOADING_SHIP_DESIGNER</Label>
-    <String>선박 디자인 로딩 중</String>
+    <String>함선 설계 로딩 중</String>
   </StringTable>
   <StringTable>
     <Label>DESTROYING_GALAXY</Label>
@@ -19439,7 +19462,7 @@
   </StringTable>
   <StringTable>
     <Label>MAINGAME_CITIZEN_NORMAL</Label>
-    <String>[B]리더[/B][BR][COLOR=UIDefaultHot]당신의 리더를 모집하고 관리하세요.[/COLOR]</String>
+    <String>[B]지도자[/B][BR][COLOR=UIDefaultHot]당신의 지도자를 모집하고 관리하세요.[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>MAINGAME_CITIZEN_NONE</Label>
@@ -19543,7 +19566,7 @@
   </StringTable>
   <StringTable>
     <Label>Abilities_Startup_Text</Label>
-    <String>어떤 선박을 당신의 문명이 시작할 때 가지고 있길 원하는지 선택하세요.</String>
+    <String>어떤 함선을 당신의 문명이 시작할 때 가지고 있길 원하는지 선택하세요.</String>
   </StringTable>
   <StringTable>
     <Label>Abilities_Race_Type_Header</Label>
@@ -19819,11 +19842,11 @@
   </StringTable>
   <StringTable>
     <Label>ChooseShipStyleLabel</Label>
-    <String>선박 스타일을 선택하세요</String>
+    <String>함선 모양을 선택하세요</String>
   </StringTable>
   <StringTable>
     <Label>LaunchDesignerLabel</Label>
-    <String>디자이너 런칭</String>
+    <String>설계 완성</String>
   </StringTable>
   <StringTable>
     <Label>LaunchDesignerPreviewLabel</Label>
@@ -19831,7 +19854,7 @@
   </StringTable>
   <StringTable>
     <Label>CrusadeDesignerButton</Label>
-    <String>선박 디자이너</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>LEGIONS_CARRIED</Label>
@@ -19987,7 +20010,7 @@
   </StringTable>
   <StringTable>
     <Label>MissionShip</Label>
-    <String>미션 선박</String>
+    <String>미션 함선</String>
   </StringTable>
   <StringTable>
     <Label>UnitTransport</Label>
@@ -19999,7 +20022,7 @@
   </StringTable>
   <StringTable>
     <Label>HypergateShip</Label>
-    <String>서브스페이스 스트림 선박</String>
+    <String>서브스페이스 스트림 함선</String>
   </StringTable>
   <StringTable>
     <Label>StrategicIconTransitionDistance</Label>
@@ -20007,7 +20030,7 @@
   </StringTable>
   <StringTable>
     <Label>StrategicIconZoomCategoryShip</Label>
-    <String>선박/스타베이스 아이콘 확대</String>
+    <String>함선/스타베이스 아이콘 확대</String>
   </StringTable>
   <StringTable>
     <Label>StrategicIconZoomCategoryPlanet</Label>
@@ -20099,11 +20122,11 @@
   </StringTable>
   <StringTable>
     <Label>NoTransportPopulation</Label>
-    <String>선박에 인구가 없으면 식민지를 세울 수 없습니다</String>
+    <String>함선에 인구가 없으면 식민지를 세울 수 없습니다</String>
   </StringTable>
   <StringTable>
     <Label>NoPopulationToLoad</Label>
-    <String>미할당된 콜로니 인구가 최소 선박 적재량보다 작습니다</String>
+    <String>미할당된 콜로니 인구가 최소 함선 적재량보다 작습니다</String>
   </StringTable>
   <StringTable>
     <Label>PLANET_LEGIONS_TOOLTIP</Label>
@@ -20251,7 +20274,7 @@
   </StringTable>
   <StringTable>
     <Label>ShipDestroyed</Label>
-    <String>선박 파괴됨</String>
+    <String>함선 파괴됨</String>
   </StringTable>
   <StringTable>
     <Label>SpyFight</Label>
@@ -20315,19 +20338,19 @@
   </StringTable>
   <StringTable>
     <Label>ModManager_Category_Title_Ship</Label>
-    <String>다운로드 가능한 선박들</String>
+    <String>다운로드 가능한 함선들</String>
   </StringTable>
   <StringTable>
     <Label>ModManager_Category_Description_Ship</Label>
-    <String>선박 템플릿은 게임 내에서 선체 크기에 따라 다운로드되어 잠금이 해제됩니다.</String>
+    <String>함선 템플릿은 게임 내에서 선체 크기에 따라 다운로드되어 잠금이 해제됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>ModManager_Category_Title_ShipStyleSet</Label>
-    <String>다운로드 가능한 선박 스타일 세트</String>
+    <String>다운로드 가능한 함선 모양 세트</String>
   </StringTable>
   <StringTable>
     <Label>ModManager_Category_Description_ShipStyleSet</Label>
-    <String>새로운 선박 스타일 세트를 선택하여 모든 선박의 스타일을 변경하세요.</String>
+    <String>새로운 함선 모양 세트를 선택하여 모든 함선의 스타일을 변경하세요.</String>
   </StringTable>
   <StringTable>
     <Label>ModManager_Category_Title_Civilization</Label>
@@ -20335,7 +20358,7 @@
   </StringTable>
   <StringTable>
     <Label>ModManager_Category_Description_Civilization</Label>
-    <String>갤럭시를 정복하기 위한 새로운 문명들.</String>
+    <String>은하계를 정복하기 위한 새로운 문명들.</String>
   </StringTable>
   <StringTable>
     <Label>ModManager_Category_Title_Mod</Label>
@@ -20651,7 +20674,7 @@
   </StringTable>
   <StringTable>
     <Label>MISSING_COLONY_SHIP</Label>
-    <String>실종된 콜로니 선박</String>
+    <String>실종된 콜로니 함선</String>
   </StringTable>
   <StringTable>
     <Label>NOT_ENOUGH_CONSTRUCTOR_POINTS</Label>
@@ -20671,7 +20694,7 @@
   </StringTable>
   <StringTable>
     <Label>FLEET_ALREADY_HAS_ONE_PER_FLEET</Label>
-    <String>함대에 이미 이런 종류의 선박이 하나 있습니다.</String>
+    <String>함대에 이미 이런 종류의 함선이 하나 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>Error_OutOfMemory</Label>
@@ -20747,11 +20770,11 @@
   </StringTable>
   <StringTable>
     <Label>RequiredShipComponent</Label>
-    <String>{CONDITION} 선박 부품 필요</String>
+    <String>{CONDITION} 함선 부품 필요</String>
   </StringTable>
   <StringTable>
     <Label>RequiredShipComponentType</Label>
-    <String>{CONDITION} 선박 부품 필요</String>
+    <String>{CONDITION} 함선 부품 필요</String>
   </StringTable>
   <StringTable>
     <Label>Turns_REQLABEL</Label>
@@ -20835,7 +20858,7 @@
   </StringTable>
   <StringTable>
     <Label>GalaxySetup_Spec_Galaxy_Settings</Label>
-    <String>갤럭시 설정</String>
+    <String>은하계 설정</String>
   </StringTable>
   <StringTable>
     <Label>GalaxySetup_Spec_Size_Settings</Label>
@@ -20931,7 +20954,7 @@
   </StringTable>
   <StringTable>
     <Label>ShipyardBuildShipButton</Label>
-    <String>선박 건설</String>
+    <String>함선 건설</String>
   </StringTable>
   <StringTable>
     <Label>LeaveReviewBtn</Label>
@@ -21035,7 +21058,7 @@
   </StringTable>
   <StringTable>
     <Label>NO_SHIPYARD_MESSAGE_TITLE</Label>
-    <String>선박 조선소 없음</String>
+    <String>함선 조선소 없음</String>
   </StringTable>
   <StringTable>
     <Label>NO_SHIPYARD_MESSAGE_DESC</Label>
@@ -21695,7 +21718,7 @@
   </StringTable>
   <StringTable>
     <Label>Hire_Leader_Button</Label>
-    <String>리더 고용</String>
+    <String>지도자 고용</String>
   </StringTable>
   <StringTable>
     <Label>CompletePercentOfCurrentTech_Part1</Label>
@@ -21755,31 +21778,31 @@
   </StringTable>
   <StringTable>
     <Label>Recruitable_Leaders</Label>
-    <String>모집 가능한 리더들</String>
+    <String>모집 가능한 지도자들</String>
   </StringTable>
   <StringTable>
     <Label>Recruit_Leaders_Dec</Label>
-    <String>더블 클릭하거나 드래그 앤 드롭으로 카드를 미할당 리더 목록으로 이동시켜서 당신의 문명을 관리하는데 도움을 줄 리더들을 모집하세요.</String>
+    <String>더블 클릭하거나 드래그 앤 드롭으로 카드를 미할당 지도자 목록으로 이동시켜서 당신의 문명을 관리하는데 도움을 줄 지도자들을 모집하세요.</String>
   </StringTable>
   <StringTable>
     <Label>Recruit_Leaders_Name</Label>
-    <String>리더 이름</String>
+    <String>지도자 이름</String>
   </StringTable>
   <StringTable>
     <Label>Recruit_Leaders_Type</Label>
-    <String>리더 유형</String>
+    <String>지도자 유형</String>
   </StringTable>
   <StringTable>
     <Label>Recruit_Leader_Description</Label>
-    <String>리더 설명</String>
+    <String>지도자 설명</String>
   </StringTable>
   <StringTable>
     <Label>Leader_Ministers_Dec</Label>
-    <String>드래그 앤 드롭을 이용하여 리더를 임명하거나, 카드를 선택한 다음 빈 슬롯을 선택하여 개방된 부서에 리더를 배정하세요.</String>
+    <String>드래그 앤 드롭을 이용하여 지도자를 임명하거나, 카드를 선택한 다음 빈 슬롯을 선택하여 개방된 부서에 지도자를 배정하세요.</String>
   </StringTable>
   <StringTable>
     <Label>Leader_Commanders_Dec</Label>
-    <String>드래그 앤 드롭으로 선박에 리더를 할당하여 홈월드에서 선박을 생성합니다. 지휘관은 재할당할 수 없습니다.</String>
+    <String>드래그 앤 드롭으로 함선에 지도자를 할당하여 홈월드에서 함선을 생성합니다. 지휘관은 재할당할 수 없습니다.</String>
   </StringTable>
   <StringTable>
     <Label>Leader_Ministers_Category</Label>
@@ -21787,7 +21810,7 @@
   </StringTable>
   <StringTable>
     <Label>Leader_Unassigned_Leaders</Label>
-    <String>배정되지 않은 리더들</String>
+    <String>배정되지 않은 지도자들</String>
   </StringTable>
   <StringTable>
     <Label>Assassination_Cant_NoTech</Label>
@@ -21795,7 +21818,7 @@
   </StringTable>
   <StringTable>
     <Label>Leaders_Governors_Dec</Label>
-    <String>지배자를 식민지에 배정하면 그 세계를 관리할 수 있습니다. 왼쪽 목록에서 사용 가능한 리더를 드래그하여 지배자를 배정하세요.</String>
+    <String>지배자를 식민지에 배정하면 그 세계를 관리할 수 있습니다. 왼쪽 목록에서 사용 가능한 지도자를 드래그하여 지배자를 배정하세요.</String>
   </StringTable>
   <StringTable>
     <Label>Leaders_Governors_AssignConfirmation</Label>
@@ -21835,7 +21858,7 @@
   </StringTable>
   <StringTable>
     <Label>Ships_Destroyed</Label>
-    <String>파괴된 선박들</String>
+    <String>파괴된 함선들</String>
   </StringTable>
   <StringTable>
     <Label>Damage_Taken</Label>
@@ -21843,7 +21866,7 @@
   </StringTable>
   <StringTable>
     <Label>Ships_Lost</Label>
-    <String>잃어버린 선박들</String>
+    <String>잃어버린 함선들</String>
   </StringTable>
   <StringTable>
     <Label>Shots_Deflected</Label>
@@ -22099,7 +22122,7 @@
   </StringTable>
   <StringTable>
     <Label>Ideology_Screen_Quad_Leadership_Title</Label>
-    <String>리더십</String>
+    <String>지도자십</String>
   </StringTable>
   <StringTable>
     <Label>Ideology_Screen_Quad_Compassion_Title</Label>
@@ -22255,7 +22278,7 @@
   </StringTable>
   <StringTable>
     <Label>Galaxy_Settings_Screen_Dec</Label>
-    <String>갤럭시 크기 및 설정을 사용자 정의하세요.</String>
+    <String>은하계 크기 및 설정을 사용자 정의하세요.</String>
   </StringTable>
   <StringTable>
     <Label>Settings_Galaxy_Tab_Title</Label>
@@ -22275,7 +22298,7 @@
   </StringTable>
   <StringTable>
     <Label>Settings_Regenerate_Galaxy</Label>
-    <String>갤럭시 재생성</String>
+    <String>은하계 재생성</String>
   </StringTable>
   <StringTable>
     <Label>Settings_Performance</Label>
@@ -22295,7 +22318,7 @@
   </StringTable>
   <StringTable>
     <Label>FIRST_HYPERGATE_DESC</Label>
-    <String>당신의 선박은 스트림의 최대 지평선 바로 외곽에서 대기 패턴으로 안착합니다. 자동으로 당신의 선박은 그것을 스캔하기 시작하며, 그 많은 에너지 매니폴드의 현재 상태를 감지합니다. 하이퍼게이트는 여행자가 자신의 위에 떨어지지 않도록 적절한 방법으로 촉구되어야 합니다. 숫자에 만족하며, 컴퓨터에 파열 시퀀스를 시작하도록 지시합니다...</String>
+    <String>당신의 함선은 스트림의 최대 지평선 바로 외곽에서 대기 패턴으로 안착합니다. 자동으로 당신의 함선은 그것을 스캔하기 시작하며, 그 많은 에너지 매니폴드의 현재 상태를 감지합니다. 하이퍼게이트는 여행자가 자신의 위에 떨어지지 않도록 적절한 방법으로 촉구되어야 합니다. 숫자에 만족하며, 컴퓨터에 파열 시퀀스를 시작하도록 지시합니다...</String>
   </StringTable>
   <StringTable>
     <Label>FIRST_HYPERLANE_NAME</Label>
@@ -22447,7 +22470,7 @@
   </StringTable>
   <StringTable>
     <Label>Error_PlanetDefended</Label>
-    <String>이 행성을 침략할 수 없습니다. 왜냐하면 궤도에 있는 선박들이 방어하고 있기 때문입니다.</String>
+    <String>이 행성을 침략할 수 없습니다. 왜냐하면 궤도에 있는 함선들이 방어하고 있기 때문입니다.</String>
   </StringTable>
   <StringTable>
     <Label>View_Government_Title</Label>
@@ -22463,7 +22486,7 @@
   </StringTable>
   <StringTable>
     <Label>Setup_Government_Text</Label>
-    <String>당신의 문명의 시작 정부를 선택하세요. 당신의 정부는 어떤 캐비닛 포스트가 배정 가능한지를 결정합니다. 새로운 정부는 기술 트리의 지배 분기에서 연구할 수 있습니다.</String>
+    <String>당신의 문명의 시작 정부를 선택하세요. 당신의 정부는 어떤 캐비닛 포스트가 배정 가능한지를 결정합니다. 새로운 정부는 기술 트리의 지함선분기에서 연구할 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>Government_Description_Text</Label>
@@ -22795,11 +22818,11 @@
   </StringTable>
   <StringTable>
     <Label>Government_ship_postfix</Label>
-    <String>[ICON=Guardian_Fighters_Icon] {OBJECTNAME} [COLOR=UIDefaultHighlight](유일한 선박)[/COLOR]</String>
+    <String>[ICON=Guardian_Fighters_Icon] {OBJECTNAME} [COLOR=UIDefaultHighlight](유일한 함선)[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>UniqueShip</Label>
-    <String>독특한 선박</String>
+    <String>독특한 함선</String>
   </StringTable>
   <StringTable>
     <Label>ToStationedColony</Label>
@@ -22911,7 +22934,7 @@
   </StringTable>
   <StringTable>
     <Label>UnderConstructionTitle</Label>
-    <String>스크린 구축 중</String>
+    <String>화면 구축 중</String>
   </StringTable>
   <StringTable>
     <Label>UnitSpecializationCooldown</Label>
@@ -23115,7 +23138,7 @@
   </StringTable>
   <StringTable>
     <Label>Concept_BeamWeapon_Dec</Label>
-    <String>빔 무기는 제조 비용 때문에 중간 정도의 피해를 줍니다. 강력한 방패를 가진 선박에는 약합니다.</String>
+    <String>빔 무기는 제조 비용 때문에 중간 정도의 피해를 줍니다. 강력한 방패를 가진 함선에는 약합니다.</String>
   </StringTable>
   <StringTable>
     <Label>Concept_Chaos_Name</Label>
@@ -23195,7 +23218,7 @@
   </StringTable>
   <StringTable>
     <Label>Concept_HullSize_Dec</Label>
-    <String>선체 크기는 선박의 기본 [HS=HS_HitPoints]히트 포인트[/HS] 및 무기와 방어 시스템과 같은 선박 부품을 위한 슬롯의 수를 결정합니다. 사용 가능한 선박 크기는: 작음, 작은, 중간, 큰, 매우 큰입니다.[BR][BR]화물선 선체는 일반적으로 비군사 선박에 사용되는 특별한 선체 크기입니다.</String>
+    <String>선체 크기는 함선의 기본 [HS=HS_HitPoints]히트 포인트[/HS] 및 무기와 방어 시스템과 같은 함선 부품을 위한 슬롯의 수를 결정합니다. 사용 가능한 함선 크기는: 작음, 작은, 중간, 큰, 매우 큰입니다.[BR][BR]화물선 선체는 일반적으로 비군사 함선에 사용되는 특별한 선체 크기입니다.</String>
   </StringTable>
   <StringTable>
     <Label>Concept_Ideology_Name</Label>
@@ -23235,7 +23258,7 @@
   </StringTable>
   <StringTable>
     <Label>Concept_MilitaryShip_Name</Label>
-    <String>군사 선박</String>
+    <String>군사 함선</String>
   </StringTable>
   <StringTable>
     <Label>Concept_MilitaryShip_Dec</Label>
@@ -23275,7 +23298,7 @@
   </StringTable>
   <StringTable>
     <Label>Concept_PointDefense_Dec</Label>
-    <String>회피는 우리의 선박이 적의 공격을 더 잘 피할 수 있게 만듭니다.</String>
+    <String>회피는 우리의 함선이 적의 공격을 더 잘 피할 수 있게 만듭니다.</String>
   </StringTable>
   <StringTable>
     <Label>Concept_Policy_Name</Label>
@@ -23299,7 +23322,7 @@
   </StringTable>
   <StringTable>
     <Label>Concept_PromethionBorn_Dec</Label>
-    <String>프로메티온 출신 시민들은 매달 0.4 [HS=HS_Growth]성장[/HS]을 기여하고, 그들의 문명이 보유한 프로메티온 당 추가로 0.006 성장을 합니다.[BR][BR]100 프로메티온을 보유하면 그들은 다른 종족과 같은 성장률(매달 1)을 가집니다. 약 266 프로메티온을 보유하면 그들은 다른 종족의 성장률의 두 배를 가질 것입니다. 프로메티온을 보유하지 않으면 그들은 매달 0.4의 성장을 가질 뿐입니다.</String>
+    <String>프로메티온 출신 시민들은 매달 0.4 [HS=HS_Growth]성장[/HS]을 기여하고, 그들의 문명이 보유한 프로메티온 당 추가로 0.006 성장을 합니다.[BR][BR]100 프로메티온을 보유하면 그들은 다른 종족과 같은 성장률(매달 1)을 가집니다. 약 266 프로메티온을 보유하면 그들은 다른 종족의 성장률의 두 함선을 가질 것입니다. 프로메티온을 보유하지 않으면 그들은 매달 0.4의 성장을 가질 뿐입니다.</String>
   </StringTable>
   <StringTable>
     <Label>Concept_OnyxHiveGrowth_Name</Label>
@@ -23307,7 +23330,7 @@
   </StringTable>
   <StringTable>
     <Label>Concept_OnyxHiveGrowth_Dec</Label>
-    <String>실리콘 시민들은 매달 0.4 [HS=HS_Growth]성장[/HS]을 제공하며, 그들의 문명이 보유한 프로메티온 당 추가적으로 0.006 성장을 제공합니다.[BR][BR]100 프로메티온을 보유하고 있을 경우, 다른 종족과 같은 성장률(매달 1)을 가지게 됩니다. 약 266 프로메티온을 보유하고 있다면 다른 종족의 성장률의 두 배를 가질 수 있습니다. 프로메티온이 없을 경우, 그들은 매달 0.4 성장의 기본을 가지게 됩니다.</String>
+    <String>실리콘 시민들은 매달 0.4 [HS=HS_Growth]성장[/HS]을 제공하며, 그들의 문명이 보유한 프로메티온 당 추가적으로 0.006 성장을 제공합니다.[BR][BR]100 프로메티온을 보유하고 있을 경우, 다른 종족과 같은 성장률(매달 1)을 가지게 됩니다. 약 266 프로메티온을 보유하고 있다면 다른 종족의 성장률의 두 함선을 가질 수 있습니다. 프로메티온이 없을 경우, 그들은 매달 0.4 성장의 기본을 가지게 됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>Concept_Project_Name</Label>
@@ -23323,7 +23346,7 @@
   </StringTable>
   <StringTable>
     <Label>Concept_Prototype_Dec</Label>
-    <String>프로토타입 선박은 독특하고 강력한 선박으로, 당신의 조선소에서 만들 수 있습니다. 하지만 주의하세요, 일단 파괴되면 영원히 잃어버리게 됩니다.</String>
+    <String>프로토타입 함선은 독특하고 강력한 함선으로, 당신의 조선소에서 만들 수 있습니다. 하지만 주의하세요, 일단 파괴되면 영원히 잃어버리게 됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>Concept_RecreationalDistrict_Name</Label>
@@ -23335,15 +23358,15 @@
   </StringTable>
   <StringTable>
     <Label>Concept_ShipDesign_Name</Label>
-    <String>선박 디자인</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>Concept_ShipDesign_Dec</Label>
-    <String>당신은 전문 선박인 건설선과 식민지 선박부터 강력한 군사 선박까지 다양한 종류의 선박을 조선소에서 건설할 수 있습니다. 더욱 고급 기술을 해제함에 따라 더 많은 선박이 사용 가능해지며, 무기와 방어 시스템도 업그레이드됩니다.</String>
+    <String>당신은 전문 함선인 건설선과 식민지 함선부터 강력한 군사 함선까지 다양한 종류의 함선을 조선소에서 건설할 수 있습니다. 더욱 고급 기술을 해제함에 따라 더 많은 함선이 사용 가능해지며, 무기와 방어 시스템도 업그레이드됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>Concept_ShipUpgrade_Name</Label>
-    <String>선박 업그레이드</String>
+    <String>함선 업그레이드</String>
   </StringTable>
   <StringTable>
     <Label>Concept_ShipUpgrade_Dec</Label>
@@ -23415,7 +23438,7 @@
   </StringTable>
   <StringTable>
     <Label>Concept_Leaders_Name</Label>
-    <String>[ICON=Stat_Leader_Icon] 리더들</String>
+    <String>[ICON=Stat_Leader_Icon] 지도자들</String>
   </StringTable>
   <StringTable>
     <Label>Concept_ExecutiveOrders_Name</Label>
@@ -23539,7 +23562,7 @@
   </StringTable>
   <StringTable>
     <Label>CANNOT_ASSIGN_LEADER_NONE_SELECTED</Label>
-    <String>리더가 선택되지 않았습니다</String>
+    <String>지도자가 선택되지 않았습니다</String>
   </StringTable>
   <StringTable>
     <Label>CANNOT_ASSIGN_LEADER_NOT_ENOUGH_CREDITS</Label>
@@ -23599,7 +23622,7 @@
   </StringTable>
   <StringTable>
     <Label>Recruitable_Leader</Label>
-    <String>모집 가능한 리더</String>
+    <String>모집 가능한 지도자</String>
   </StringTable>
   <StringTable>
     <Label>AmountOfValue</Label>
@@ -23623,7 +23646,7 @@
   </StringTable>
   <StringTable>
     <Label>CustomizeCivShipColors</Label>
-    <String>선박 색상:</String>
+    <String>함선 색상:</String>
   </StringTable>
   <StringTable>
     <Label>CustomizeCivUIColors</Label>
@@ -23791,7 +23814,7 @@
   </StringTable>
   <StringTable>
     <Label>TRIGGERFOCUS_ALL_OUR_SHIPS</Label>
-    <String>모든 선박들에게</String>
+    <String>모든 함선들에게</String>
   </StringTable>
   <StringTable>
     <Label>TRIGGERFOCUS_ALL_OUR_COLONIES</Label>
@@ -23799,7 +23822,7 @@
   </StringTable>
   <StringTable>
     <Label>TRIGGERFOCUS_ALL_THEIR_SHIPS</Label>
-    <String> 모든 그들의 선박들에게</String>
+    <String> 모든 그들의 함선들에게</String>
   </StringTable>
   <StringTable>
     <Label>TRIGGERFOCUS_ALL_THEIR_COLONIES</Label>
@@ -24163,23 +24186,23 @@
   </StringTable>
   <StringTable>
     <Label>CreateDesignTooltip</Label>
-    <String>선박 디자이너를 사용하여 디자인을 관리하거나 새로운 것을 만드십시오.</String>
+    <String>함선 설계를 사용하여 설계을 관리하거나 새로운 것을 만드십시오.</String>
   </StringTable>
   <StringTable>
     <Label>CultureAdvisedShip</Label>
-    <String>당신의 문화 고문은 이 디자인을 건설하는 것을 추천합니다.</String>
+    <String>당신의 문화 고문은 이 설계을 건설하는 것을 추천합니다.</String>
   </StringTable>
   <StringTable>
     <Label>EconomicAdvisedShip</Label>
-    <String>당신의 경제 고문은 이 배를 건설할 것을 권장합니다.</String>
+    <String>당신의 경제 고문은 이 함선을 건설할 것을 권장합니다.</String>
   </StringTable>
   <StringTable>
     <Label>MilitaryAdvisedShip</Label>
-    <String>당신의 군사 고문은 이 배를 건설하는 것을 권장합니다.</String>
+    <String>당신의 군사 고문은 이 함선을 건설하는 것을 권장합니다.</String>
   </StringTable>
   <StringTable>
     <Label>ResearchAdvisedShip</Label>
-    <String>당신의 연구 지도자는 이 배를 건설하는 것을 권장합니다.</String>
+    <String>당신의 연구 지도자는 이 함선을 건설하는 것을 권장합니다.</String>
   </StringTable>
   <StringTable>
     <Label>CultureAdvisedTech</Label>
@@ -24219,7 +24242,7 @@
   </StringTable>
   <StringTable>
     <Label>CannotBeUnassignedReason</Label>
-    <String>배정되지 않은 리더는 해임할 수 없습니다</String>
+    <String>배정되지 않은 지도자는 해임할 수 없습니다</String>
   </StringTable>
   <StringTable>
     <Label>LeaderAlignmentMatchesPlayer</Label>
@@ -24239,7 +24262,7 @@
   </StringTable>
   <StringTable>
     <Label>GalaxySettingsFrameTitle</Label>
-    <String>갤럭시 설정</String>
+    <String>은하계 설정</String>
   </StringTable>
   <StringTable>
     <Label>GalaxySettingsAdvancedTitle</Label>
@@ -24271,7 +24294,7 @@
   </StringTable>
   <StringTable>
     <Label>GameSettingsScreenDec</Label>
-    <String>[ICON] 등의 게임을 원하는 방식에 맞게 Galaxy와 게임플레이를 사용자 정의하세요. 에픽 멀티 클러스터에서 갤럭시까지, 단일 상대와의 빠른 싱글 클러스터 슬러그 페스트까지 다양한 게임을 즐길 수 있습니다.</String>
+    <String>[ICON] 등의 게임을 원하는 방식에 맞게 Galaxy와 게임플레이를 사용자 정의하세요. 에픽 멀티 클러스터에서 은하계까지, 단일 상대와의 빠른 싱글 클러스터 슬러그 페스트까지 다양한 게임을 즐길 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>REBELLION_STATUS_NAME</Label>
@@ -24295,7 +24318,7 @@
   </StringTable>
   <StringTable>
     <Label>LeaderResignedTitle</Label>
-    <String>리더가 사임했습니다</String>
+    <String>지도자가 사임했습니다</String>
   </StringTable>
   <StringTable>
     <Label>LeaderResignedMessage</Label>
@@ -24303,7 +24326,7 @@
   </StringTable>
   <StringTable>
     <Label>CommanderDefectedTitle</Label>
-    <String>리더 탈당</String>
+    <String>지도자 탈당</String>
   </StringTable>
   <StringTable>
     <Label>CommanderDefectedMessage</Label>
@@ -24367,7 +24390,7 @@
   </StringTable>
   <StringTable>
     <Label>TechnologyLibraryFilter_Governance</Label>
-    <String>지배 중심 기술</String>
+    <String>지함선중심 기술</String>
   </StringTable>
   <StringTable>
     <Label>TechnologyLibraryFilter_Common</Label>
@@ -24399,7 +24422,7 @@
   </StringTable>
   <StringTable>
     <Label>PolicyWndPlanetOutput_Manufacturing_Desc</Label>
-    <String>모든 행성에서 사용 가능한 총 제조능력으로, 선박 건설과 행성 개선을 위해 사용됩니다.</String>
+    <String>모든 행성에서 사용 가능한 총 제조능력으로, 함선 건설과 행성 개선을 위해 사용됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>PolicyWndPlanetOutput_Research_Title</Label>
@@ -24423,7 +24446,7 @@
   </StringTable>
   <StringTable>
     <Label>PolicyWndPlanetOutput_Influence_Desc</Label>
-    <String>우리의 행성 지배 영역 전체에서 매월 증가하는 우리의 영향력의 양.</String>
+    <String>우리의 행성 지함선영역 전체에서 매월 증가하는 우리의 영향력의 양.</String>
   </StringTable>
   <StringTable>
     <Label>PolicyWndPlanetOutput_Food_Title</Label>
@@ -24551,7 +24574,7 @@
   </StringTable>
   <StringTable>
     <Label>GameListDetailsMapSize</Label>
-    <String>갤럭시 맵</String>
+    <String>은하계 맵</String>
   </StringTable>
   <StringTable>
     <Label>GameListDetailsPlayersTitle</Label>
@@ -24587,7 +24610,7 @@
   </StringTable>
   <StringTable>
     <Label>MPGalaxySettingsChooseGalaxy</Label>
-    <String>갤럭시 선택</String>
+    <String>은하계 선택</String>
   </StringTable>
   <StringTable>
     <Label>MPGalaxySettingsPasswordHeader</Label>
@@ -24631,7 +24654,7 @@
   </StringTable>
   <StringTable>
     <Label>ThinktankFavorModSource</Label>
-    <String>지정된 리더들</String>
+    <String>지정된 지도자들</String>
   </StringTable>
   <StringTable>
     <Label>Notification_GameEvent_Short</Label>
@@ -24783,7 +24806,7 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOMSHIPSTYLE_RESET_CONFIRM_MSG</Label>
-    <String>선박 스타일을 변경하면 현재의 선박 스타일 변경사항이 원래대로 돌아갑니다, 이 작업을 진행하시겠습니까?</String>
+    <String>함선 모양을 변경하면 현재의 함선 모양 변경사항이 원래대로 돌아갑니다, 이 작업을 진행하시겠습니까?</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOMSHIPSTYLE_NEWNAME_TITLE</Label>
@@ -24791,7 +24814,7 @@
   </StringTable>
   <StringTable>
     <Label>CUSTOMSHIPSTYLE_NEWNAME_MSG</Label>
-    <String>새로운 선박 스타일에 대한 이름을 선택하세요:</String>
+    <String>새로운 함선 모양에 대한 이름을 선택하세요:</String>
   </StringTable>
   <StringTable>
     <Label>CUSTOMSHIPSTYLE_DEFAULT_DISPLAYNAME</Label>
@@ -24875,7 +24898,7 @@
   </StringTable>
   <StringTable>
     <Label>Context_SentryAlreadyTriggered</Label>
-    <String>센서 범위 내에 이미 적의 선박이 있습니다</String>
+    <String>센서 범위 내에 이미 적의 함선이 있습니다</String>
   </StringTable>
   <StringTable>
     <Label>Context_NoExplorationTiles</Label>
@@ -24891,7 +24914,7 @@
   </StringTable>
   <StringTable>
     <Label>TRADE_OFFER_SHIP_DESC</Label>
-    <String>선박 %s</String>
+    <String>함선 %s</String>
   </StringTable>
   <StringTable>
     <Label>TRADE_OFFER_STARBASE_DESC</Label>
@@ -24999,35 +25022,35 @@
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_WARSHIPS</Label>
-    <String>선박 클래스</String>
+    <String>함선 클래스</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_SPECIALTY</Label>
-    <String>특수 선박</String>
+    <String>특수 함선</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_TITLE</Label>
-    <String>새로운 배 디자인하기</String>
+    <String>새로운 함선설계하기</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_GENERIC</Label>
-    <String>자유 형태 디자인 생성</String>
+    <String>자유 형태 설계 생성</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_GENERIC_TT</Label>
-    <String>클래스 규칙 없이 모드 업로드를 위한 함선 템플릿 또는 화장품 함선 디자인을 만들어보세요. 조선소에서 건설하기 위해 특정 클래스로 업그레이드하세요.</String>
+    <String>클래스 규칙 없이 모드 업로드를 위한 함선 템플릿 또는 화장품 함선 설계을 만들어보세요. 조선소에서 건설하기 위해 특정 클래스로 업그레이드하세요.</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_GENERIC_STARBASE_TT</Label>
-    <String>클래스 규칙 없이 모드 업로드를 위한 함선 템플릿, 별 기지 디자인, 또는 장식적인 함선 디자인을 만드십시오. 조선소에서 건설하기 위해 특정 클래스로 업그레이드하십시오.</String>
+    <String>클래스 규칙 없이 모드 업로드를 위한 함선 템플릿, 별 기지 설계, 또는 장식적인 함선 설계을 만드십시오. 조선소에서 건설하기 위해 특정 클래스로 업그레이드하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_BUTTON</Label>
-    <String>새 디자인 시작</String>
+    <String>새 설계 시작</String>
   </StringTable>
   <StringTable>
     <Label>EDIT_DESIGN_BUTTON</Label>
-    <String>선박 디자인 보기</String>
+    <String>함선 설계 보기</String>
   </StringTable>
   <StringTable>
     <Label>NEW_DESIGN_ROLE_VALUE</Label>
@@ -25251,7 +25274,7 @@
   </StringTable>
   <StringTable>
     <Label>Supernova_Generating_Leader_Images</Label>
-    <String>매칭하는 리더 이미지를 검색 중...</String>
+    <String>매칭하는 지도자 이미지를 검색 중...</String>
   </StringTable>
   <StringTable>
     <Label>SuperNova_Research_Candidates_Title</Label>
@@ -25267,15 +25290,15 @@
   </StringTable>
   <StringTable>
     <Label>FIRST_UNHIDE_PLANETWND_Msg</Label>
-    <String>인사드립니다, {LEADERNAME}![BR][BR]{PLANETNAME}의 행성 관리 보기 화면에 오신 것을 환영합니다! 이 화면은 행성의 경제와 개발 잠재력에 대한 개요를 제공합니다.[BR][BR]왼쪽에는 입력, 출력, 거주 대표가 표시됩니다.[BR][BR]중간 부분에는 특정 지구 유형에 전용할 수 있는 사용 가능한 영역 또는 지역이 표시됩니다.[BR][BR]오른쪽에는 행성을 위해 사용 가능한 지구 업그레이드 및 독특한 개선 사항이 나열됩니다.[BR][BR]지역을 선택하여 개선하면, 행성의 다양한 영역에서 출력이 증가합니다:[BR][BR][HS=HS_Manufacturing]제조[/HS]: 선박 건설 및 개선 속도를</String>
+    <String>인사드립니다, {LEADERNAME}![BR][BR]{PLANETNAME}의 행성 관리 보기 화면에 오신 것을 환영합니다! 이 화면은 행성의 경제와 개발 잠재력에 대한 개요를 제공합니다.[BR][BR]왼쪽에는 입력, 출력, 거주 대표가 표시됩니다.[BR][BR]중간 부분에는 특정 지구 유형에 전용할 수 있는 사용 가능한 영역 또는 지역이 표시됩니다.[BR][BR]오른쪽에는 행성을 위해 사용 가능한 지구 업그레이드 및 독특한 개선 사항이 나열됩니다.[BR][BR]지역을 선택하여 개선하면, 행성의 다양한 영역에서 출력이 증가합니다:[BR][BR][HS=HS_Manufacturing]제조[/HS]: 함선 건설 및 개선 속도를</String>
   </StringTable>
   <StringTable>
     <Label>FIRST_UNHIDE_UNITMANAGERWND_Title</Label>
-    <String>리더 관리</String>
+    <String>지도자 관리</String>
   </StringTable>
   <StringTable>
     <Label>FIRST_UNHIDE_UNITMANAGERWND_Msg</Label>
-    <String>인사드립니다, {LEADERNAME}![BR][BR] 리더 모집 센터에 오신 것을 환영합니다! 여기에서는 [HS=HS_Leaders]리더[/HS]들을 모집하고 정부 내에 중요한 역할을 부여할 기회를 가지게 됩니다. 각 리더는 [HS=HS_Minister]장관[/HS], [HS=HS_Governor]지배자[/HS], [HS=HS_Diplomat]외교관[/HS], 또는 [HS=HS_Commander]사령관[/HS] 등 특정 직위에 더 적합하게 만드는 독특한 속성과 특징을 가지고 있습니다.[BR][BR]리더들은 다양한 역할에서 그들의 성능을 향상시키거나 방해할 수 있는 필수적인 통계를 다양하게 가지고 있습니다. 또한, 그들은 보너스를 제공하거나 패널티를 주어 전체 문명에</String>
+    <String>인사드립니다, {LEADERNAME}![BR][BR] 지도자 모집 센터에 오신 것을 환영합니다! 여기에서는 [HS=HS_Leaders]지도자[/HS]들을 모집하고 정부 내에 중요한 역할을 부여할 기회를 가지게 됩니다. 각 지도자는 [HS=HS_Minister]장관[/HS], [HS=HS_Governor]지배자[/HS], [HS=HS_Diplomat]외교관[/HS], 또는 [HS=HS_Commander]사령관[/HS] 등 특정 직위에 더 적합하게 만드는 독특한 속성과 특징을 가지고 있습니다.[BR][BR]지도자들은 다양한 역할에서 그들의 성능을 향상시키거나 방해할 수 있는 필수적인 통계를 다양하게 가지고 있습니다. 또한, 그들은 보너스를 제공하거나 패널티를 주어 전체 문명에</String>
   </StringTable>
   <StringTable>
     <Label>FIRST_UNHIDE_IDEOLOGYWND_Title</Label>
@@ -25307,15 +25330,15 @@
   </StringTable>
   <StringTable>
     <Label>FIRST_UNHIDE_SHIPYARDWND_Msg</Label>
-    <String>인사드립니다 {LEADERNAME}![BR][BR]조선소 화면에 오신 것을 환영합니다! 여기서는 조선소에서 건설할 함선 디자인을 선택하고, 귀하의 문명의 해군 능력을 형성할 수 있습니다.[BR][BR]화면 중앙에는 현재 선택된 [HS=HS_ShipDesign]함선 디자인[/HS]이 나타납니다. 이 함선 디자인 아래에서는 함선을 건설하라는 명령을 내릴 수 있습니다.[BR][BR]오른쪽에는 조선소에서 작업할 수 있는 [HS=HS_Project]가능한 프로젝트[/HS] 목록을 둘러볼 수 있습니다.[BR][BR]가능한 프로젝트에는 다음과 같은 것들이 포함됩니다:[BR][BR][HS=HS_SpecialtyShip]특징적인 함선[/HS]: 새로운 세계를 식</String>
+    <String>인사드립니다 {LEADERNAME}![BR][BR]조선소 화면에 오신 것을 환영합니다! 여기서는 조선소에서 건설할 함선 설계을 선택하고, 귀하의 문명의 해군 능력을 형성할 수 있습니다.[BR][BR]화면 중앙에는 현재 선택된 [HS=HS_ShipDesign]함선 설계[/HS]이 나타납니다. 이 함선 설계 아래에서는 함선을 건설하라는 명령을 내릴 수 있습니다.[BR][BR]오른쪽에는 조선소에서 작업할 수 있는 [HS=HS_Project]가능한 프로젝트[/HS] 목록을 둘러볼 수 있습니다.[BR][BR]가능한 프로젝트에는 다음과 같은 것들이 포함됩니다:[BR][BR][HS=HS_SpecialtyShip]특징적인 함선[/HS]: 새로운 세계를 식</String>
   </StringTable>
   <StringTable>
     <Label>FIRST_UNHIDE_SHIPDESIGNERWND_Title</Label>
-    <String>선박 디자이너</String>
+    <String>함선 설계</String>
   </StringTable>
   <StringTable>
     <Label>FIRST_UNHIDE_SHIPDESIGNERWND_Msg</Label>
-    <String>인사드립니다, {LEADERNAME}![BR][BR]우주선 디자인 화면에 오신 것을 환영합니다! 이곳에서는 클래스를 선택하고, 선체를 고르고, 다양한 구성 요소를 장착하여 여러분의 문명을 위한 맞춤형 우주선 디자인을 만들 수 있습니다.[BR][BR][COLOR=UIDefaultHighlight]우주선 클래스 선택[/COLOR]: 전투기, 전투 순양함, 화물선, 식민지 우주선 등의 클래스를 선택하십시오. 이것이 사용 가능한 선체 옵션을 결정합니다.[BR][BR][COLOR=UIDefaultHighlight]선체 선택[/COLOR]: 선체 크기는 클래스에 해당하며, 우주선에 얼마나 많은 것을 장착할 수 있는지를 결정합니다.[BR][BR]왼쪽에는 두 개의 탭이 있습니다:[BR][BR]##</String>
+    <String>인사드립니다, {LEADERNAME}![BR][BR]우주선 설계 화면에 오신 것을 환영합니다! 이곳에서는 클래스를 선택하고, 선체를 고르고, 다양한 구성 요소를 장착하여 여러분의 문명을 위한 맞춤형 우주선 설계을 만들 수 있습니다.[BR][BR][COLOR=UIDefaultHighlight]우주선 클래스 선택[/COLOR]: 전투기, 전투 순양함, 화물선, 식민지 우주선 등의 클래스를 선택하십시오. 이것이 사용 가능한 선체 옵션을 결정합니다.[BR][BR][COLOR=UIDefaultHighlight]선체 선택[/COLOR]: 선체 크기는 클래스에 해당하며, 우주선에 얼마나 많은 것을 장착할 수 있는지를 결정합니다.[BR][BR]왼쪽에는 두 개의 탭이 있습니다:[BR][BR]##</String>
   </StringTable>
   <StringTable>
     <Label>IdeologyDiscountTooltip</Label>
@@ -25567,6 +25590,6 @@
   </StringTable>
   <StringTable>
     <Label>END_UITEXT</Label>
-    <String>End English UIText</String>
+    <String>End KOREAN UIText</String>
   </StringTable>
 </StringTableList>

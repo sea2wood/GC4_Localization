@@ -8,7 +8,7 @@
   </StringTable>
   <StringTable>
     <Label>Artifacts_DESC</Label>
-    <String>유물은 잃어버린 문명의 강력한 유적입니다. 그들은 드물지만 귀중한 보상을 제공합니다.</String>
+    <String>유물은 잃어버린 문명의 강력한 유물입니다. 그들은 드물지만 귀중한 보상을 제공합니다.</String>
   </StringTable>
   <StringTable>
     <Label>ArtifactAnomaly_Name</Label>
@@ -16,7 +16,7 @@
   </StringTable>
   <StringTable>
     <Label>ArtifactAnomaly_Dec</Label>
-    <String>우리는 우주에서 유물을 발견하고 우리의 조사선으로 그것을 수집했습니다.</String>
+    <String>우리는 우주에서 유물을 발견하고 조사선으로 그것을 수집했습니다.</String>
   </StringTable>
   <StringTable>
     <Label>Anomaly_FinishProjectArtifact_Name</Label>
@@ -24,7 +24,7 @@
   </StringTable>
   <StringTable>
     <Label>Anomaly_FinishProjectArtifact_Dec</Label>
-    <String>이 선구자 유물의 스캔은 특이한 점을 보여주지 않지만, 그 스캔이 가장 가까운 식민지 데이터베이스에 백업되면 이상한 일들이 시작됩니다. 유물 자체의 물리적 구조는 식민지 컴퓨터의 제어를 잡아먹는 자가 실행 코드 형태이며, 이후 곧바로 제조 부문도 장악합니다. 수천 개의 작은 작업봇들이 생산되어 거의 즉시 세계에서 진행 중인 프로젝트를 완료합니다. 그들은 그 다음에 즉시 종료됩니다.</String>
+    <String>이 선구자 유물의 조사가 특이한 점을 보여주지 않지만, 가장 가까운 식민지 데이터베이스에 백업되면 이상한 일들이 시작됩니다. 유물 자체의 물리적 구조는 식민지 컴퓨터의 제어를 잡아먹는 자가 실행 코드 형태이며, 이후 곧바로 제조 부문도 장악합니다. 수천 개의 작은 작업봇들이 생산되어 세계에서 진행 중인 즉시 프로젝트를 완료합니다. 그들은 그 다음에 즉시 종료됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>Anomaly_FinishTechArtifact_Name</Label>
@@ -40,7 +40,7 @@
   </StringTable>
   <StringTable>
     <Label>Anomaly_GetTerraformer_Dec</Label>
-    <String>이 [HS=HS_ArtifactPlanetClass]Chimeric Biomass[/HS] 캡슐은 새로운 세계를 활력을 주기를 희망하며 우주로 발사되었습니다. 원래의 목표를 찾지 못했지만, 이제 우리는 이를 어떤 세계의 생태계를 향상시키기 위해 재사용할 수 있습니다.</String>
+    <String>이 [HS=HS_ArtifactPlanetClass]Chimeric Biomass[/HS] 캡슐은 새로운 세계에 활력을 희망하며 우주로 발사되었습니다. 원래의 목표를 찾지 못했지만, 이제 우리는 이를 어떤 세계의 생태계를 향상시키기 위해 재사용할 수 있습니다.</String>
   </StringTable>
   <StringTable>
     <Label>Anomaly_GetDimensionalSnare_Name</Label>
@@ -104,7 +104,7 @@
   </StringTable>
   <StringTable>
     <Label>ContrabandTech_Dec</Label>
-    <String>우리는 우주에서 떠다니는 신비한 캡슐을 발견했습니다. 그것을 스캔한 후, 우리의 선박에 그것을 옮겼습니다.</String>
+    <String>우리는 우주에서 떠다니는 신비한 캡슐을 발견했습니다. 그것을 조사한 후, 우리의 선박에 그것을 옮겼습니다.</String>
   </StringTable>
   <StringTable>
     <Label>Quest_LostAndFound_Name</Label>

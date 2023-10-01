@@ -12,7 +12,7 @@
   </StringTable>
   <StringTable>
     <Label>DrathaStar_StarName</Label>
-    <String>Drathis</String>
+    <String>드라티스스</String>
   </StringTable>
   <StringTable>
     <Label>ProximaCentauriName</Label>
@@ -20,7 +20,7 @@
   </StringTable>
   <StringTable>
     <Label>AtholName</Label>
-    <String>Athol</String>
+    <String>아톨</String>
   </StringTable>
   <StringTable>
     <Label>Proxima_Centauri_Name</Label>
@@ -28,7 +28,7 @@
   </StringTable>
   <StringTable>
     <Label>Sard_Star_Name</Label>
-    <String>Sard</String>
+    <String>사드</String>
   </StringTable>
   <StringTable>
     <Label>Vale_Star_Name</Label>
