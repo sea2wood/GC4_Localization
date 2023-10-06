@@ -16,7 +16,7 @@
   </StringTable>
   <StringTable>
     <Label>ALERT_PlayerKillMercenary</Label>
-    <String>%s가 용병 %s을 죽였습니다.</String>
+    <String>%s가 용병 %s이 죽였습니다.</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_AsteroidMiningBaseAttacked</Label>
@@ -36,7 +36,7 @@
   </StringTable>
   <StringTable>
     <Label>ALERT_OtherBuiltGalacticAchievement</Label>
-    <String>우리는 %s이 %s 갤럭틱 성과를 만들었다는 소문을 들었습니다.</String>
+    <String>우리는 %s이 %s 은하계에 성과를 만들었다는 소문을 들었습니다.</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_OtherPutStarbaseInTerritory</Label>
@@ -44,7 +44,7 @@
   </StringTable>
   <StringTable>
     <Label>ALERT_OtherBuiltTerrorStar</Label>
-    <String>%s가 테러 스타를 건설했습니다!</String>
+    <String>%s가 테러 별을 건설했습니다!</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_OtherWithdrewFromUP</Label>
@@ -84,15 +84,15 @@
   </StringTable>
   <StringTable>
     <Label>ALERT_ShipyardCannotManufactureShip</Label>
-    <String>%s이(가) 더 이상 %s를 반복 제조하지 않습니다 왜냐하면 %s이(가) 모두 소진되었기 때문입니다.</String>
+    <String>%s이(가) 더 이상 %s를 반복 제조하지 못합니다. %s이(가) 모두 소진되었기 때문입니다.</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_GalacticEventActive</Label>
-    <String>은하계 이벤트 %s이 활성화되었습니다.</String>
+    <String>은하계 이벤트 %s가 활성화되었습니다.</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_GalacticEventActive_Duration</Label>
-    <String>갤럭틱 이벤트 %s가 아직 %ld 턴 동안 활성화됩니다.</String>
+    <String>아직 은하계 이벤트 %s가 %ld 턴 동안 활성화됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>ALERT_ScenarioObjectiveActive</Label>

@@ -8,7 +8,7 @@
   </StringTable>
   <StringTable>
     <Label>Targeting_AbilityName</Label>
-    <String>[ICON=Stat_Temp_Icon] 타겟 스캐너</String>
+    <String>[ICON=Stat_Temp_Icon] 타겟 조사</String>
   </StringTable>
   <StringTable>
     <Label>Jamming_AbilityName</Label>

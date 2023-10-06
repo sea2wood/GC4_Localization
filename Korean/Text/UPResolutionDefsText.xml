@@ -40,7 +40,7 @@
   </StringTable>
   <StringTable>
     <Label>GalaxyUnitedCelebration_Name</Label>
-    <String>갤럭시 유나이티드 축하</String>
+    <String>은하계 유나이티드 축하</String>
   </StringTable>
   <StringTable>
     <Label>GalaxyUnitedCelebration_Dec</Label>
@@ -176,7 +176,7 @@
   </StringTable>
   <StringTable>
     <Label>EnvironmentalProtectionAct_Dec</Label>
-    <String>갤럭시에서 아직 손대지 않은 세상들이 남아있는 것을 보호하려는 시도 중인 연합 행성은 모든 개척을 중단하라는 요청을 합니다. [BR][COLOR=UIDefaultHighlight](회원들은 새로운 행성을 개척할 수 없습니다)[/COLOR]</String>
+    <String>은하계에서 아직 손대지 않은 세상들이 남아있는 것을 보호하려는 시도 중인 연합 행성은 모든 개척을 중단하라는 요청을 합니다. [BR][COLOR=UIDefaultHighlight](회원들은 새로운 행성을 개척할 수 없습니다)[/COLOR]</String>
   </StringTable>
   <StringTable>
     <Label>EnvironmentalProtectionAct_Question</Label>

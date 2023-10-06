@@ -8,7 +8,7 @@
   </StringTable>
   <StringTable>
     <Label>Tutorial1_Description</Label>
-    <String>기본적인 선박 조작과 지도 탐색을 배워서, 당신의 함대를 승리로 이끌어보세요!</String>
+    <String>기본적인 함선 조작과 지도 탐색을 배워서, 당신의 함대를 승리로 이끌어보세요!</String>
   </StringTable>
   <StringTable>
     <Label>Tutorial2_Name</Label>
@@ -36,11 +36,11 @@
   </StringTable>
   <StringTable>
     <Label>Tutorial5_Name</Label>
-    <String>장관 배정 중</String>
+    <String>장관 직책 배정</String>
   </StringTable>
   <StringTable>
     <Label>Tutorial5_Description</Label>
-    <String>당신의 리더들은 다양한 역할에 사용될 수 있습니다. 그들을 사용하여 문명 전체에 보너스를 적용하는 장관 직책을 채우는 방법을 배우세요.</String>
+    <String>당신의 지도자들은 다양한 역할로 배정할수 있습니다. 또한 그들에게 직책을 맡겨 문명 전체에 보너스를 적용하는 방법을 배우세요.</String>
   </StringTable>
   <StringTable>
     <Label>Tutorial6_Name</Label>
@@ -48,6 +48,6 @@
   </StringTable>
   <StringTable>
     <Label>Tutorial6_Description</Label>
-    <String>연구와 경제에 주의 깊게 집중하는 것이 전쟁만큼 중요합니다. 여러분의 문명을 발전시키는 방법을 배우세요.</String>
+    <String>연구와 경제에 신중하게 선택하는 것은 전쟁만큼 중요합니다. 여러분의 문명을 발전시키는 방법을 배우세요.</String>
   </StringTable>
 </StringTableList>

@@ -12,7 +12,7 @@
                     <RangeMax>-2</RangeMax>
                 </RelationsRange>
             </Requirements>
-            <Text>If there is a way to save you we will find it.</Text>
+            <Text>여러분을 구할 방법이 있다면 저희가 찾아낼 것입니다.</Text>
             <PreferenceWeight>10000</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>
@@ -28,7 +28,7 @@
                     <RangeMax>-2</RangeMax>
                 </RelationsRange>
             </Requirements>
-            <Text>We are the {PLAYERFACTION:1}. Our experiments have gone awry.  It has control now.  There is nothing to be done but die. [BR][BR]The {PLAYERFACTION:2} must be destroyed. </Text>
+            <Text>우리는 {PLAYERFACTION:1}입니다. 우리의 실험이 실패했습니다.  이제 그놈이 통제권을 가졌갔습니다.  죽는 것 말고는 방법이 없습니다. [BR][BR]이 {PLAYERFACTION:2}를 파괴해야 합니다.</Text>
             <PreferenceWeight>10000</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>
@@ -44,7 +44,7 @@
                     <RangeMax>-2</RangeMax>
                 </RelationsRange>
             </Requirements>
-            <Text>We will not be erased.</Text>
+            <Text>우리는 사라지지 않습니다.</Text>
             <PreferenceWeight>1000</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>
@@ -60,7 +60,7 @@
                     <RangeMax>-2</RangeMax>
                 </RelationsRange>
             </Requirements>
-            <Text>We are the {PLAYERFACTION:1}. We have come here from an alternate future where the {PLAYERFACTION:2} have destroyed the universe itself.[BR][BR]You must be stopped. Prepare yourselves for destruction.</Text>
+            <Text>우리는 {PLAYERFACTION:1}입니다. 우리는 {PLAYERFACTION:2}가 우주 자체를 파괴한 다른 미래에서 왔습니다. 당신이 저지해야 합니다.[BR][BR]. 멸망에 대비하십시오.</Text>
             <PreferenceWeight>1000</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>
@@ -75,7 +75,7 @@
                     <RangeMax>-2</RangeMax>
                 </RelationsRange>
             </Requirements>
-            <Text>You should go back to your tree, rodent.</Text>
+            <Text>나무로 돌아가야지, 쥐새끼야.</Text>
             <PreferenceWeight>1000</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>
@@ -91,7 +91,7 @@
                     <RangeMax>-2</RangeMax>
                 </RelationsRange>
             </Requirements>
-            <Text>Your doom is at hand. We are the {PLAYERFACTION:1}. [BR][BR]We will rid the galaxy of all sub-Sciuridae filth. </Text>
+            <Text>당신의 멸망이 목전에 다가왔습니다. 우리는 {PLAYERFACTION:1}입니다. [BR][BR]우리는 은하계에서 시우리대 이하의 모든 오염물을 제거할 것이다.</Text>
             <PreferenceWeight>1000</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>
@@ -106,7 +106,7 @@
                     <RangeMax>-2</RangeMax>
                 </RelationsRange>
             </Requirements>
-            <Text>You should have stayed dead.</Text>
+            <Text>넌 그냥 죽었어야 했어.</Text>
             <PreferenceWeight>1000</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>
@@ -122,7 +122,7 @@
                     <RangeMax>-2</RangeMax>
                 </RelationsRange>
             </Requirements>
-            <Text>[COLOR=UIDefaultHighlight](A scrambled tranmission arrives)[/COLOR][BR][BR]The galaxy thought we were dead.  You will soon learn how wrong they were. Prepare for death. </Text>
+            <Text>[COLOR=UIDefaultHighlight]( 조각난 전파가 수신됩니다)[/COLOR][BR][BR]은하계는 우리 인류가 죽었다고 생각했습니다. 곧 그들이 얼마나 틀렸는지 알게 될 것입니다. 최후의 준비를 하십시오.</Text>
             <PreferenceWeight>1000</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>

@@ -16,7 +16,7 @@
   </StringTable>
   <StringTable>
     <Label>Tutorial_Player_Title</Label>
-    <String>플레이하기</String>
+    <String>게임 시작</String>
   </StringTable>
   <StringTable>
     <Label>Tutorial_Opponents_Title</Label>

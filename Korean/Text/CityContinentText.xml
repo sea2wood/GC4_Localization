@@ -8,49 +8,49 @@
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>New Bronze</Text>
+            <Text>새 브론즈</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>Troy</Text>
+            <Text>트로이</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>Plymouth</Text>
+            <Text>플리머스</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Agartha</Text>
+            <Text>아가르타</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Arcadia</Text>
+            <Text>아카디아</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Baltia</Text>
+            <Text>발티아</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Cibola</Text>
+            <Text>시볼라</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Jotunheim</Text>
+            <Text>요툰헤임</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Paititi</Text>
+            <Text>파이티티</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Zerzura</Text>
+            <Text>제르주라</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>
@@ -60,47 +60,47 @@
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>Antarctica</Text>
+            <Text>남극대륙</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>North America</Text>
+            <Text>북아메리카</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>South America</Text>
+            <Text>남아메리카</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>Africa</Text>
+            <Text>아프리카</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>Asia</Text>
+            <Text>아시아</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Lemuria</Text>
+            <Text>레뮤리아</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Mauritia</Text>
+            <Text>모리셔스</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
-            <Text>Mu</Text>
+            <Text>무</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
     </FlavorTextDef>

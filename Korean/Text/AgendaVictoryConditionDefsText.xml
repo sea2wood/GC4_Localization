@@ -8,7 +8,7 @@
   </StringTable>
   <StringTable>
     <Label>AgendaVictoryConditionDef_None_Desc</Label>
-    <String>여기에 볼 것이 없습니다.</String>
+    <String>여기에는 볼 것이 없습니다.</String>
   </StringTable>
   <StringTable>
     <Label>AgendaVictoryConditionDef_DefeatRandomAIPlayer_Name</Label>
@@ -24,7 +24,7 @@
   </StringTable>
   <StringTable>
     <Label>AgendaVictoryConditionDef_ClaimRelics_Name</Label>
-    <String>선조의 유물을 주장하십시오.</String>
+    <String>선조의 유물을 획득하십시오.</String>
   </StringTable>
   <StringTable>
     <Label>AgendaVictoryConditionDef_ClaimRelics_Desc</Label>

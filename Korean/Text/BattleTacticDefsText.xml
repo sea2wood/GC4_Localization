@@ -8,7 +8,7 @@
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Balanced_Description</Label>
-    <String>보너스, 패널티, 또는 전투 시간의 변동이 없습니다.</String>
+    <String>보너스, 패널티, 또는 전투 시간 변화가 없습니다.</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Assault_Name</Label>
@@ -24,7 +24,7 @@
   </StringTable>
   <StringTable>
     <Label>BattleTactic_DefensiveFire_Description</Label>
-    <String>-50% 공격력, +50% 방어력. 군단에 대한 피해를 최소화하려 할 때 유용합니다.</String>
+    <String>-50% 공격력, +50% 방어력. 군단에 대한 피해를 최소화 할 때 유용합니다.</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Retreat_Name</Label>
@@ -32,7 +32,7 @@
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Retreat_Description</Label>
-    <String>함대는 전혀 공격하지 않습니다; 전투는 절반만큼만 지속됩니다.</String>
+    <String>함대는 전혀 공격하지 않습니다; 전투는 절반정도 지속됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_NoComingBack_Name</Label>
@@ -40,7 +40,7 @@
   </StringTable>
   <StringTable>
     <Label>BattleTactic_NoComingBack_Description</Label>
-    <String>적 함선에 자살적으로 충돌하려는 시도로 죽음에 가까운 함선들.</String>
+    <String>적 함선에 자살적으로 충돌하려는 죽음에 가까운 함선들.</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Capture_Name</Label>
@@ -56,30 +56,30 @@
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Skirmish_Description</Label>
-    <String>선박들은 죽을 것 같을 때까지 공격한 다음 전투에서 도망치려고 합니다.</String>
+    <String>함선들이 죽을 때까지 공격한 후 전투에서 도망치려고 합니다.</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_StandFirm_Name</Label>
-    <String>단단히 서라</String>
+    <String>견고하게 서기</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_StandFirm_Description</Label>
-    <String>선박들이 위치를 유지하고 무기 범위가 +50% 증가합니다.</String>
+    <String>함선들이 위치를 유지하며 무기 범위가 +50% 증가합니다.</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Surround_Name</Label>
-    <String>둘러싸다</String>
+    <String>둘러쌈</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Surround_Description</Label>
-    <String>-25% 방어력. 공격하는 함선들이 방어 함대 주변에 배치되어 탈출을 방해합니다. 전투는 두 배로 오래 지속됩니다.</String>
+    <String>-25% 방어력. 공격하는 함선들이 방어 함대 주변에 배치되어 탈출을 방해합니다. 전투는 두 배로 지속됩니다.</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Swarm_Name</Label>
-    <String>스웜</String>
+    <String>무</String>
   </StringTable>
   <StringTable>
     <Label>BattleTactic_Swarm_Description</Label>
-    <String>선박들은 공격하는 동안에는 대형을 유지하려고 시도하지 않습니다.</String>
+    <String>함선들은 공격하는 동안에는 대형을 유지하려고 시도하지 않습니다.</String>
   </StringTable>
 </StringTableList>
